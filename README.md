@@ -1,2 +1,4 @@
-# governance
-OpenFeature project governance
+# OpenFeature project governance
+
+> :warning: Details are coming soon!
+
