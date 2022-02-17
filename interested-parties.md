@@ -23,4 +23,4 @@ List of companies, organizations, foundations and other groups that declared int
 
 Organization | Website link | Contact Email/Information | Testimonial/case study link
 -- | -- | -- | --
-Dynatrace | [dynatrace.com](https://www.dynatrace.com/) | `open-source at dynatrace.com` | N/A |
+Dynatrace | [dynatrace.com](https://www.dynatrace.com/) | `opensource at dynatrace.com` | N/A |
