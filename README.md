@@ -18,7 +18,7 @@ New initiatives for the roadmap will be marked as `roadmap-proposal` by a mainta
 
 All contributors are welcome!
 Please see the contributing guidelines
-[here](https://github.com/openfeatureflags/.github/blob/main/CONTRIBUTING.md).
+[here](https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md).
 
 ### Contributing prerequisites (CLA/DCO)
 
