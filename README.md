@@ -8,11 +8,10 @@ until the final governance process is identified.
 
 > :warning: This is a temporary (aka bootstrap) governance document that
 > is effective until the project is fully established.
-> A final process 
 
 ## Project manifesto
 
-### Our goal
+### Goal
 
 Our goal is to create an open standard for feature flag management to support a robust feature flag ecosystem using cloud native technologies.
 
@@ -20,23 +19,23 @@ Our goal is to create an open standard for feature flag management to support a 
 
 The scope includes but not limited to:
 
-- An **open standard** that allows adopters and vendors to easily integrate with spec-compliant feature flag solutions
+- An **open standard** that allows adopters and vendors to easily integrate with a spec-compliant feature flag solutions
 - Creating a **vendor-agnostic ecosystem** supported by the CNCF that provide a seamless experience for developers, SREs, and vendors
-- Providing Unified API and SDK;
-- Developer-first, cloud-native reference implementation; 
-- Ensuring extensibility for open source and commercial offerings.
+- Unified API and SDK
+- Developer-first, cloud-native reference implementation
+- Extensibility for open source and commercial offerings
 
 ### Why OpenFeature?
 
 There are many existing solutions, open source or not.
-Unfortunately they lack key features needed for wide adoption
+Unfortunately, they lack key features needed for wide adoption
 by companies and in the open source ecosystem:
 
 - **Many SDKs** doing the same thing, but slightly differently
-- Many companies **“rebuilding” the wheel**
+- Many companies **"rebuilding the wheel"**
 - SDKs are generally open source but have no ecosystem
-- **“Vendor” lock-in** at code-level
-- **No collaboration** across vendors. 
+- **Vendor lock-in** at code-level
+- **No collaboration** across vendors 
 - **Missing integration** with observability tools (e.g. OpenTelemetry)
 
 ### Project Differentiators
