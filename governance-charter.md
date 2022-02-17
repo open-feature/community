@@ -7,11 +7,6 @@ until the final governance process is identified.
 > is effective until the project is fully established.
 > See [this issue](https://github.com/open-feature/governance/issues/11) for the scope of the full governance document.
 
-## CNCF membership
-
-Our goal is to join the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) as a sandbox project shortly after the inception of OpenFeature.
-Should it be accepted, the project will establish governance along with the CNCF recommended practices.
-
 ## Governing Committee
 
 In March 2022 _Project Maintainers_ will assign seven individuals to be members of the _Bootstrap Governing Committee_.

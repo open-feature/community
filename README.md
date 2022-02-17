@@ -5,14 +5,12 @@
 
 ## Welcome to the OpenFeature community!
 
-If you are interested to be informed about the project or to contribute, sign-up for news and share your expectations using [this Google Form](https://bit.ly/openfeature-signup). This form collects contact emails and also offers opportunities to share your expectations for the project. We will contact you soon.
-
-Also feel free to add yourself and/or your organization to [Interested Parties](./interested-parties.md). This is a public listing for those individual and company contributors who declared their interest in the project.
+If you are interested to be informed about the project or to contribute, feel free to add yourself and/or your organization to [Interested Parties](./interested-parties.md).
 
 ## Roadmap
 
 The project roadmap is available [here](https://github.com/orgs/open-feature/projects/1).
-New initiatives for the roadmap can be suggested via marking an issue as `roadmap-proposal` and then reaching a community decision as documented in _Decision Making_.
+New initiatives for the roadmap will be marked as `roadmap-proposal` by a maintainer. A community decision will then be made as documented in [Decision Making](./governance-charter.md#decision-making).
 
 - [Pending roadmap suggestions](https://github.com/search?q=org%3Aopen-feature+label%3Aroadmap-proposal&type=issues)
 
@@ -28,6 +26,11 @@ At the moment the project does not define a
 Contributor License Agreement or 
 [Developer Certificate of Origin (DCO)](https://wiki.linuxfoundation.org/dco).
 By submitting pull requests submitters acknowledge they grant the [Apache License v2](./LICENSE) to the code and that they are eligible to grant this license for all commits submitted in their pull requests.
+
+## Governance
+
+Our goal is to join the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) as a sandbox project shortly after the inception of OpenFeature.
+Should it be accepted, the project will establish governance following CNCF recommended practices. Until then, a temporary governance charter can be found [here](./governance-charter.md).
 
 ## Code of Conduct
 
