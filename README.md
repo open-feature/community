@@ -8,6 +8,7 @@ until the final governance process is identified.
 
 > :warning: This is a temporary (aka bootstrap) governance document that
 > is effective until the project is fully established.
+> See [this issue](https://github.com/openfeatureflags/governance/issues/11) for the scope of the full governance document.
 
 ## Project manifesto
 
@@ -20,10 +21,11 @@ Our goal is to create an open standard for feature flag management to support a 
 The scope includes but not limited to:
 
 - An **open standard** that allows adopters and vendors to easily integrate with a spec-compliant feature flag solutions
-- Creating a **vendor-agnostic ecosystem** supported by the CNCF that provide a seamless experience for developers, SREs, and vendors
+- A **vendor-agnostic ecosystem** for users, application developers, SREs, and vendors
 - Unified API and SDK
 - Developer-first, cloud-native reference implementation
 - Extensibility for open source and commercial offerings
+- Adoption by the open source and proprietary projects listed on the [Cloud Native Landscape](https://landscape.cncf.io/)
 
 ### Why OpenFeature?
 
@@ -54,7 +56,6 @@ This project is more than just copy and paste of existing solutions
 The project roadmap is available [here](https://github.com/orgs/openfeatureflags/projects/1).
 New initiatives for the roadmap can be suggested via marking an issue as `roadmap-proposal` and then reaching a community decision as documented in _Decision Making_.
 
-- [Initiatives on the project roadmap](https://github.com/search?q=org%3Aopenfeatureflags+label%3Aroadmap&type=issues)
 - [Pending roadmap suggestions](https://github.com/search?q=org%3Aopenfeatureflags+label%3Aroadmap-proposal&type=issues)
 
 ## Decision making
@@ -65,7 +66,7 @@ the decision can be made by the plain majority of founding members.
 
 <!-- TODO: List founding members or delegate the decision to CDF TAG App Delivery or another entity -->
 
-Key discussions and decisions should happen asynchronously in communication channels like GitHub Issues, pull requests and project chats.
+Key discussions and decisions should happen asynchronously in communication channels like GitHub Issues, discussions or pull requests.
 Technical decisions are expected to be documented in the
 [OpenFeature Specification](https://github.com/openfeatureflags/spec).
 The community decisions should be documented in this Governance repository.
