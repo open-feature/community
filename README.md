@@ -30,15 +30,19 @@ The scope includes but not limited to:
 ### Why OpenFeature?
 
 There are many existing solutions, open source or not.
-Unfortunately, they lack key features needed for wide adoption
-by companies and in the open source ecosystem:
+In the industry there are multiple common issues limiting wide adoption:
 
 - **Many SDKs** doing the same thing, but slightly differently
-- Many companies **"rebuilding the wheel"**
 - SDKs are generally open source but have no ecosystem
-- **Vendor lock-in** at code-level
-- **No collaboration** across vendors 
+- **Different APIs** in implementations, hence it is difficult to migrate between them
+- **Limited interoperability** across implentations 
 - **Missing integration** with observability tools (e.g. OpenTelemetry)
+
+## CNCF membership
+
+Our goal is to join the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) as a sandbox project shortly after the inception of OpenFeature.
+Should it be accepted, the project will establish governance along with the CNCF best practices, 
+and then target reaching the incubating and graduated statuses in the foundation.
 
 ### Project Differentiators
 
@@ -49,7 +53,7 @@ This project is more than just copy and paste of existing solutions
 * Config in Feature Flagging tools that are **separate from the rest of the app** make it harder to use approaches like GitOps. 
 * Config and rule changes are **hard to integrate into observability** tools 
 * Information to decide on features already available in observability tools is **not leveraged and collected twice**
-* No **agreed on grammar/structure** for rules which could be automatically validated (e.g. with CUE)
+* No standardized format for defining feature flagging rules
 
 ## Roadmap
 
