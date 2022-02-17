@@ -13,7 +13,7 @@ Organizations must specify a contact email and ensure it is kept up to date.
 Person | Organization | Other Affiliations | GitHub Username | Gitlab Username
 -- | -- | -- | -- | --
 Michael Beemer | Dynatrace | | [beeme1mr](https://github.com/beeme1mr) | [beeme1mr](https://gitlab.com/beeme1mr)
-Oleg Nenashev | Dynatrace | CDF, Jenkins, Keptn, FOSSi | [oleg-nenashev](https://github.com/oleg-nenashev) | N/A
+Oleg Nenashev | Dynatrace | CDF, Jenkins, Keptn, FOSSi, API Neuchatel | [oleg-nenashev](https://github.com/oleg-nenashev) | [oleg-nenashev](https://gitlab.com/oleg-nenashev)
 Alex Jones | Canonical | TAG App Delivery, CDF | [alexsjones](https://github.com/AlexsJones) | N/A
 Kevin Chu | GitLab |  | [kbychu](https://github.com/kbychu) | [kbychu](https://gitlab.com/kbychu)
 Mitch Connors | Google | Istio, cobra | [therealmitchconnors](https://github.com/therealmitchconnors) | N/A
