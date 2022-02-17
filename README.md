@@ -35,7 +35,7 @@ In the industry there are multiple common issues limiting wide adoption:
 - **Many SDKs** doing the same thing, but slightly differently
 - SDKs are generally open source but have no ecosystem
 - **Different APIs** in implementations, hence it is difficult to migrate between them
-- **Limited interoperability** across implentations 
+- **Limited interoperability** across implementations
 - **Missing integration** with observability tools (e.g. OpenTelemetry)
 
 ## CNCF membership
