@@ -14,3 +14,5 @@ Names added to this file should be in the following format:
 * Michael Beemer, @beeme1mr, Dynatrace
 * Alois Reitbauer, @AloisReitbauer, Dynatrace/CNCF/Keptn
 * Oleg Nenashev, @oleg-nenashev, Dynatrace/CDF/Jenkins/Keptn
+
+GitHub team: `@open-feature/maintainers`
