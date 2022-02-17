@@ -66,6 +66,7 @@ New initiatives for the roadmap can be suggested via marking an issue as `roadma
 
 In March 2022 _Project Maintainers_ will assign seven individuals to be members of the _Bootstrap Governing Committee_.
 This is a **temporary** arrangement that should be replaced by an elected governing body before March 2024. 
+At least 3 governing board members should be elected by March 2023.
 
 The _Bootstrap Governing Committee_ is responsible for
 representing the project, 
