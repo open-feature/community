@@ -17,6 +17,7 @@ Oleg Nenashev | Dynatrace | CDF, Jenkins, Keptn, FOSSi | [oleg-nenashev](https:/
 Alex Jones | Canonical | TAG App Delivery, CDF | [alexsjones](https://github.com/AlexsJones) | N/A
 Kevin Chu | GitLab |  | [kbychu](https://github.com/kbychu) | [kbychu](https://gitlab.com/kbychu)
 Mitch Connors | Google | Istio, cobra | [therealmitchconnors](https://github.com/therealmitchconnors) | N/A
+Alois Reitbauer | Dynatrace | CNCF TAG AppDelivery, Keptn | [Alois Reitbauer](https://github.com/AloisReitbauer) | N/A
 
 ## Interested organizations
 
