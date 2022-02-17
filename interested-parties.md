@@ -16,6 +16,7 @@ Michael Beemer | Dynatrace | | [beeme1mr](https://github.com/beeme1mr) | [beeme1
 Oleg Nenashev | Dynatrace | CDF, Jenkins, Keptn, FOSSi | [oleg-nenashev](https://github.com/oleg-nenashev) | N/A
 Alex Jones | Canonical | TAG App Delivery, CDF | [alexsjones](https://github.com/AlexsJones) | N/A
 Kevin Chu | GitLab |  | [kbychu](https://github.com/kbychu) | [kbychu](https://gitlab.com/kbychu)
+Mitch Connors | Google | Istio, cobra | [therealmitchconnors](https://github.com/therealmitchconnors) | N/A
 
 ## Interested organizations
 
