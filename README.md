@@ -1,4 +1,4 @@
-# OpenFeature project governance
+# OpenFeature Community
 
 > :warning: Details are coming soon!
 
