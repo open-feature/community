@@ -18,6 +18,7 @@ Alex Jones | Canonical | TAG App Delivery, CDF | [alexsjones](https://github.com
 Kevin Chu | GitLab |  | [kbychu](https://github.com/kbychu) | [kbychu](https://gitlab.com/kbychu)
 Mitch Connors | Google | Istio, cobra | [therealmitchconnors](https://github.com/therealmitchconnors) | N/A
 Alois Reitbauer | Dynatrace | CNCF TAG AppDelivery, Keptn | [Alois Reitbauer](https://github.com/AloisReitbauer) | N/A
+Ben Rometsch | Flagsmith |  | [dabeeeenster](https://github.com/dabeeeenster) | [dabeeeenster](https://gitlab.com/dabeeeenster)
 
 ## Interested organizations
 
@@ -26,3 +27,4 @@ List of companies, organizations, foundations and other groups that declared int
 Organization | Website link | Contact Email/Information | Testimonial/case study link
 -- | -- | -- | --
 Dynatrace | [dynatrace.com](https://www.dynatrace.com/) | `opensource at dynatrace.com` | N/A |
+Flagsmith | [flagsmith.com](https://flagsmith.com/) | `support at flagsmith.com` | N/A |
