@@ -19,6 +19,7 @@ Kevin Chu | GitLab |  | [kbychu](https://github.com/kbychu) | [kbychu](https://g
 Mitch Connors | Google | Istio, cobra | [therealmitchconnors](https://github.com/therealmitchconnors) | N/A
 Alois Reitbauer | Dynatrace | CNCF TAG AppDelivery, Keptn | [Alois Reitbauer](https://github.com/AloisReitbauer) | N/A
 Ben Rometsch | Flagsmith |  | [dabeeeenster](https://github.com/dabeeeenster) | [dabeeeenster](https://gitlab.com/dabeeeenster)
+Michael Friedrich | GitLab | | [dnsmichi](https://github.com/dnsmichi) | [dnsmichi](https://gitlab.com/dnsmichi)
 
 ## Interested organizations
 
