@@ -33,3 +33,4 @@ Organization | Website link | Contact Email/Information | Testimonial/case study
 -- | -- | -- | --
 Dynatrace | [dynatrace.com](https://www.dynatrace.com/) | `opensource at dynatrace.com` | N/A |
 Flagsmith | [flagsmith.com](https://flagsmith.com/) | `support at flagsmith.com` | N/A |
+GitLab | [gitlab.com](https://gitlab.com/) | [Contact GitLab Support](https://about.gitlab.com/support/#contact-support) | N/A |
