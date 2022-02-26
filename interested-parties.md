@@ -24,6 +24,7 @@ Mitch Connors | Google | Istio, cobra | [therealmitchconnors](https://github.com
 Alois Reitbauer | Dynatrace | CNCF TAG AppDelivery, Keptn | [Alois Reitbauer](https://github.com/AloisReitbauer) | N/A
 Ben Rometsch | Flagsmith |  | [dabeeeenster](https://github.com/dabeeeenster) | [dabeeeenster](https://gitlab.com/dabeeeenster)
 Michael Friedrich | GitLab | | [dnsmichi](https://github.com/dnsmichi) | [dnsmichi](https://gitlab.com/dnsmichi)
+Stephen Augustus | Cisco | CNCF, OpenSSF, Inclusive Naming Initiative, TODO Group, Kubernetes, Dex | [justaugustus](https://github.com/justaugustus) | [justaugustus](https://gitlab.com/justaugustus)
 
 ## Interested organizations
 
@@ -31,6 +32,7 @@ List of companies, organizations, foundations and other groups that declared int
 
 Organization | Website link | Contact Email/Information | Testimonial/case study link
 -- | -- | -- | --
+Cisco | [opensource.cisco.com](https://opensource.cisco.com/) | `augustus at cisco.com` | N/A |
 Dynatrace | [dynatrace.com](https://www.dynatrace.com/) | `opensource at dynatrace.com` | N/A |
 Flagsmith | [flagsmith.com](https://flagsmith.com/) | `support at flagsmith.com` | N/A |
 GitLab | [gitlab.com](https://gitlab.com/) | [Contact GitLab Support](https://about.gitlab.com/support/#contact-support) | N/A |
