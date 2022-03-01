@@ -25,6 +25,7 @@ Alois Reitbauer | Dynatrace | CNCF TAG AppDelivery, Keptn | [Alois Reitbauer](ht
 Ben Rometsch | Flagsmith |  | [dabeeeenster](https://github.com/dabeeeenster) | [dabeeeenster](https://gitlab.com/dabeeeenster)
 Michael Friedrich | GitLab | | [dnsmichi](https://github.com/dnsmichi) | [dnsmichi](https://gitlab.com/dnsmichi)
 Stephen Augustus | Cisco | CNCF, OpenSSF, Inclusive Naming Initiative, TODO Group, Kubernetes, Dex | [justaugustus](https://github.com/justaugustus) | [justaugustus](https://gitlab.com/justaugustus)
+Michael Winkler | Dynatrace | | [miigwi](https://github.com/miigwi) | 
 
 ## Interested organizations
 
