@@ -1,5 +1,7 @@
 # OpenFeature Community
 
+[![Join us!](https://img.shields.io/static/v1?label=Join%20us%21&message=links&color=blue)](https://open-feature.github.io/home/participate/)
+[![Chat on Slack](https://img.shields.io/static/v1?label=Chat&message=on%20Slack&color=yellow)](https://open-feature.github.io/home/participate/#slack)
 [![Roadmap](https://img.shields.io/static/v1?label=Roadmap&message=public&color=green)](https://github.com/orgs/open-feature/projects/1)
 [![Contributing](https://img.shields.io/static/v1?label=Contributing&message=guide&color=blue)](https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md)
 
