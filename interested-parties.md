@@ -1,7 +1,7 @@
 # Interested Parties
 
 This page lists individual and organization stakeholders who declared their interest in the project.
-Being an _Interested Party_ does **NOT** imply any committment to dedicate time to the project or to adopt OpenFeature.
+Being an _Interested Party_ does **NOT** imply any commitment to dedicate time to the project or to adopt OpenFeature.
 
 ## Participating
 
