@@ -21,6 +21,7 @@ Alex Jones | Canonical | TAG App Delivery, CDF | [alexsjones](https://github.com
 Alois Reitbauer | Dynatrace | CNCF TAG AppDelivery, Keptn | [Alois Reitbauer](https://github.com/AloisReitbauer) | N/A
 Ben Rometsch | Flagsmith |  | [dabeeeenster](https://github.com/dabeeeenster) | [dabeeeenster](https://gitlab.com/dabeeeenster)
 Daniel Dyla | Dynatrace | OpenTelemetry | [dyladan](https://github.com/dyladan) | N/A
+Justin Abrahms | eBay | CDF, TODO | [justinabrahms](https://github.com/justinabrahms) | [justinabrahms](https://gitlab.com/justinabrahms)
 Kevin Chu | GitLab |  | [kbychu](https://github.com/kbychu) | [kbychu](https://gitlab.com/kbychu)
 Max Körbächer | Liqud Reply | Kubernetes | [mkorbi](https://github.com/mkorbi) | N/A
 Michael Beemer | Dynatrace | | [beeme1mr](https://github.com/beeme1mr) | [beeme1mr](https://gitlab.com/beeme1mr)
