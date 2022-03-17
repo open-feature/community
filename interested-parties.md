@@ -31,6 +31,7 @@ Mitch Connors | Google | Istio, cobra | [therealmitchconnors](https://github.com
 Oleg Nenashev | Dynatrace | CDF, Jenkins, Keptn, FOSSi, API Neuchatel | [oleg-nenashev](https://github.com/oleg-nenashev) | [oleg-nenashev](https://gitlab.com/oleg-nenashev)
 Stephen Augustus | Cisco | CNCF, OpenSSF, Inclusive Naming Initiative, TODO Group, Kubernetes, Dex | [justaugustus](https://github.com/justaugustus) | [justaugustus](https://gitlab.com/justaugustus)
 Steve Arch | CloudBees | | [agentgonzo](https://github.com/agentgonzo) | N/A
+Patricio Echague | Split.io | | [patricioe](https://github.com/patricioe) | N/A
 
 ## Interested organizations
 
@@ -42,3 +43,4 @@ Cisco | [opensource.cisco.com](https://opensource.cisco.com/) | `augustus at cis
 Dynatrace | [dynatrace.com](https://www.dynatrace.com/) | `opensource at dynatrace.com` | N/A |
 Flagsmith | [flagsmith.com](https://flagsmith.com/) | `support at flagsmith.com` | N/A |
 GitLab | [gitlab.com](https://gitlab.com/) | [Contact GitLab Support](https://about.gitlab.com/support/#contact-support) | N/A |
+Split.io | [split.io](https://split.io/) | `support at split.io` | N/A |
