@@ -29,9 +29,9 @@ Michael Friedrich | GitLab | | [dnsmichi](https://github.com/dnsmichi) | [dnsmic
 Michael Winkler | Dynatrace | | [miigwi](https://github.com/miigwi) | N/A
 Mitch Connors | Google | Istio, cobra | [therealmitchconnors](https://github.com/therealmitchconnors) | N/A
 Oleg Nenashev | Dynatrace | CDF, Jenkins, Keptn, FOSSi, API Neuchatel | [oleg-nenashev](https://github.com/oleg-nenashev) | [oleg-nenashev](https://gitlab.com/oleg-nenashev)
+Patricio Echague | Split.io | | [patricioe](https://github.com/patricioe) | N/A
 Stephen Augustus | Cisco | CNCF, OpenSSF, Inclusive Naming Initiative, TODO Group, Kubernetes, Dex | [justaugustus](https://github.com/justaugustus) | [justaugustus](https://gitlab.com/justaugustus)
 Steve Arch | CloudBees | | [agentgonzo](https://github.com/agentgonzo) | N/A
-Patricio Echague | Split.io | | [patricioe](https://github.com/patricioe) | N/A
 
 ## Interested organizations
 
