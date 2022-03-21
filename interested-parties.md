@@ -32,6 +32,7 @@ Oleg Nenashev | Dynatrace | CDF, Jenkins, Keptn, FOSSi, API Neuchatel | [oleg-ne
 Patricio Echague | Split.io | | [patricioe](https://github.com/patricioe) | N/A
 Stephen Augustus | Cisco | CNCF, OpenSSF, Inclusive Naming Initiative, TODO Group, Kubernetes, Dex | [justaugustus](https://github.com/justaugustus) | [justaugustus](https://gitlab.com/justaugustus)
 Steve Arch | CloudBees | | [agentgonzo](https://github.com/agentgonzo) | N/A
+Todd Baert | Dynatrace | ISC2 | [toddbaert](https://github.com/toddbaert)
 
 ## Interested organizations
 
