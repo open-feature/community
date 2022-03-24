@@ -34,6 +34,7 @@ Stephen Augustus | Cisco | CNCF, OpenSSF, Inclusive Naming Initiative, TODO Grou
 Steve Arch | CloudBees | | [agentgonzo](https://github.com/agentgonzo) | N/A
 Todd Baert | Dynatrace | ISC2 | [toddbaert](https://github.com/toddbaert) | N/A
 Renjith Pillai | SAP | | [vrenjith](https://github.com/vrenjith) | N/A
+Dan O'Brien | LaunchDarkly | | [intheclouddan](https://github.com/intheclouddan) | N/A
 
 ## Interested organizations
 
@@ -45,4 +46,5 @@ Cisco | [opensource.cisco.com](https://opensource.cisco.com/) | `augustus at cis
 Dynatrace | [dynatrace.com](https://www.dynatrace.com/) | `opensource at dynatrace.com` | N/A |
 Flagsmith | [flagsmith.com](https://flagsmith.com/) | `support at flagsmith.com` | N/A |
 GitLab | [gitlab.com](https://gitlab.com/) | [Contact GitLab Support](https://about.gitlab.com/support/#contact-support) | N/A |
+LaunchDarkly | [launchdarkly.com](https://launchdarkly.com) | `support at launchdarkly.com` | N/A |
 Split.io | [split.io](https://split.io/) | `support at split.io` | N/A |
