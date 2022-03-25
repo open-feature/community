@@ -51,4 +51,4 @@ List of companies, organizations, foundations and other groups that declared int
 | LaunchDarkly | [launchdarkly.com](https://launchdarkly.com)          | `support at launchdarkly.com`                                               | N/A                         |
 | Split.io     | [split.io](https://split.io/)                         | `support at split.io`                                                       | N/A                         |
 
-_Sorted alphabetically by company name_
+_Sorted alphabetically by organization_
