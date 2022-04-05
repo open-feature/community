@@ -9,7 +9,7 @@ until the final governance process is identified.
 
 ## Governing Committee
 
-In March 2022 _Project Maintainers_ will assign seven individuals to be members of the _Bootstrap Governing Committee_.
+In April 2022 _Project Maintainers_ will assign seven individuals to be members of the _Bootstrap Governing Committee_.
 This is a **temporary** arrangement that should be replaced by an elected governing body before March 2024. 
 At least 3 governing board members should be elected by March 2023.
 
@@ -86,7 +86,7 @@ including but not limited to contributor companies, adopters, vendors and founda
 Apart from the representative role,
 they can make a final decision when a consensus cannot be reached.
 
-In March 2022 this role will be assigned by project maintainers to **seven** individuals listed in [Interested Parties](./interested-parties.md).
+In April 2022 this role will be assigned by project maintainers to **seven** individuals listed in [Interested Parties](./interested-parties.md).
 Each company/organization should have less than 50% of the seats,
 and hence an organization can have only up to three seats.
 The project maintainers are also responsible to review their nominations with the community,
