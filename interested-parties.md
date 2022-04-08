@@ -53,5 +53,6 @@ List of companies, organizations, foundations and other groups that declared int
 | GitLab       | [gitlab.com](https://gitlab.com/)                     | [Contact GitLab Support](https://about.gitlab.com/support/#contact-support) | N/A                         |
 | LaunchDarkly | [launchdarkly.com](https://launchdarkly.com)          | `support at launchdarkly.com`                                               | N/A                         |
 | Split.io     | [split.io](https://split.io/)                         | `support at split.io`                                                       | N/A                         |
+| Unleash   | [Unleash](https://www.getunleash.io/)                    | `contact at getunleash.io`                                                  | N/A                         |
 
 _Sorted alphabetically by organization_
