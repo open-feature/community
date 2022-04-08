@@ -10,11 +10,11 @@ until the final governance process is identified.
 ## Governing Committee
 
 In April 2022 _Project Maintainers_ will assign seven individuals to be members of the _Bootstrap Governing Committee_.
-This is a **temporary** arrangement that should be replaced by an elected governing body before March 2024. 
+This is a **temporary** arrangement that should be replaced by an elected governing body before March 2024.
 At least 3 governing board members should be elected by March 2023.
 
 The _Bootstrap Governing Committee_ is responsible for
-representing the project, 
+representing the project,
 making a final decision if a consensus cannot be reached (see _Decision Making_),
 handling the Code of Conduct escalations,
 defining and approving with the project members the final governance model,
@@ -35,7 +35,7 @@ The community decisions should be documented in this Governance repository.
 
 ## Meetings
 
-The project conducts [regular project meetings](https://open-feature.github.io/home/participate/#project-meetings) 
+The project conducts [regular project meetings](https://openfeature.dev/home/participate/#project-meetings)
 hosted by its maintainers and contributors.
 These meetings are used as additional discussion and consensus building
 but not for making decisions without prior discussion in async channels.
@@ -79,7 +79,7 @@ In addition to the elected maintainer roles,
 #### Bootstrap Governance Committee Members
 
 > :warning: This is a **temporary role** while the bootstrap governance is active.
-In the future this role will be replaced by an elected _Governance Committee Member_ role.
+> In the future this role will be replaced by an elected _Governance Committee Member_ role.
 
 Bootstrap Governance Committee members are responsible for representing the project in communications with organizations,
 including but not limited to contributor companies, adopters, vendors and foundations.
