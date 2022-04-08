@@ -23,6 +23,7 @@ Everyone is also welcome to [participate and contribute](https://open-feature.gi
 | Dan O'Brien       | LaunchDarkly |                                                                         | [intheclouddan](https://github.com/intheclouddan)             | N/A                                               |
 | Daniel Dyla       | Dynatrace    | OpenTelemetry                                                           | [dyladan](https://github.com/dyladan)                         | N/A                                               |
 | Dipto Chakrabarty | CISCO        |   Kubernetes                                                                      | [diptochakrabarty](https://github.com/DiptoChakrabarty)             | N/A            
+| Ivar Østhus    | Unleash         |                                                               | [ivarconr](https://github.com/ivarconr)             |  |
 | Justin Abrahms    | eBay         | CDF, TODO                                                               | [justinabrahms](https://github.com/justinabrahms)             | [justinabrahms](https://gitlab.com/justinabrahms) |
 | Kevin Chu         | GitLab       |                                                                         | [kbychu](https://github.com/kbychu)                           | [kbychu](https://gitlab.com/kbychu)               |
 | Max Körbächer     | Liqud Reply  | Kubernetes                                                              | [mkorbi](https://github.com/mkorbi)                           | N/A                                               |
@@ -52,5 +53,6 @@ List of companies, organizations, foundations and other groups that declared int
 | GitLab       | [gitlab.com](https://gitlab.com/)                     | [Contact GitLab Support](https://about.gitlab.com/support/#contact-support) | N/A                         |
 | LaunchDarkly | [launchdarkly.com](https://launchdarkly.com)          | `support at launchdarkly.com`                                               | N/A                         |
 | Split.io     | [split.io](https://split.io/)                         | `support at split.io`                                                       | N/A                         |
+| Unleash   | [Unleash](https://www.getunleash.io/)                    | `contact at getunleash.io`                                                  | N/A                         |
 
 _Sorted alphabetically by organization_
