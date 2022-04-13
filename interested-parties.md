@@ -16,7 +16,7 @@ Everyone is also welcome to [participate and contribute](https://openfeature.dev
 ## Interested individuals
 
 | Person            | Organization | Other Affiliations                                                      | GitHub Username                                               | Gitlab Username                                   |
-| ----------------- | ------------ | ----------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------- |
+| ----------------- | ------------ | ----------------------------------------------------------------------- |---------------------------------------------------------------| ------------------------------------------------- |
 | Alex Jones        | Canonical    | TAG App Delivery, CDF                                                   | [alexsjones](https://github.com/AlexsJones)                   | N/A                                               |
 | Alois Reitbauer   | Dynatrace    | CNCF TAG AppDelivery, Keptn                                             | [Alois Reitbauer](https://github.com/AloisReitbauer)          | N/A                                               |
 | Ben Rometsch      | Flagsmith    |                                                                         | [dabeeeenster](https://github.com/dabeeeenster)               | [dabeeeenster](https://gitlab.com/dabeeeenster)   |
@@ -37,6 +37,7 @@ Everyone is also welcome to [participate and contribute](https://openfeature.dev
 | Renjith Pillai    | SAP          |                                                                         | [vrenjith](https://github.com/vrenjith)                       | N/A                                               |
 | Stephen Augustus  | Cisco        | CNCF, OpenSSF, Inclusive Naming Initiative, TODO Group, Kubernetes, Dex | [justaugustus](https://github.com/justaugustus)               | [justaugustus](https://gitlab.com/justaugustus)   |
 | Steve Arch        | CloudBees    |                                                                         | [agentgonzo](https://github.com/agentgonzo)                   | N/A                                               |
+| Thomas Schuetz    | Dynatrace    | CNCF TAG AppDelivery, CDF, Keptn                                        | [thschue](https://github.com/thschue)                         | N/A                                               |
 | Todd Baert        | Dynatrace    | ISC2                                                                    | [toddbaert](https://github.com/toddbaert)                     | N/A                                               |
 
 _Sorted alphabetically by first name_
