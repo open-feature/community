@@ -37,6 +37,7 @@ Everyone is also welcome to [participate and contribute](https://openfeature.dev
 | Renjith Pillai    | SAP          |                                                                         | [vrenjith](https://github.com/vrenjith)                       | N/A                                               |
 | Stephen Augustus  | Cisco        | CNCF, OpenSSF, Inclusive Naming Initiative, TODO Group, Kubernetes, Dex | [justaugustus](https://github.com/justaugustus)               | [justaugustus](https://gitlab.com/justaugustus)   |
 | Steve Arch        | CloudBees    |                                                                         | [agentgonzo](https://github.com/agentgonzo)                   | N/A                                               |
+| Thomas Schuetz    | Dynatrace    | CNCF TAG AppDelivery, CDF, Keptn                                        | [thschue](https://github.com/thschue)                         | N/A                                               |
 | Todd Baert        | Dynatrace    | ISC2                                                                    | [toddbaert](https://github.com/toddbaert)                     | N/A                                               |
 
 _Sorted alphabetically by first name_
