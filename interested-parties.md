@@ -16,7 +16,7 @@ Everyone is also welcome to [participate and contribute](https://openfeature.dev
 ## Interested individuals
 
 | Person            | Organization | Other Affiliations                                                      | GitHub Username                                               | Gitlab Username                                   |
-| ----------------- | ------------ | ----------------------------------------------------------------------- |---------------------------------------------------------------| ------------------------------------------------- |
+| ----------------- | ------------ | ----------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------- |
 | Alex Jones        | Canonical    | TAG App Delivery, CDF                                                   | [alexsjones](https://github.com/AlexsJones)                   | N/A                                               |
 | Alois Reitbauer   | Dynatrace    | CNCF TAG AppDelivery, Keptn                                             | [Alois Reitbauer](https://github.com/AloisReitbauer)          | N/A                                               |
 | Ben Rometsch      | Flagsmith    |                                                                         | [dabeeeenster](https://github.com/dabeeeenster)               | [dabeeeenster](https://gitlab.com/dabeeeenster)   |
