@@ -20,6 +20,29 @@ handling the Code of Conduct escalations,
 defining and approving with the project members the final governance model,
 and organizing elections for the elected governance board body.
 
+## Technical Steering Committee
+
+The project has a _Technical Steering Committee (TSC)_
+that consists of three maintainers who actively contribute to the project.
+The role of the steering committee is to facilitate development of the
+OpenFeature specification and other technical decisions in the project.
+The responsibilities include reviewing the incoming enhancement proposal and pull requests,
+driving the decision making process
+and building consensus among the OpenFeature community.
+At the moment, TSC members do not get special permissions beyond what other maintainers have.
+
+
+The technical steering committee is initially bootstrapped by 3 
+contributors based on the consensus of contributors and maintainers of the project.
+Their term is **one year**. 
+Then the steering committee members are re-elected based on the public nomination and decision making process.
+The same happens when a TSC member steps down from the role in the middle of the term,
+an acting TSC member is appointed by the community until the end of the term.
+
+At any time, less than 50% of the TSC members can be affiliated with a single company.
+If the affiliation changes during the term and violates the rule,
+one of the TSC members should step down.
+
 ## Decision making
 
 Decisions are made by a consensus of _Project Members_ and [Interested Parties](./interested-parties.md).
