@@ -22,6 +22,7 @@ Everyone is also welcome to [participate and contribute](https://openfeature.dev
 | Ben Rometsch      | Flagsmith    |                                                                         | [dabeeeenster](https://github.com/dabeeeenster)               | [dabeeeenster](https://gitlab.com/dabeeeenster)   |
 | Dan O'Brien       | LaunchDarkly |                                                                         | [intheclouddan](https://github.com/intheclouddan)             | N/A                                               |
 | Daniel Dyla       | Dynatrace    | OpenTelemetry                                                           | [dyladan](https://github.com/dyladan)                         | N/A                                               |
+| Dave Johnston     | Harness      |                                                                         | [davejohnston](https://github.com/davejohnston)               | N/A                                               |
 | Dipto Chakrabarty | CISCO        | Kubernetes                                                              | [diptochakrabarty](https://github.com/DiptoChakrabarty)       | N/A                                               |
 | Ivar Østhus       | Unleash      |                                                                         | [ivarconr](https://github.com/ivarconr)                       |                                                   |
 | Jose Colella      | Gusto        |                                                                         | [josecolella](https://github.com/josecolella)                 | N/A                                               |
@@ -53,6 +54,7 @@ List of companies, organizations, foundations and other groups that declared int
 | Dynatrace    | [dynatrace.com](https://www.dynatrace.com/)           | `opensource at dynatrace.com`                                               | N/A                         |
 | Flagsmith    | [flagsmith.com](https://flagsmith.com/)               | `support at flagsmith.com`                                                  | N/A                         |
 | GitLab       | [gitlab.com](https://gitlab.com/)                     | [Contact GitLab Support](https://about.gitlab.com/support/#contact-support) | N/A                         |
+| Harness      | [harness](https://harness.io/)                        | `support at harness.io`                                                     | N/A                         |
 | LaunchDarkly | [launchdarkly.com](https://launchdarkly.com)          | `support at launchdarkly.com`                                               | N/A                         |
 | Split.io     | [split.io](https://split.io/)                         | `support at split.io`                                                       | N/A                         |
 | Unleash      | [Unleash](https://www.getunleash.io/)                 | `contact at getunleash.io`                                                  | N/A                         |
