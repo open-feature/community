@@ -42,6 +42,7 @@ Everyone is also welcome to [participate and contribute](https://openfeature.dev
 | Steve Arch        | CloudBees    |                                                                         | [agentgonzo](https://github.com/agentgonzo)                   | N/A                                               |
 | Thomas Schuetz    | Dynatrace    | CNCF TAG AppDelivery, CDF, Keptn                                        | [thschue](https://github.com/thschue)                         | N/A                                               |
 | Todd Baert        | Dynatrace    | ISC2                                                                    | [toddbaert](https://github.com/toddbaert)                     | N/A                                               |
+| Tom Carrio        | Skillshare   |                                                                         | [tcarrio](https://github.com/tcarrio)                         | [tcarrio](https://gitlab.com/tcarrio)             |
 
 _Sorted alphabetically by first name_
 
