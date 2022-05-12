@@ -50,15 +50,16 @@ _Sorted alphabetically by first name_
 
 List of companies, organizations, foundations and other groups that declared interest in this project.
 
-| Organization | Website link                                          | Contact Email/Information                                                   | Testimonial/case study link |
-| ------------ | ----------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------- |
-| Cisco        | [opensource.cisco.com](https://opensource.cisco.com/) | `augustus at cisco.com`                                                     | N/A                         |
-| Dynatrace    | [dynatrace.com](https://www.dynatrace.com/)           | `opensource at dynatrace.com`                                               | N/A                         |
-| Flagsmith    | [flagsmith.com](https://flagsmith.com/)               | `support at flagsmith.com`                                                  | N/A                         |
-| GitLab       | [gitlab.com](https://gitlab.com/)                     | [Contact GitLab Support](https://about.gitlab.com/support/#contact-support) | N/A                         |
-| Harness      | [harness](https://harness.io/)                        | `support at harness.io`                                                     | N/A                         |
-| LaunchDarkly | [launchdarkly.com](https://launchdarkly.com)          | `support at launchdarkly.com`                                               | N/A                         |
-| Split.io     | [split.io](https://split.io/)                         | `support at split.io`                                                       | N/A                         |
-| Unleash      | [Unleash](https://www.getunleash.io/)                 | `contact at getunleash.io`                                                  | N/A                         |
+| Organization | Website link                                          | Contact Email/Information                                                                     | Testimonial/case study link |
+|--------------| ----------------------------------------------------- |-----------------------------------------------------------------------------------------------| --------------------------- |
+| Cisco        | [opensource.cisco.com](https://opensource.cisco.com/) | `augustus at cisco.com`                                                                       | N/A                         |
+| CloudBees    | [cloudbees.com](https://www.cloudbees.com/products/feature-management) | [Contact CloudBees support](https://www.cloudbees.com/products/feature-management/contact-us) | N/A                         |
+| Dynatrace    | [dynatrace.com](https://www.dynatrace.com/)           | `opensource at dynatrace.com`                                                                 | N/A                         |
+| Flagsmith    | [flagsmith.com](https://flagsmith.com/)               | `support at flagsmith.com`                                                                    | N/A                         |
+| GitLab       | [gitlab.com](https://gitlab.com/)                     | [Contact GitLab Support](https://about.gitlab.com/support/#contact-support)                   | N/A                         |
+| Harness      | [harness](https://harness.io/)                        | `support at harness.io`                                                                       | N/A                         |
+| LaunchDarkly | [launchdarkly.com](https://launchdarkly.com)          | `support at launchdarkly.com`                                                                 | N/A                         |
+| Split.io     | [split.io](https://split.io/)                         | `support at split.io`                                                                         | N/A                         |
+| Unleash      | [Unleash](https://www.getunleash.io/)                 | `contact at getunleash.io`                                                                    | N/A                         |
 
 _Sorted alphabetically by organization_
