@@ -22,7 +22,7 @@ OpenFeature is extensible while still being easy to work with. It is quick to ge
 
 ### Community
 
-OpenFeature is a collective effort that benefits from years of experience across multiple verticals, including many of the top feature flag vendors and practitioners. The patterns, idioms, and techniques developed by this collaboration support feature flagging as core principle of the software development lifecycle.
+OpenFeature is a collective effort that benefits from years of experience across multiple verticals, including many of the top feature flag vendors and practitioners. The patterns, idioms, and techniques developed by this collaboration support feature flagging as a core principle of the software development lifecycle.
 
 ### Education
 
