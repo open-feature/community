@@ -28,6 +28,7 @@ Everyone is also welcome to [participate and contribute](https://openfeature.dev
 | Jose Colella      | Gusto        |                                                                         | [josecolella](https://github.com/josecolella)                 | N/A                                               |
 | Justin Abrahms    | eBay         | CDF, TODO                                                               | [justinabrahms](https://github.com/justinabrahms)             | [justinabrahms](https://gitlab.com/justinabrahms) |
 | Kevin Chu         | GitLab       |                                                                         | [kbychu](https://github.com/kbychu)                           | [kbychu](https://gitlab.com/kbychu)               |
+| Luis Silva        | RemoteFlags  |                                                                         | [luiscrs14](https://github.com/luiscrs14)                     | N/A                                               |
 | Max Körbächer     | Liqud Reply  | Kubernetes                                                              | [mkorbi](https://github.com/mkorbi)                           | N/A                                               |
 | Michael Beemer    | Dynatrace    |                                                                         | [beeme1mr](https://github.com/beeme1mr)                       | [beeme1mr](https://gitlab.com/beeme1mr)           |
 | Michael Friedrich | GitLab       |                                                                         | [dnsmichi](https://github.com/dnsmichi)                       | [dnsmichi](https://gitlab.com/dnsmichi)           |
@@ -59,6 +60,7 @@ List of companies, organizations, foundations and other groups that declared int
 | GitLab       | [gitlab.com](https://gitlab.com/)                     | [Contact GitLab Support](https://about.gitlab.com/support/#contact-support)                   | N/A                         |
 | Harness      | [harness](https://harness.io/)                        | `support at harness.io`                                                                       | N/A                         |
 | LaunchDarkly | [launchdarkly.com](https://launchdarkly.com)          | `support at launchdarkly.com`                                                                 | N/A                         |
+| RemoteFlags  | [RemoteFlags](https://remoteflags.com/)               | `info at remoteflags.com`                                                                     | N/A                         |
 | Split.io     | [split.io](https://split.io/)                         | `support at split.io`                                                                         | N/A                         |
 | Unleash      | [Unleash](https://www.getunleash.io/)                 | `contact at getunleash.io`                                                                    | N/A                         |
 
