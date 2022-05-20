@@ -9,18 +9,29 @@ until the final governance process is identified.
 
 ## Governing Committee
 
-In April 2022 _Project Maintainers_ will assign seven individuals to be members of the _Bootstrap Governing Committee_.
-This is a **temporary** arrangement that should be replaced by an elected governing body before March 2024.
-At least 3 governing board members should be elected by March 2023.
-
-The _Bootstrap Governing Committee_ is responsible for
+The _Governing Committee_ is responsible for
 representing the project,
 making a final decision if a consensus cannot be reached (see _Decision Making_),
 handling the Code of Conduct escalations,
 defining and approving with the project members the final governance model,
 and organizing elections for the elected governance board body.
 
-## Technical Steering Committee
+Members of the governing committee:
+
+- Michael Beemer, Dynatrace, term: April 28, 2022 - TBD
+- Ben Rometsch, Flagsmith, term: April 28, 2022 - TBD
+- Justin Abrahms, eBay, term: April 28, 2022 - TBD
+- Kevin Chu, GitLab, term: April 28, 2022 - TBD
+- Pete Hodgson, Independent, term: April 28, 2022 - TBD
+- Vacant
+- Vacant
+
+> NOTE:
+> In April 2022 _Project Maintainers_ assigned five seven individuals to be members of the _Bootstrap Governing Committee_.
+> This is a **temporary** arrangement that should be replaced by an elected governing body before March 2024.
+> Two seats remain vacant at the moment
+
+## Technical Steering Committee (TSC)
 
 The project has a _Technical Steering Committee (TSC)_
 that consists of three maintainers who actively contribute to the project.
@@ -31,6 +42,13 @@ driving the decision making process
 and building consensus among the OpenFeature community.
 At the moment, TSC members do not get special permissions beyond what other maintainers have.
 
+### TSC Members
+
+- Todd Baert, Dynatrace, term: April 28, 2022 - April 28, 2023
+- Steve Arch, CloudBees, term: April 28, 2022 - April 28, 2023
+- Dan O’Brien, LaunchDarkly, term: April 28, 2022 - April 28, 2023
+
+### TSC Charter
 
 The technical steering committee is initially bootstrapped by 3 
 contributors based on the consensus of contributors and maintainers of the project.
