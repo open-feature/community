@@ -46,6 +46,7 @@ Everyone is also welcome to [participate and contribute](https://openfeature.dev
 | Stephen Augustus  | Cisco        | CNCF, OpenSSF, Inclusive Naming Initiative, TODO Group, Kubernetes, Dex | [justaugustus](https://github.com/justaugustus)               | [justaugustus](https://gitlab.com/justaugustus)   |
 | Steve Arch        | CloudBees    |                                                                         | [agentgonzo](https://github.com/agentgonzo)                   | N/A                                               |
 | Thomas Schuetz    | Dynatrace    | CNCF TAG AppDelivery, CDF, Keptn                                        | [thschue](https://github.com/thschue)                         | N/A                                               |
+| Tim Glaser        | PostHog   |                                                                         | [timgl](https://github.com/timgl)                         | N/A           |
 | Todd Baert        | Dynatrace    | ISC2                                                                    | [toddbaert](https://github.com/toddbaert)                     | N/A                                               |
 | Tom Carrio        | Skillshare   |                                                                         | [tcarrio](https://github.com/tcarrio)                         | [tcarrio](https://gitlab.com/tcarrio)             |
 | Zoltan David      | ConfigCat    |                                                                         | [zoltan-david](https://github.com/zoltan-david)               | N/A                                               |
@@ -68,8 +69,10 @@ List of companies, organizations, foundations and other groups that declared int
 | GrowthBook   | [growthbook.io](https://www.growthbook.io)                             | `info at growthbook.io`                                                                       | N/A                         |
 | Harness      | [harness](https://harness.io/)                                         | `support at harness.io`                                                                       | N/A                         |
 | LaunchDarkly | [launchdarkly.com](https://launchdarkly.com)                           | `support at launchdarkly.com`                                                                 | N/A                         |
+| PostHog      | [PostHog](https://www.posthog.com/)                                  | `hey at posthog.com`                                                                    | N/A                         |
 | RemoteFlags  | [RemoteFlags](https://remoteflags.com/)                                | `info at remoteflags.com`                                                                     | N/A                         |
 | Split.io     | [split.io](https://split.io/)                                          | `support at split.io`                                                                         | N/A                         |
 | Unleash      | [Unleash](https://www.getunleash.io/)                                  | `contact at getunleash.io`                                                                    | N/A                         |
+
 
 _Sorted alphabetically by organization_
