@@ -19,7 +19,7 @@ Calendar](https://calendar.google.com/calendar/u/0?cid=MHVhN2kxaGl2NWRoMThiMjd0b
 Notes and recordings from previous meetings can be found below:
 
  - [Meeting notes](https://docs.google.com/document/d/1pp6t2giTcdEdVAri_2B1Z6Mv8mHhvtZT1AmkPV9K7xQ/edit?usp=sharing)
- - [Recordings](https://www.youtube.com/channel/UCXSFt-dT2HORGXz1-ksxtxw_)
+ - [Recordings](https://www.youtube.com/channel/UCXSFt-dT2HORGXz1-ksxtxw)
 
 ## Slack
 
