@@ -24,11 +24,13 @@ Everyone is also welcome to [participate and contribute](https://openfeature.dev
 | Daniel Dyla       | Dynatrace    | OpenTelemetry                                                           | [dyladan](https://github.com/dyladan)                         | N/A                                               |
 | Dave Johnston     | Harness      |                                                                         | [davejohnston](https://github.com/davejohnston)               | N/A                                               |
 | Dipto Chakrabarty | CISCO        | Kubernetes                                                              | [diptochakrabarty](https://github.com/DiptoChakrabarty)       | N/A                                               |
+| Gergely Sinka     | ConfigCat    |                                                                         | [sigewuzhere](https://github.com/sigewuzhere)                 | N/A                                               |
 | Ivar Østhus       | Unleash      |                                                                         | [ivarconr](https://github.com/ivarconr)                       |                                                   |
 | Jeremy Dorn       | GrowthBook   |                                                                         | [jdorn](https://github.com/jdorn)                             | N/A                                               |
 | Jose Colella      | Gusto        |                                                                         | [josecolella](https://github.com/josecolella)                 | N/A                                               |
 | Justin Abrahms    | eBay         | CDF, TODO                                                               | [justinabrahms](https://github.com/justinabrahms)             | [justinabrahms](https://gitlab.com/justinabrahms) |
 | Kevin Chu         | GitLab       |                                                                         | [kbychu](https://github.com/kbychu)                           | [kbychu](https://gitlab.com/kbychu)               |
+| Lajos Szoke       | ConfigCat    |                                                                         | [laliconfigcat](https://github.com/laliconfigcat)             | N/A                                               |
 | Luis Silva        | RemoteFlags  |                                                                         | [luiscrs14](https://github.com/luiscrs14)                     | N/A                                               |
 | Mark Phelps       | Flipt        |                                                                         | [markphelps](https://github.com/markphelps)                   | N/A                                               |
 | Max Körbächer     | Liqud Reply  | Kubernetes                                                              | [mkorbi](https://github.com/mkorbi)                           | N/A                                               |
@@ -40,12 +42,13 @@ Everyone is also welcome to [participate and contribute](https://openfeature.dev
 | Patricio Echague  | Split.io     |                                                                         | [patricioe](https://github.com/patricioe)                     | N/A                                               |
 | Pete Hodgson      | Independent  |                                                                         | [moredip](https://github.com/moredip)                         | N/A                                               |
 | Renjith Pillai    | SAP          |                                                                         | [vrenjith](https://github.com/vrenjith)                       | N/A                                               |
-| Roberth Strand    | Crayon Group | CNCF (TAG App Delivery, OpenGitOps, Cooperative Delivery WG)            | [roberthstrand](https://github.com/roberthstrand)             | N/A                                               |
+| Roberth Strand    | Crayon Group | CNCF (TAG App Delivery, OpenGitOps, Cooperative Delivery WG)            | [roberthstrand](https://github.com/roberthstrand)             | N/A                                               |
 | Stephen Augustus  | Cisco        | CNCF, OpenSSF, Inclusive Naming Initiative, TODO Group, Kubernetes, Dex | [justaugustus](https://github.com/justaugustus)               | [justaugustus](https://gitlab.com/justaugustus)   |
 | Steve Arch        | CloudBees    |                                                                         | [agentgonzo](https://github.com/agentgonzo)                   | N/A                                               |
 | Thomas Schuetz    | Dynatrace    | CNCF TAG AppDelivery, CDF, Keptn                                        | [thschue](https://github.com/thschue)                         | N/A                                               |
 | Todd Baert        | Dynatrace    | ISC2                                                                    | [toddbaert](https://github.com/toddbaert)                     | N/A                                               |
 | Tom Carrio        | Skillshare   |                                                                         | [tcarrio](https://github.com/tcarrio)                         | [tcarrio](https://gitlab.com/tcarrio)             |
+| Zoltan David      | ConfigCat    |                                                                         | [zoltan-david](https://github.com/zoltan-david)               | N/A                                               |
 
 _Sorted alphabetically by first name_
 
@@ -53,19 +56,20 @@ _Sorted alphabetically by first name_
 
 List of companies, organizations, foundations and other groups that declared interest in this project.
 
-| Organization | Website link                                          | Contact Email/Information                                                                     | Testimonial/case study link |
-|--------------| ----------------------------------------------------- |-----------------------------------------------------------------------------------------------| --------------------------- |
-| Cisco        | [opensource.cisco.com](https://opensource.cisco.com/) | `augustus at cisco.com`                                                                       | N/A                         |
+| Organization | Website link                                                           | Contact Email/Information                                                                     | Testimonial/case study link |
+| ------------ | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------- |
+| Cisco        | [opensource.cisco.com](https://opensource.cisco.com/)                  | `augustus at cisco.com`                                                                       | N/A                         |
 | CloudBees    | [cloudbees.com](https://www.cloudbees.com/products/feature-management) | [Contact CloudBees support](https://www.cloudbees.com/products/feature-management/contact-us) | N/A                         |
-| Dynatrace    | [dynatrace.com](https://www.dynatrace.com/)           | `opensource at dynatrace.com`                                                                 | N/A                         |
-| Flipt        | [flipt.io](https://flipt.io/)                         | `support at flipt.io`                                                                         | N/A                         |
-| Flagsmith    | [flagsmith.com](https://flagsmith.com/)               | `support at flagsmith.com`                                                                    | N/A                         |
-| GitLab       | [gitlab.com](https://gitlab.com/)                     | [Contact GitLab Support](https://about.gitlab.com/support/#contact-support)                   | N/A                         |
-| GrowthBook   | [growthbook.io](https://www.growthbook.io)            | `info at growthbook.io`                                                                       | N/A                         |
-| Harness      | [harness](https://harness.io/)                        | `support at harness.io`                                                                       | N/A                         |
-| LaunchDarkly | [launchdarkly.com](https://launchdarkly.com)          | `support at launchdarkly.com`                                                                 | N/A                         |
-| RemoteFlags  | [RemoteFlags](https://remoteflags.com/)               | `info at remoteflags.com`                                                                     | N/A                         |
-| Split.io     | [split.io](https://split.io/)                         | `support at split.io`                                                                         | N/A                         |
-| Unleash      | [Unleash](https://www.getunleash.io/)                 | `contact at getunleash.io`                                                                    | N/A                         |
+| ConfigCat    | [configcat.com](https://configcat.com/)                                | `support at configcat.com`                                                                    | N/A                         |
+| Dynatrace    | [dynatrace.com](https://www.dynatrace.com/)                            | `opensource at dynatrace.com`                                                                 | N/A                         |
+| Flipt        | [flipt.io](https://flipt.io/)                                          | `support at flipt.io`                                                                         | N/A                         |
+| Flagsmith    | [flagsmith.com](https://flagsmith.com/)                                | `support at flagsmith.com`                                                                    | N/A                         |
+| GitLab       | [gitlab.com](https://gitlab.com/)                                      | [Contact GitLab Support](https://about.gitlab.com/support/#contact-support)                   | N/A                         |
+| GrowthBook   | [growthbook.io](https://www.growthbook.io)                             | `info at growthbook.io`                                                                       | N/A                         |
+| Harness      | [harness](https://harness.io/)                                         | `support at harness.io`                                                                       | N/A                         |
+| LaunchDarkly | [launchdarkly.com](https://launchdarkly.com)                           | `support at launchdarkly.com`                                                                 | N/A                         |
+| RemoteFlags  | [RemoteFlags](https://remoteflags.com/)                                | `info at remoteflags.com`                                                                     | N/A                         |
+| Split.io     | [split.io](https://split.io/)                                          | `support at split.io`                                                                         | N/A                         |
+| Unleash      | [Unleash](https://www.getunleash.io/)                                  | `contact at getunleash.io`                                                                    | N/A                         |
 
 _Sorted alphabetically by organization_
