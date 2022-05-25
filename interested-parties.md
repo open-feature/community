@@ -51,6 +51,7 @@ Everyone is also welcome to [participate and contribute](https://openfeature.dev
 | Todd Baert        | Dynatrace    | ISC2                                                                    | [toddbaert](https://github.com/toddbaert)                     | N/A                                               |
 | Tom Carrio        | Skillshare   |                                                                         | [tcarrio](https://github.com/tcarrio)                         | [tcarrio](https://gitlab.com/tcarrio)             |
 | Zoltan David      | ConfigCat    |                                                                         | [zoltan-david](https://github.com/zoltan-david)               | N/A                                               |
+| David Božjak      | Storytel    |                                                                         | [davidbozjak](https://github.com/davidbozjak)               | N/A                                               |
 
 _Sorted alphabetically by first name_
 
@@ -75,6 +76,7 @@ List of companies, organizations, foundations and other groups that declared int
 | RemoteFlags  | [RemoteFlags](https://remoteflags.com/)                                | `info at remoteflags.com`                                                                     | N/A                         |
 | Split.io     | [split.io](https://split.io/)                                          | `support at split.io`                                                                         | N/A                         |
 | Unleash      | [Unleash](https://www.getunleash.io/)                                  | `contact at getunleash.io`                                                                    | N/A                         |
+| Storytel      | [Storytel](https://www.storytel.com)                                  | `support.se at storytel.com`                                                                    | N/A                         |
 
 
 _Sorted alphabetically by organization_
