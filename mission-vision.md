@@ -2,7 +2,7 @@
 
 ## Mission
 
-To improve the software development lifecycle, no matter the size of the project, by standardizing feature flagging for developers.
+To improve the software development lifecycle, no matter the size of the project, by standardizing feature flagging for everyone.
 
 ## Vision
 
