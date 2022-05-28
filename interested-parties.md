@@ -23,6 +23,7 @@ Everyone is also welcome to [participate and contribute](https://openfeature.dev
 | Dan O'Brien       | LaunchDarkly |                                                                         | [intheclouddan](https://github.com/intheclouddan)             | N/A                                               |
 | Daniel Dyla       | Dynatrace    | OpenTelemetry                                                           | [dyladan](https://github.com/dyladan)                         | N/A                                               |
 | Dave Johnston     | Harness      |                                                                         | [davejohnston](https://github.com/davejohnston)               | N/A                                               |
+| David Božjak      | Storytel    |                                                                         | [davidbozjak](https://github.com/davidbozjak)               | N/A                                               |
 | Dipto Chakrabarty | CISCO        | Kubernetes                                                              | [diptochakrabarty](https://github.com/DiptoChakrabarty)       | N/A                                               |
 | Dominik Fleischmann | Canonical  | Kubeflow                                                                | [DomFleischmann](https://github.com/DomFleischmann)           | N/A                                               |
 | Gergely Sinka     | ConfigCat    |                                                                         | [sigewuzhere](https://github.com/sigewuzhere)                 | N/A                                               |
@@ -75,7 +76,7 @@ List of companies, organizations, foundations and other groups that declared int
 | PostHog      | [PostHog](https://www.posthog.com/)                                    | `hey at posthog.com`                                                                          | N/A                         |
 | RemoteFlags  | [RemoteFlags](https://remoteflags.com/)                                | `info at remoteflags.com`                                                                     | N/A                         |
 | Split.io     | [split.io](https://split.io/)                                          | `support at split.io`                                                                         | N/A                         |
+| Storytel      | [Storytel](https://www.storytel.com)                                  | `support.se at storytel.com`                                                                    | N/A                         |
 | Unleash      | [Unleash](https://www.getunleash.io/)                                  | `contact at getunleash.io`                                                                    | N/A                         |
-
 
 _Sorted alphabetically by organization_
