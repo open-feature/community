@@ -2,6 +2,8 @@
 
 [![Roadmap](https://img.shields.io/static/v1?label=Roadmap&message=public&color=green)](https://github.com/orgs/open-feature/projects/1)
 [![Contributing](https://img.shields.io/static/v1?label=Contributing&message=guide&color=blue)](https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md)
+[![Twitter Follow](https://img.shields.io/twitter/follow/openfeature?style=social)](https://twitter.com/openfeature)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/openfeature)
 
 ## Welcome to the OpenFeature community!
 
@@ -24,6 +26,14 @@ Notes and recordings from previous meetings can be found below:
 ## Slack
 
 You can find us in the `#openfeature` channel on the CNCF Slack Workspace. You can join the CNCF Slack Workspace by registering [here](https://slack.cncf.io).
+
+## Community
+
+Follow-us on social media and help us to spread the word!
+Please use the `#openfeature` hashtag or mention our accounts when you share the content.
+
+- Twitter: [@openfeature](https://twitter.com/openfeature)
+- LinkedIn: [Open Feature](https://www.linkedin.com/company/openfeature/)
 
 ## Roadmap
 
