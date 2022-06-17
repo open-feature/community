@@ -16,7 +16,7 @@ Everyone is also welcome to [participate and contribute](https://openfeature.dev
 ## Interested individuals
 
 | Person              | Organization    | Other Affiliations                                                      | GitHub Username                                               | Gitlab Username                                   |
-|---------------------|-----------------|-------------------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------|
+| ------------------- | --------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------- |
 | Alex Jones          | Canonical       | TAG App Delivery, CDF                                                   | [alexsjones](https://github.com/AlexsJones)                   | N/A                                               |
 | Alois Reitbauer     | Dynatrace       | CNCF TAG AppDelivery, Keptn                                             | [Alois Reitbauer](https://github.com/AloisReitbauer)          | N/A                                               |
 | Ben Rometsch        | Flagsmith       |                                                                         | [dabeeeenster](https://github.com/dabeeeenster)               | [dabeeeenster](https://gitlab.com/dabeeeenster)   |
@@ -61,7 +61,7 @@ _Sorted alphabetically by first name_
 List of companies, organizations, foundations and other groups that declared interest in this project.
 
 | Organization    | Website link                                                           | Contact Email/Information                                                                     | Testimonial/case study link |
-|-----------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------|
+| --------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------- |
 | Cisco           | [opensource.cisco.com](https://opensource.cisco.com/)                  | `augustus at cisco.com`                                                                       | N/A                         |
 | CloudBees       | [cloudbees.com](https://www.cloudbees.com/products/feature-management) | [Contact CloudBees support](https://www.cloudbees.com/products/feature-management/contact-us) | N/A                         |
 | ConfigCat       | [configcat.com](https://configcat.com/)                                | `opensource at configcat.com`                                                                 | N/A                         |
@@ -71,6 +71,7 @@ List of companies, organizations, foundations and other groups that declared int
 | Flipt           | [flipt.io](https://flipt.io/)                                          | `support at flipt.io`                                                                         | N/A                         |
 | Flagsmith       | [flagsmith.com](https://flagsmith.com/)                                | `support at flagsmith.com`                                                                    | N/A                         |
 | GitLab          | [gitlab.com](https://gitlab.com/)                                      | [Contact GitLab Support](https://about.gitlab.com/support/#contact-support)                   | N/A                         |
+| Go Feature Flag | [GO Feature Flag](https://gofeatureflag.org/)                          | `contact at gofeatureflag.org`                                                                | N/A                         |
 | GrowthBook      | [growthbook.io](https://www.growthbook.io)                             | `info at growthbook.io`                                                                       | N/A                         |
 | Harness         | [harness](https://harness.io/)                                         | `support at harness.io`                                                                       | N/A                         |
 | LaunchDarkly    | [launchdarkly.com](https://launchdarkly.com)                           | `support at launchdarkly.com`                                                                 | N/A                         |
@@ -79,6 +80,5 @@ List of companies, organizations, foundations and other groups that declared int
 | Split.io        | [split.io](https://split.io/)                                          | `support at split.io`                                                                         | N/A                         |
 | Storytel        | [Storytel](https://www.storytel.com)                                   | `support.se at storytel.com`                                                                  | N/A                         |
 | Unleash         | [Unleash](https://www.getunleash.io/)                                  | `contact at getunleash.io`                                                                    | N/A                         |
-| Go Feature Flag | [GO Feature Flag](https://gofeatureflag.org/)                          | `contact at gofeatureflag.org`                                                                | N/A                         |
 
 _Sorted alphabetically by organization_
