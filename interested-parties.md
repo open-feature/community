@@ -52,6 +52,7 @@ Everyone is also welcome to [participate and contribute](https://openfeature.dev
 | Tim Glaser          | PostHog         |                                                                         | [timgl](https://github.com/timgl)                             | N/A                                               |
 | Todd Baert          | Dynatrace       | ISC2                                                                    | [toddbaert](https://github.com/toddbaert)                     | N/A                                               |
 | Tom Carrio          | Skillshare      |                                                                         | [tcarrio](https://github.com/tcarrio)                         | [tcarrio](https://gitlab.com/tcarrio)             |
+| Vic Vuci          | DevCycle      |     Taplytics                                                                    | [vicv](https://github.com/vicv)                         | [vicv](https://gitlab.com/vicv)             |
 | Zoltan David        | ConfigCat       |                                                                         | [zoltan-david](https://github.com/zoltan-david)               | N/A                                               |
 
 _Sorted alphabetically by first name_
@@ -65,6 +66,7 @@ List of companies, organizations, foundations and other groups that declared int
 | Cisco           | [opensource.cisco.com](https://opensource.cisco.com/)                  | `augustus at cisco.com`                                                                       | N/A                         |
 | CloudBees       | [cloudbees.com](https://www.cloudbees.com/products/feature-management) | [Contact CloudBees support](https://www.cloudbees.com/products/feature-management/contact-us) | N/A                         |
 | ConfigCat       | [configcat.com](https://configcat.com/)                                | `opensource at configcat.com`                                                                 | N/A                         |
+| DevCycle       | [devcycle.com](https://devcycle.com/)                                | `support at devcycle.com`                                                                 | N/A                         |
 | Dynatrace       | [dynatrace.com](https://www.dynatrace.com/)                            | `opensource at dynatrace.com`                                                                 | N/A                         |
 | eBay            | [ebay.com](https://ebay.com)                                           | `opensource at ebay.com`                                                                      | N/A                         |
 | Flagship.io     | [flagship.io](https://www.flagship.io/)                                | `support at flagship.io`                                                                      | N/A                         |
