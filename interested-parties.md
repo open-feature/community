@@ -53,6 +53,7 @@ Everyone is also welcome to [participate and contribute](https://openfeature.dev
 | Todd Baert          | Dynatrace       | ISC2                                                                    | [toddbaert](https://github.com/toddbaert)                     | N/A                                               |
 | Tom Carrio          | Skillshare      |                                                                         | [tcarrio](https://github.com/tcarrio)                         | [tcarrio](https://gitlab.com/tcarrio)             |
 | Vic Vuci          | DevCycle      |     Taplytics                                                                    | [vicv](https://github.com/vicv)                         | [vicv](https://gitlab.com/vicv)             |
+| Yousef Soliman        | N/A       |                                                                         | [yousef-soliman](https://github.com/yousef-soliman)               | N/A   
 | Zoltan David        | ConfigCat       |                                                                         | [zoltan-david](https://github.com/zoltan-david)               | N/A                                               |
 
 _Sorted alphabetically by first name_
