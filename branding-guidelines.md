@@ -22,9 +22,9 @@ Various layouts and versions are available including:
 
 | Image                                                           | Hex       |
 | --------------------------------------------------------------- | --------- |
-| ![#231F20](https://via.placeholder.com/15/231F20/000000?text=+) | `#231F20` |
-| ![#787173](https://via.placeholder.com/15/787173/000000?text=+) | `#787173` |
-| ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) | `#FFFFFF` |
+| ![#231F20](https://via.placeholder.com/15/231F20/231F20.png) | `#231F20` |
+| ![#787173](https://via.placeholder.com/15/787173/787173.png) | `#787173` |
+| ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/FFFFFF.png) | `#FFFFFF` |
 
 ### Font
 
