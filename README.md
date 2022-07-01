@@ -13,15 +13,15 @@ If you are interested to be informed about the project or to contribute, feel fr
 
 The community calendar contains all the upcoming OpenFeature meetings and events. You can access it via:
 
- - [Web](https://calendar.google.com/calendar/embed?src=0ua7i1hiv5dh18b27toah63644%40group.calendar.google.com)
- - [Google
-Calendar](https://calendar.google.com/calendar/u/0?cid=MHVhN2kxaGl2NWRoMThiMjd0b2FoNjM2NDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
- - [iCal](https://calendar.google.com/calendar/ical/0ua7i1hiv5dh18b27toah63644%40group.calendar.google.com/public/basic.ics)
+- [Web](https://calendar.google.com/calendar/embed?src=0ua7i1hiv5dh18b27toah63644%40group.calendar.google.com)
+- [Google
+  Calendar](https://calendar.google.com/calendar/u/0?cid=MHVhN2kxaGl2NWRoMThiMjd0b2FoNjM2NDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+- [iCal](https://calendar.google.com/calendar/ical/0ua7i1hiv5dh18b27toah63644%40group.calendar.google.com/public/basic.ics)
 
 Notes and recordings from previous meetings can be found below:
 
- - [Meeting notes](https://docs.google.com/document/d/1pp6t2giTcdEdVAri_2B1Z6Mv8mHhvtZT1AmkPV9K7xQ/edit?usp=sharing)
- - [Recordings](https://www.youtube.com/channel/UCXSFt-dT2HORGXz1-ksxtxw)
+- [Meeting notes](https://docs.google.com/document/d/1pp6t2giTcdEdVAri_2B1Z6Mv8mHhvtZT1AmkPV9K7xQ/edit?usp=sharing)
+- [Recordings](https://www.youtube.com/channel/UCXSFt-dT2HORGXz1-ksxtxw)
 
 ## Slack
 
@@ -48,12 +48,16 @@ All contributors are welcome!
 Please see the contributing guidelines
 [here](https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md).
 
-### Contributing prerequisites (CLA/DCO)
+### Contributing Prerequisites (CLA/DCO)
 
 At the moment the project does not define a
-Contributor License Agreement or 
+Contributor License Agreement or
 [Developer Certificate of Origin (DCO)](https://wiki.linuxfoundation.org/dco).
 By submitting pull requests submitters acknowledge they grant the [Apache License v2](./LICENSE) to the code and that they are eligible to grant this license for all commits submitted in their pull requests.
+
+## Associated Components and Implementations
+
+The OpenFeature specification defines abstractions and interfaces for the purposes of flexibly integrating with various feature flag management systems, as well as with tools orthogonal to feature flag evaluation (such as telemetry and logging). In order to maintain [neutrality and no/low dependencies](https://github.com/open-feature/spec#design-principles), implementations of these abstractions should not be included in SDKs. Such implementations may exist in the "contribs" repository for their respective language (ie: https://github.com/open-feature/node-sdk-contrib) or in other repositories not owned by the OpenFeature organization. We recommend implementations be open source, but that's not a requirement.
 
 ## Governance
 
@@ -74,4 +78,3 @@ version 2.1, available
 OpenFeature is an open specification and open source project.
 Unless another license is specified explicitly,
 all contents in this GitHub organization are licensed under [Apache License v2](./LICENSE).
-
