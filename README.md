@@ -57,7 +57,7 @@ By submitting pull requests submitters acknowledge they grant the [Apache Licens
 
 ## Associated Components and Implementations
 
-The OpenFeature specification defines abstractions and interfaces for the purposes of flexibly integrating with various feature flag management systems, as well as with tools orthogonal to feature flag evaluation (such as telemetry and logging). In order to maintain [neutrality and no/low dependencies](https://github.com/open-feature/spec#design-principles), implementations of these abstractions should not be included in SDKs. Such implementations may exist in the "contribs" repository for their respective language (ie: https://github.com/open-feature/node-sdk-contrib) or in other repositories not owned by the OpenFeature organization. We recommend implementations be open source, but that's not a requirement.
+The OpenFeature specification defines abstractions and interfaces for the purposes of flexibly integrating with various feature flag management systems, as well as with tools related to feature flag evaluation (such as telemetry and logging). In order to maintain [neutrality and no/low dependencies](https://github.com/open-feature/spec#design-principles), implementations of these abstractions should not be included in SDKs. Such implementations may exist in the "contribs" repository for their respective language (ie: https://github.com/open-feature/node-sdk-contrib) or in other repositories not owned by the OpenFeature organization. We recommend implementations be open source, but that's not a requirement.
 
 ## Governance
 
