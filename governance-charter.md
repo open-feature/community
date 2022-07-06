@@ -76,7 +76,7 @@ The community decisions should be documented in this Governance repository.
 
 ## Meetings
 
-The project conducts [regular project meetings](https://openfeature.dev/home/participate/#project-meetings)
+The project conducts [regular project meetings](https://github.com/open-feature/community#meetings-and-events)
 hosted by its maintainers and contributors.
 These meetings are used as additional discussion and consensus building
 but not for making decisions without prior discussion in async channels.
