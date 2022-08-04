@@ -33,14 +33,12 @@ Follow-us on social media and help us to spread the word!
 Please use the `#openfeature` hashtag or mention our accounts when you share the content.
 
 - Twitter: [@openfeature](https://twitter.com/openfeature)
-- LinkedIn: [Open Feature](https://www.linkedin.com/company/openfeature/)
+- LinkedIn: [OpenFeature](https://www.linkedin.com/company/openfeature/)
 
 ## Roadmap
 
 The project roadmap is available [here](https://github.com/orgs/open-feature/projects/1).
-New initiatives for the roadmap will be marked as `roadmap-proposal` by a maintainer. A community decision will then be made as documented in [Decision Making](./governance-charter.md#decision-making).
-
-- [Pending roadmap suggestions](https://github.com/search?q=org%3Aopen-feature+label%3Aroadmap-proposal&type=issues)
+New initiatives require an accepted [OpenFeature Enhancement Proposal (OFEP)](https://github.com/open-feature/research). A community decision will then be made as documented in [Decision Making](./governance-charter.md#decision-making).
 
 ## Contributing
 
@@ -48,12 +46,10 @@ All contributors are welcome!
 Please see the contributing guidelines
 [here](https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md).
 
-### Contributing Prerequisites (CLA/DCO)
+### Contributing Prerequisites (DCO)
 
-At the moment the project does not define a
-Contributor License Agreement or
-[Developer Certificate of Origin (DCO)](https://wiki.linuxfoundation.org/dco).
-By submitting pull requests submitters acknowledge they grant the [Apache License v2](./LICENSE) to the code and that they are eligible to grant this license for all commits submitted in their pull requests.
+The [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) requires all pull requests are signed off using [Developer Certificate of Origin (DCO)](https://wiki.linuxfoundation.org/dco).
+By submitting pull requests, submitters acknowledge they grant the [Apache License v2](./LICENSE) to the code and that they are eligible to grant this license for all commits submitted in their pull requests.
 
 ## Associated Components and Implementations
 
@@ -61,8 +57,7 @@ The OpenFeature specification defines abstractions and interfaces for the purpos
 
 ## Governance
 
-Our goal is to join the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) as a sandbox project shortly after the inception of OpenFeature.
-Should it be accepted, the project will establish governance following CNCF recommended practices. Until then, a temporary governance charter can be found [here](./governance-charter.md).
+OpenFeature is a CNCF sandbox project. The project follows [CNCF recommended governance practices](https://contribute.cncf.io/maintainers/governance/).
 
 ## Code of Conduct
 
