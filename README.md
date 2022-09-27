@@ -38,7 +38,7 @@ Please use the `#openfeature` hashtag or mention our accounts when you share the
 ## Roadmap
 
 The project roadmap is available [here](https://github.com/orgs/open-feature/projects/1).
-New initiatives require an accepted [OpenFeature Enhancement Proposal (OFEP)](https://github.com/open-feature/research). A community decision will then be made as documented in [Decision Making](./governance-charter.md#decision-making).
+New initiatives require an accepted [OpenFeature Enhancement Proposal (OFEP)](https://github.com/open-feature/ofep). A community decision will then be made as documented in [Decision Making](./governance-charter.md#decision-making).
 
 ## Contributing
 
