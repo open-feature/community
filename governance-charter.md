@@ -18,11 +18,11 @@ and organizing elections for the elected governance board body.
 
 Members of the governing committee:
 
-- Michael Beemer, Dynatrace, term: April 28, 2022 - TBD
-- Ben Rometsch, Flagsmith, term: April 28, 2022 - TBD
-- Justin Abrahms, eBay, term: April 28, 2022 - TBD
-- Kevin Chu, GitLab, term: April 28, 2022 - TBD
-- Pete Hodgson, Independent, term: April 28, 2022 - TBD
+- [Michael Beemer](https://github.com/beeme1mr), Dynatrace, term: April 28, 2022 - TBD
+- [Ben Rometsch](https://github.com/dabeeeenster), Flagsmith, term: April 28, 2022 - TBD
+- [Justin Abrahms](https://github.com/justinabrahms), eBay, term: April 28, 2022 - TBD
+- [Kevin Chu](https://github.com/kbychu), GitLab, term: April 28, 2022 - TBD
+- [Pete Hodgson](https://github.com/moredip), Independent, term: April 28, 2022 - TBD
 - Vacant
 - Vacant
 
@@ -44,9 +44,9 @@ At the moment, TSC members do not get special permissions beyond what other main
 
 ### TSC Members
 
-- Todd Baert, Dynatrace, term: April 28, 2022 - April 28, 2023
-- Steve Arch, CloudBees, term: April 28, 2022 - April 28, 2023
-- Dan O’Brien, LaunchDarkly, term: April 28, 2022 - April 28, 2023
+- [Todd Baert](https://github.com/toddbaert), Dynatrace, term: April 28, 2022 - April 28, 2023
+- [Steve Arch](https://github.com/agentgonzo), CloudBees, term: April 28, 2022 - April 28, 2023
+- [Dan O’Brien](https://github.com/InTheCloudDan), LaunchDarkly, term: April 28, 2022 - April 28, 2023
 
 ### TSC Charter
 
