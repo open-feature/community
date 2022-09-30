@@ -55,6 +55,11 @@ By submitting pull requests, submitters acknowledge they grant the [Apache Licen
 
 The OpenFeature specification defines abstractions and interfaces for the purposes of flexibly integrating with various feature flag management systems, as well as with tools related to feature flag evaluation (such as telemetry and logging). In order to maintain [neutrality and no/low dependencies](https://github.com/open-feature/spec#design-principles), implementations of these abstractions should not be included in SDKs. Such implementations may exist in the "contribs" repository for their respective language (ie: https://github.com/open-feature/node-sdk-contrib) or in other repositories not owned by the OpenFeature organization. We recommend implementations be open source, but that's not a requirement.
 
+## Adopters
+This is a list of organizations using this project in production or at stages of testing.
+
+- [eBay](https://ebayinc.com/tech/)
+
 ## Governance
 
 OpenFeature is a CNCF sandbox project. The project follows [CNCF recommended governance practices](https://contribute.cncf.io/maintainers/governance/).
