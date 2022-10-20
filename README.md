@@ -1,13 +1,82 @@
-# OpenFeature Community
+# OpenFeature Community Content
+
+## Getting involved
+
+If you are interested to be informed about the project or to contribute, feel free to add yourself and/or your organization to [Interested Parties](./interested-parties.md). 
+
+
+## Governing Bodies
+
+* Governance Commitee (GC): Charter, Members
+* Technical Commitee (TC): Charter, Members
+
+## Areas of Interest
+
+Technical committee members, maintainers, and approvers are encouraged to list their areas of interest in this document to help community members find interested parties and form new special interest groups.
+
+### Interested Parties
+
+
+If you are interested to be informed about the project or to contribute, feel free to add yourself and/or your organization to [Interested Parties](./interested-parties.md).
+
+## Communication
+
+### Discussions
+
+
+### Calendar
+
+
+### Roadmap
+
+The project roadmap is available [here](https://github.com/orgs/open-feature/projects/1).
+New initiatives require an accepted [OpenFeature Enhancement Proposal (OFEP)](https://github.com/open-feature/ofep). A community decision will then be made as documented in [Decision Making](./governance-charter.md#decision-making).
+
+### Mailing Lists 
+
+TODO
+
+### License
+
+All OpenFeature projects are shipped under the permissive [Apache License v2](./LICENSE). as CNCF IP Policy dictates. This blog post explains the reasoning behind choosing this license. Refer to CONTRIBUTING.md for details on code attribution.
+
+### Logos and Brand Guide
+
+The OpenFeature logos and brand guide can be found in the CNCF artwork repository. In addition, a Google Slides template is also available.
+
+### Social Media 
+
+Follow-us on social media and help us to spread the word!
+Please use the `#openfeature` hashtag or mention our accounts when you share the content.
+
+- Twitter: [@openfeature](https://twitter.com/openfeature)
+- LinkedIn: [OpenFeature](https://www.linkedin.com/company/openfeature/)
+
+
+### Special Interest Groups
+
+You can find us in the `#openfeature` channel on the CNCF Slack Workspace. You can join the CNCF Slack Workspace by registering [here](https://slack.cncf.io).
+
+|| Name || Meeting Time || Meeting Notes || Discussions ||
+|        |               |                |              |    
+
+### Implementation SIGs
+
+You can find us in the `#openfeature` channel on the CNCF Slack Workspace. You can join the CNCF Slack Workspace by registering [here](https://slack.cncf.io).
+
+TODO:
+
+|| Name || Meeting Time || Meeting Notes || Discussions || Technical Commitee Sponsors  ||
+|        |               |                |              |                               |
+
+
+
 
 [![Roadmap](https://img.shields.io/static/v1?label=Roadmap&message=public&color=green)](https://github.com/orgs/open-feature/projects/1)
 [![Contributing](https://img.shields.io/static/v1?label=Contributing&message=guide&color=blue)](https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md)
-[![Twitter Follow](https://img.shields.io/twitter/follow/openfeature?style=social)](https://twitter.com/openfeature)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/openfeature)
 
-## Welcome to the OpenFeature community!
 
-If you are interested to be informed about the project or to contribute, feel free to add yourself and/or your organization to [Interested Parties](./interested-parties.md).
+
 
 ## Meetings and events
 
@@ -25,20 +94,11 @@ Notes and recordings from previous meetings can be found below:
 
 ## Slack
 
-You can find us in the `#openfeature` channel on the CNCF Slack Workspace. You can join the CNCF Slack Workspace by registering [here](https://slack.cncf.io).
 
-## Community
 
-Follow-us on social media and help us to spread the word!
-Please use the `#openfeature` hashtag or mention our accounts when you share the content.
 
-- Twitter: [@openfeature](https://twitter.com/openfeature)
-- LinkedIn: [OpenFeature](https://www.linkedin.com/company/openfeature/)
 
-## Roadmap
 
-The project roadmap is available [here](https://github.com/orgs/open-feature/projects/1).
-New initiatives require an accepted [OpenFeature Enhancement Proposal (OFEP)](https://github.com/open-feature/ofep). A community decision will then be made as documented in [Decision Making](./governance-charter.md#decision-making).
 
 ## Contributing
 
@@ -77,4 +137,3 @@ version 2.1, available
 
 OpenFeature is an open specification and open source project.
 Unless another license is specified explicitly,
-all contents in this GitHub organization are licensed under [Apache License v2](./LICENSE).
