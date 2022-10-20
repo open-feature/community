@@ -20,6 +20,7 @@ If you are interested to be informed about the project or to contribute, feel fr
 
 ## Communication
 
+TBD
 
 ### Discussions
 
