@@ -16,15 +16,22 @@ Technical committee members, maintainers, and approvers are encouraged to list t
 
 ### Interested Parties
 
-
 If you are interested to be informed about the project or to contribute, feel free to add yourself and/or your organization to [Interested Parties](./interested-parties.md).
 
 ## Communication
+
 
 ### Discussions
 
 
 ### Calendar
+
+The community calendar contains all the upcoming OpenFeature meetings and events. You can access it via:
+
+- [Web](https://calendar.google.com/calendar/embed?src=0ua7i1hiv5dh18b27toah63644%40group.calendar.google.com)
+- [Google
+  Calendar](https://calendar.google.com/calendar/u/0?cid=MHVhN2kxaGl2NWRoMThiMjd0b2FoNjM2NDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+- [iCal](https://calendar.google.com/calendar/ical/0ua7i1hiv5dh18b27toah63644%40group.calendar.google.com/public/basic.ics)
 
 
 ### Roadmap
@@ -57,6 +64,11 @@ Please use the `#openfeature` hashtag or mention our accounts when you share the
 
 You can find us in the `#openfeature` channel on the CNCF Slack Workspace. You can join the CNCF Slack Workspace by registering [here](https://slack.cncf.io).
 
+Notes and recordings from previous meetings can be found below:
+
+- [Meeting notes](https://docs.google.com/document/d/1pp6t2giTcdEdVAri_2B1Z6Mv8mHhvtZT1AmkPV9K7xQ/edit?usp=sharing)
+- [Recordings](https://www.youtube.com/channel/UCXSFt-dT2HORGXz1-ksxtxw)
+
 || Name || Meeting Time || Meeting Notes || Discussions ||
 |        |               |                |              |    
 
@@ -68,37 +80,6 @@ TODO:
 
 || Name || Meeting Time || Meeting Notes || Discussions || Technical Commitee Sponsors  ||
 |        |               |                |              |                               |
-
-
-
-
-[![Roadmap](https://img.shields.io/static/v1?label=Roadmap&message=public&color=green)](https://github.com/orgs/open-feature/projects/1)
-[![Contributing](https://img.shields.io/static/v1?label=Contributing&message=guide&color=blue)](https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md)
-
-
-
-
-## Meetings and events
-
-The community calendar contains all the upcoming OpenFeature meetings and events. You can access it via:
-
-- [Web](https://calendar.google.com/calendar/embed?src=0ua7i1hiv5dh18b27toah63644%40group.calendar.google.com)
-- [Google
-  Calendar](https://calendar.google.com/calendar/u/0?cid=MHVhN2kxaGl2NWRoMThiMjd0b2FoNjM2NDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-- [iCal](https://calendar.google.com/calendar/ical/0ua7i1hiv5dh18b27toah63644%40group.calendar.google.com/public/basic.ics)
-
-Notes and recordings from previous meetings can be found below:
-
-- [Meeting notes](https://docs.google.com/document/d/1pp6t2giTcdEdVAri_2B1Z6Mv8mHhvtZT1AmkPV9K7xQ/edit?usp=sharing)
-- [Recordings](https://www.youtube.com/channel/UCXSFt-dT2HORGXz1-ksxtxw)
-
-## Slack
-
-
-
-
-
-
 
 ## Contributing
 
@@ -120,9 +101,6 @@ This is a list of organizations using this project in production or at stages of
 
 - [eBay](https://ebayinc.com/tech/)
 
-## Governance
-
-OpenFeature is a CNCF sandbox project. The project follows [CNCF recommended governance practices](https://contribute.cncf.io/maintainers/governance/).
 
 ## Code of Conduct
 
@@ -133,7 +111,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 version 2.1, available
 [here](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
 
-## License
 
-OpenFeature is an open specification and open source project.
-Unless another license is specified explicitly,
