@@ -7,8 +7,8 @@ If you are interested to be informed about the project or to contribute, feel fr
 
 ## Governing Bodies
 
-* Governance Commitee (GC): Charter, Members
-* Technical Commitee (TC): Charter, Members
+* Governance Commitee (GC): Charter, [Members](./community-members.md#governance-board)
+* Technical Commitee (TC): Charter, [Members](./community-members.md#technical-commitee)
 
 ## Areas of Interest
 
