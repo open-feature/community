@@ -34,7 +34,7 @@ Members of the Technical Committee are the maintainers of OpenFeature spec
 
 Spec Approvers:
 
-* 
+
 
 ## Java SDK
 
