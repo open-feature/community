@@ -50,7 +50,7 @@ All OpenFeature projects are shipped under the permissive [Apache License v2](./
 
 ### Logos and Brand Guide
 
-The OpenFeature logos and brand guide can be found in the CNCF artwork repository. In addition, a Google Slides template is also available.
+The OpenFeature logos and brand guide can be found in the [CNCF artwork repository](https://github.com/cncf/artwork/tree/master/projects/openfeature). In addition, a Google Slides template is also available.
 
 ### Social Media 
 
