@@ -1,1 +1,1 @@
-# Technical Commitee Charter
+# Technical Committee Charter
