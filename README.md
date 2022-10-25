@@ -40,17 +40,13 @@ The community calendar contains all the upcoming OpenFeature meetings and events
 The project roadmap is available [here](https://github.com/orgs/open-feature/projects/1).
 New initiatives require an accepted [OpenFeature Enhancement Proposal (OFEP)](https://github.com/open-feature/ofep). A community decision will then be made as documented in [Decision Making](./governance-charter.md#decision-making).
 
-### Mailing Lists 
-
-TODO
-
 ### License
 
 All OpenFeature projects are shipped under the permissive [Apache License v2](./LICENSE) as CNCF IP Policy dictates. This blog post explains the reasoning behind choosing this license. Refer to CONTRIBUTING.md for details on code attribution.
 
 ### Logos and Brand Guide
 
-The OpenFeature logos and brand guide can be found in the [CNCF artwork repository](https://github.com/cncf/artwork/tree/master/projects/openfeature). In addition, a Google Slides template is also available.
+The OpenFeature logos and brand guide can be found in the [CNCF artwork repository](https://github.com/cncf/artwork/tree/master/projects/openfeature). 
 
 ### Social Media 
 
