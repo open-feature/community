@@ -46,7 +46,7 @@ TODO
 
 ### License
 
-All OpenFeature projects are shipped under the permissive [Apache License v2](./LICENSE). as CNCF IP Policy dictates. This blog post explains the reasoning behind choosing this license. Refer to CONTRIBUTING.md for details on code attribution.
+All OpenFeature projects are shipped under the permissive [Apache License v2](./LICENSE) as CNCF IP Policy dictates. This blog post explains the reasoning behind choosing this license. Refer to CONTRIBUTING.md for details on code attribution.
 
 ### Logos and Brand Guide
 
