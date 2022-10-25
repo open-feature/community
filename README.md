@@ -74,8 +74,6 @@ Notes and recordings from previous meetings can be found below:
 
 You can find us in the `#openfeature` channel on the CNCF Slack Workspace. You can join the CNCF Slack Workspace by registering [here](https://slack.cncf.io).
 
-TODO:
-
 
 | Name | Meeting Time | Meeting Notes | Discussions | Technical Commitee Sponsors |
 | ---- | ------------ | ------------- | ----------- | --------------------------- |
