@@ -70,8 +70,9 @@ Notes and recordings from previous meetings can be found below:
 - [Meeting notes](https://docs.google.com/document/d/1pp6t2giTcdEdVAri_2B1Z6Mv8mHhvtZT1AmkPV9K7xQ/edit?usp=sharing)
 - [Recordings](https://www.youtube.com/channel/UCXSFt-dT2HORGXz1-ksxtxw)
 
-|| Name || Meeting Time || Meeting Notes || Discussions ||
-| tbd     |   tbd            |   tbd             |       tbd       |    
+| Name | Meeting Time | Meeting Notes | Discussions |
+| ---- | ------------ | ------------- | ----------- |
+|      |              |               |             |    
 
 ### Implementation SIGs
 
@@ -79,8 +80,10 @@ You can find us in the `#openfeature` channel on the CNCF Slack Workspace. You c
 
 TODO:
 
-|| Name || Meeting Time || Meeting Notes || Discussions || Technical Commitee Sponsors  ||
-|   tbd     |       tbd        |      tbd          |    tbd          |           tbd                    |
+
+| Name | Meeting Time | Meeting Notes | Discussions | Technical Commitee Sponsors |
+| ---- | ------------ | ------------- | ----------- | --------------------------- |
+|      |              |               |             |                             |
 
 ## Contributing
 
