@@ -8,7 +8,7 @@ If you are interested to be informed about the project or to contribute, feel fr
 ## Governing Bodies
 
 * Governance Commitee (GC): [Charter](./governance-charter.md), [Members](./community-members.md#governance-board)
-* Technical Commitee (TC): [Charter](.tech-commitee-charter.md), [Members](./community-members.md#technical-commitee)
+* Technical Committee (TC): [Charter](./tech-committee-charter.md), [Members](./community-members.md#technical-committee)
 
 ## Areas of Interest
 
@@ -46,11 +46,11 @@ TODO
 
 ### License
 
-All OpenFeature projects are shipped under the permissive [Apache License v2](./LICENSE). as CNCF IP Policy dictates. This blog post explains the reasoning behind choosing this license. Refer to CONTRIBUTING.md for details on code attribution.
+All OpenFeature projects are shipped under the permissive [Apache License v2](./LICENSE) as CNCF IP Policy dictates. This blog post explains the reasoning behind choosing this license. Refer to CONTRIBUTING.md for details on code attribution.
 
 ### Logos and Brand Guide
 
-The OpenFeature logos and brand guide can be found in the CNCF artwork repository. In addition, a Google Slides template is also available.
+The OpenFeature logos and brand guide can be found in the [CNCF artwork repository](https://github.com/cncf/artwork/tree/master/projects/openfeature). In addition, a Google Slides template is also available.
 
 ### Social Media 
 
