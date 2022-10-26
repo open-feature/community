@@ -24,7 +24,7 @@ Members of the governing committee:
 - [Kevin Chu](https://github.com/kbychu), GitLab, term: April 28, 2022 - TBD
 - [Pete Hodgson](https://github.com/moredip), Independent, term: April 28, 2022 - TBD
 - [Alois Reitbauer](https://github.com/aloisreitbauer), Dynatrace, term: Oct 1st, 2022 - TBD
-- Vacant
+- [Alex Jones](https://github.com/AlexsJones), Canonical, term: Oct 26th, 2022 - TBD
 
 > NOTE:
 > In April 2022 _Project Maintainers_ assigned five seven individuals to be members of the _Bootstrap Governing Committee_.
