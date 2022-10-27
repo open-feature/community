@@ -29,7 +29,6 @@ Members of the governing committee:
 > NOTE:
 > In April 2022 _Project Maintainers_ assigned five seven individuals to be members of the _Bootstrap Governing Committee_.
 > This is a **temporary** arrangement that should be replaced by an elected governing body before March 2024.
-> Two seats remain vacant at the moment
 
 ## Technical Steering Committee (TSC)
 
