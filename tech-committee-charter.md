@@ -19,7 +19,7 @@ Changes to TC membership should be posted in the agenda document, and may be sug
 
 ### No Over-Representation
 
-No more than one-fourth (25%) of the TC members may be affiliated with the same employer (in the event of confusion or concern, the OpenTelemetry TC will defer to the CNCF definition of "same employer"). If removal or resignation of a TC member, or a change of employment by a TC member, creates a situation where more than one-fourth of the TC membership shares an employer, then the situation must be immediately remedied by the election of a new TC member, the resignation or removal of one or more TC members affiliated with the over-represented employer(s).
+No more than one-fourth (25%) of the TC members may be affiliated with the same employer (in the event of confusion or concern, the OpenFeature TC will defer to the CNCF definition of "same employer"). If removal or resignation of a TC member, or a change of employment by a TC member, creates a situation where more than one-fourth of the TC membership shares an employer, then the situation must be immediately remedied by the election of a new TC member, the resignation or removal of one or more TC members affiliated with the over-represented employer(s).
 
 ### Participation
 
