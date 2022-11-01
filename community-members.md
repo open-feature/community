@@ -10,6 +10,7 @@ This is the current Governance Committee, per the Governance Committee Charter, 
 - [Kevin Chu](https://github.com/kbychu), GitLab, term: April 28, 2022 - TBD
 - [Michael Beemer](https://github.com/beeme1mr), Dynatrace, term: April 28, 2022 - TBD
 - [Pete Hodgson](https://github.com/moredip), Independent, term: April 28, 2022 - TBD
+- [Alex Jones](https://github.com/AlexsJones), Canonical, term: Nev 1, 2022 - TBD
 
 currently there is one vacant seat
 
