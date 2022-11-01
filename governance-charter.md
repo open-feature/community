@@ -16,15 +16,6 @@ handling the Code of Conduct escalations,
 defining and approving with the project members the final governance model,
 and organizing elections for the elected governance board body.
 
-Members of the governing committee:
-
-- [Michael Beemer](https://github.com/beeme1mr), Dynatrace, term: April 28, 2022 - TBD
-- [Ben Rometsch](https://github.com/dabeeeenster), Flagsmith, term: April 28, 2022 - TBD
-- [Justin Abrahms](https://github.com/justinabrahms), eBay, term: April 28, 2022 - TBD
-- [Pete Hodgson](https://github.com/moredip), Independent, term: April 28, 2022 - TBD
-- [Alois Reitbauer](https://github.com/aloisreitbauer), Dynatrace, term: Oct 1st, 2022 - TBD
-- [Alex Jones](https://github.com/AlexsJones), Canonical, term: Oct 26th, 2022 - TBD
-- Vacant
 
 > NOTE:
 > In April 2022 _Project Maintainers_ assigned five seven individuals to be members of the _Bootstrap Governing Committee_.
