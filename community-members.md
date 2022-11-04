@@ -18,7 +18,7 @@ currently there is one vacant seat
 > This is a **temporary** arrangement that should be replaced by an elected governing body before March 2024.
 > Two seats remain vacant at the moment
 
-## Technical Commitee
+## Technical Committee
 
 This is the current Technical Committee, per the Technical Committee Charter, in alphabetical order:
 
