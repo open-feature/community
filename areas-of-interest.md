@@ -47,7 +47,7 @@ contact.
 ### [Justin Abrahms](https://github.com/justinabrahms), eBay
 
 - 
-### [Kevin Chu](https://github.com/kbychu), GitLab
+### [Alex Jones](https://github.com/AlexsJones), Canonical
 
 - 
 ### [Michael Beemer](https://github.com/beeme1mr), Dynatrace
