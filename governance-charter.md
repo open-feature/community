@@ -1,11 +1,25 @@
 # OpenFeature Governance Charter
 
+## Overview
+
 This document describes the bootstrap governance process under which the project will operate
 until the final governance process is identified.
 
 > :warning: This is a temporary (aka bootstrap) governance document that
 > is effective until the project is fully established.
 > See [this issue](https://github.com/open-feature/governance/issues/11) for the scope of the full governance document.
+
+## Goals
+
+The initial role of the governance committee is to **instantiate the formal
+process for OpenFeature governance**. In addition to defining the initial
+governance process, the bootstrap committee strongly believes that **it is
+important to provide a means for iterating** the processes defined by the
+governance committee. We do not believe that we will get it right the first
+time, or possibly ever, and won’t even complete the governance development in a
+single shot. The role of the governance committee is to be a live, responsive
+body that can refactor and reform as necessary to adapt to a changing project
+and community.
 
 ## Governing Committee
 
