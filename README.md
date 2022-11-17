@@ -1,5 +1,29 @@
 # OpenFeature Community Content
 
+<details>
+<summary>
+Table of Contents
+</summary>
+
+* [Getting Involved](#getting-involved)
+* [Governing Bodies](#governing-bodies)
+* [Areas of Interest](#areas-of-interest)
+* [Communication](#communication)
+  * [Discussions](#discussions)
+  * [Calendar](#calendar)
+  * [Social Media](social-media)
+* [Roadmap](#roadmap)
+* [License](#license)
+* [Logos and Brand Guide](#logos-and-brand-guide)
+* [Special Interest Groups](#special-interest-groups)
+* [Contributing](#contributing)
+  * [Contributing Prerequisites (DCO)](#contributing-prerequisites)
+* [Associated Components and Implementations](#associated-components-and-implementations)
+* [Adopters](#adopters)
+* [Code of Conduct](#code-of-conduct)
+
+</details>
+
 ## Getting involved
 
 If you are interested to be informed about the project or to contribute, feel free to add yourself and/or your organization to [Interested Parties](./interested-parties.md). 
@@ -20,10 +44,11 @@ If you are interested to be informed about the project or to contribute, feel fr
 
 ## Communication
 
-TBD
-
 ### Discussions
 
+We use [GitHub discussions](https://github.com/open-feature/community/discussions) for most communications. Please join us there!
+
+For those who are brand new to OpenFeature and want to chat or get redirected to the appropriate place for a specific question, feel free to join [the CNCF OpenFeature Slack channel](https://cloud-native.slack.com/archives/C0344AANLA1). If you are new, you can create a CNCF Slack account [here](http://slack.cncf.io/).
 
 ### Calendar
 
@@ -34,20 +59,6 @@ The community calendar contains all the upcoming OpenFeature meetings and events
   Calendar](https://calendar.google.com/calendar/u/0?cid=MHVhN2kxaGl2NWRoMThiMjd0b2FoNjM2NDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 - [iCal](https://calendar.google.com/calendar/ical/0ua7i1hiv5dh18b27toah63644%40group.calendar.google.com/public/basic.ics)
 
-
-### Roadmap
-
-The project roadmap is available [here](https://github.com/orgs/open-feature/projects/1).
-New initiatives require an accepted [OpenFeature Enhancement Proposal (OFEP)](https://github.com/open-feature/ofep). A community decision will then be made as documented in [Decision Making](./governance-charter.md#decision-making).
-
-### License
-
-All OpenFeature projects are shipped under the permissive [Apache License v2](./LICENSE) as CNCF IP Policy dictates. This blog post explains the reasoning behind choosing this license. Refer to CONTRIBUTING.md for details on code attribution.
-
-### Logos and Brand Guide
-
-The OpenFeature logos and brand guide can be found in the [CNCF artwork repository](https://github.com/cncf/artwork/tree/master/projects/openfeature). 
-
 ### Social Media 
 
 Follow-us on social media and help us to spread the word!
@@ -56,8 +67,21 @@ Please use the `#openfeature` hashtag or mention our accounts when you share the
 - Twitter: [@openfeature](https://twitter.com/openfeature)
 - LinkedIn: [OpenFeature](https://www.linkedin.com/company/openfeature/)
 
+## Roadmap
 
-### Special Interest Groups
+The project roadmap is available [here](https://github.com/orgs/open-feature/projects/1).
+New initiatives require an accepted [OpenFeature Enhancement Proposal (OFEP)](https://github.com/open-feature/ofep). A community decision will then be made as documented in [Decision Making](./governance-charter.md#decision-making).
+
+## License
+
+All OpenFeature projects are shipped under the permissive [Apache License v2](./LICENSE) as CNCF IP Policy dictates. This blog post explains the reasoning behind choosing this license. Refer to CONTRIBUTING.md for details on code attribution.
+
+## Logos and Brand Guide
+
+The OpenFeature logos and brand guide can be found in the [CNCF artwork repository](https://github.com/cncf/artwork/tree/master/projects/openfeature). 
+
+
+## Special Interest Groups
 
 You can find us in the `#openfeature` channel on the CNCF Slack Workspace. You can join the CNCF Slack Workspace by registering [here](https://slack.cncf.io).
 
@@ -70,14 +94,6 @@ Notes and recordings from previous meetings can be found below:
 | ---- | ------------ | ------------- | ----------- |
 |      |              |               |             |    
 
-### Implementation SIGs
-
-You can find us in the `#openfeature` channel on the CNCF Slack Workspace. You can join the CNCF Slack Workspace by registering [here](https://slack.cncf.io).
-
-
-| Name | Meeting Time | Meeting Notes | Discussions | Technical Commitee Sponsors |
-| ---- | ------------ | ------------- | ----------- | --------------------------- |
-|      |              |               |             |                             |
 
 ## Contributing
 
@@ -95,9 +111,8 @@ By submitting pull requests, submitters acknowledge they grant the [Apache Licen
 The OpenFeature specification defines abstractions and interfaces for the purposes of flexibly integrating with various feature flag management systems, as well as with tools related to feature flag evaluation (such as telemetry and logging). In order to maintain [neutrality and no/low dependencies](https://github.com/open-feature/spec#design-principles), implementations of these abstractions should not be included in SDKs. Such implementations may exist in the "contribs" repository for their respective language (ie: https://github.com/open-feature/node-sdk-contrib) or in other repositories not owned by the OpenFeature organization. We recommend implementations be open source, but that's not a requirement.
 
 ## Adopters
-This is a list of organizations using this project in production or at stages of testing.
 
-- [eBay](https://ebayinc.com/tech/)
+Please refer to [Adopters list](https://github.com/open-feature/community/ADOPTERS.md)
 
 
 ## Code of Conduct
