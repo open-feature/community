@@ -112,7 +112,7 @@ The OpenFeature specification defines abstractions and interfaces for the purpos
 
 ## Adopters
 
-Please refer to [Adopters list](https://github.com/open-feature/community/ADOPTERS.md)
+Please refer to [Adopters list](https://github.com/open-feature/community/blob/main/ADOPTERS.md)
 
 
 ## Code of Conduct
