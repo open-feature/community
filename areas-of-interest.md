@@ -61,4 +61,4 @@ contact.
 - Community and Outreach
 - Adoption
 
-<!-- ### [_Your name here_](http://github.com/your_name), Your Company -->
+<!-- ### [_Your name here_](https://github.com/your_name), Your Company -->
