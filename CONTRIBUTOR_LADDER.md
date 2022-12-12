@@ -303,4 +303,4 @@ Contact the Maintainers about changing to Emeritus status, or reducing your cont
 
 ## Contact
 * For inquiries, please reach out to:
-    *  memebers of the Governance Board
+    *  members of the Governance Board
