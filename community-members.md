@@ -28,6 +28,10 @@ This is the current Technical Committee, per the Technical Committee Charter, in
 
 ## Community Management
 
+These are community maintainers, responsible for cross-functional project communications, events, and other functions as needed.
+
+[David Hirsch](https://github.com/DavidPHirsch)Dynatrace
+
 ## Specifications and Approvers
 
 Members of the Technical Committee are the maintainers of OpenFeature spec
