@@ -23,7 +23,7 @@ Each of the contributor roles is organized into lists of three types of things. 
 
 ### Community Participant
 
-Description: A Community Participant engages with the project and its community, contributing their time, thoughts, etc. Community participants are usually users who have stopped being anonymous and started being active in project discussions.
+A Community Participant engages with the project and its community, contributing their time, thoughts, etc. Community participants are usually users who have stopped being anonymous and started being active in project discussions.
 
 * Responsibilities:
     * Must follow the [CNCF CoC](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
