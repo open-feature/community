@@ -189,7 +189,7 @@ approver in the `CODEOWNERS` files.
 
 ### Maintainer
 
-Note: This is a generalized high-level description of the role, and the
+> Note: This is a generalized high-level description of the role, and the
 specifics of the maintainer role's responsibilities and related processes *MUST*
 be defined for individual subprojects.
 
