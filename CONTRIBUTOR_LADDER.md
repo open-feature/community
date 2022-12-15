@@ -1,4 +1,4 @@
-# OpenFeature Contributor Ladder - DRAFT
+# OpenFeature Contributor Ladder
 
 
 * [Contributor Ladder](#contributor-ladder-template)
@@ -66,7 +66,7 @@ An Organization Member is an established contributor who regularly participates 
 An Organization Member must meet the responsibilities and has the requirements of a Contributor, plus:
 
 * Responsibilities include:
-    * Continues to contribute regularly, as demonstrated by having at least [TODO: Number] [TODO: Metric] a year, as demonstrated by [TODO: contributor metrics source]. <!-- Example: "as demonstrated by having at least 50 GitHub contributions per year, as shown by Devstats"-->
+* Continues to contribute regularly
 * Requirements:
 * Enabled [two-factor
   authentication](https://help.github.com/articles/about-two-factor-authentication)
@@ -106,15 +106,13 @@ An Organization Member must meet the responsibilities and has the requirements o
     * Entitled to vote in the [TODO: appropriate election]
     * Can be added to [TODO: Repo Host] teams
     * Can recommend other contributors to become Org Members
-    * [TODO: Other Privileges]
-
-
+    
 The process for a Contributor to become an Organization Member is as follows:
 
-<!-- the process of becoming an organization member is going to depend strongly on how your project manages its infrastructure. TODO: Project leads to fill in exact details of how a contributor becomes an organization member-->
-1.
-2.
-3.
+1. Open an issue using the "membership" template and fill in with details.
+2. Reach out to current members to sponsor you.
+3. Listyou contributions to the project.
+
 
 ### Triager
 Triagers assist the maintainers and approvers with project management and
@@ -273,19 +271,18 @@ in order to improve your chances to become a maintainer in the future.
 
 Process of becoming a maintainer:
 
-1. Any current Maintainer may nominate a current Reviewer to become a new Maintainer, by opening a PR against the root of the [TODO: main repository name] adding the nominee as an Approver in the OWNERS file.
+1. Any current Maintainer may nominate a current Reviewer to become a new Maintainer, by opening a PR against the respective repository (Spec, java-sdk, community..) adding the nominee as an Approver in the respective maintainer group.
 2. The nominee will add a comment to the PR testifying that they agree to all requirements of becoming a Maintainer.
 3. A majority of the current Maintainers must then approve the PR.
 
 
 
 ## Inactivity
-<!--TODO: project leads to fill in exact details for how you measure inactivity for your project-->
 It is important for contributors to be and stay active to set an example and show commitment to the project. Inactivity is harmful to the project as it may lead to unexpected delays, contributor attrition, and a lost of trust in the project.
 
 * Inactivity is measured by:
-    * Periods of no contributions for longer than [TODO: Number] months
-    * Periods of no communication for longer than [TODO: Number] months
+    * Periods of no contributions for longer than 4 months
+    * Periods of no communication for longer than 4 months
 * Consequences of being inactive include:
     * Involuntary removal or demotion
     * Being asked to move to Emeritus status
