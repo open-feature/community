@@ -38,7 +38,7 @@ A Community Participant engages with the project and its community, contributing
 
 ### Contributor
 
-Description: A Contributor contributes directly to the project and adds value to it. Contributions need not be code. People at the Contributor level may be new contributors, or they may only contribute occasionally.
+A Contributor contributes directly to the project and adds value to it. Contributions need not be code. People at the Contributor level may be new contributors, or they may only contribute occasionally.
 
 * Responsibilities include:
     * Follow the [CNCF CoC](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
