@@ -61,7 +61,7 @@ A Contributor contributes directly to the project and adds value to it. Contribu
 
 ### Organization Member
 
-Description: An Organization Member is an established contributor who regularly participates in the project. Organization Members have privileges in both project repositories and elections, and as such are expected to act in the interests of the whole project.
+An Organization Member is an established contributor who regularly participates in the project. Organization Members have privileges in both project repositories and elections, and as such are expected to act in the interests of the whole project.
 
 An Organization Member must meet the responsibilities and has the requirements of a Contributor, plus:
 
