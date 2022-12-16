@@ -1,9 +1,9 @@
 ---
 name: Organization Membership Request
-about: Request membership in the OpenFeature Org
+about: Request membership for the OpenFeature Org
 title: 'REQUEST: New membership for <your-GH-handle>'
 labels: area/github-membership
-assignees: ''
+assignees: '@open-feature/maintainers'
 
 ---
 
