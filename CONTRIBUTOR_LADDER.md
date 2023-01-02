@@ -33,6 +33,7 @@ A Community Participant engages with the project and its community, contributing
     * Commenting on issues
     * Trying out new releases
     * Attending community events
+    * Reviewing pull requests
 
 
 ### Contributor
