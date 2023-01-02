@@ -29,7 +29,6 @@ A Community Participant engages with the project and its community, contributing
     * Must follow the [CNCF CoC](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
 * How users can get involved with the community:
     * Participating in community discussions
-    * Helping other users
     * Submitting bug reports
     * Commenting on issues
     * Trying out new releases
