@@ -21,55 +21,55 @@ single shot. The role of the governance committee is to be a live, responsive
 body that can refactor and reform as necessary to adapt to a changing project
 and community.
 
-## Governing Committee
+## Governance Committee
 
-The _Governing Committee_ is responsible for
+The _Governance Committee_ is responsible for
 representing the project,
 making a final decision if a consensus cannot be reached (see _Decision Making_),
 handling the Code of Conduct escalations,
 defining and approving with the project members the final governance model,
 and organizing elections for the elected governance board body.
 
+### Governance Committee Members
+[Governance Committee Members](https://github.com/open-feature/community/blob/main/community-members.md#governance-board)
 
 > NOTE:
-> In April 2022 _Project Maintainers_ assigned five seven individuals to be members of the _Bootstrap Governing Committee_.
+> In April 2022 _Project Maintainers_ assigned five seven individuals to be members of the _Bootstrap Governance Committee_.
 > This is a **temporary** arrangement that should be replaced by an elected governing body before March 2024.
 
-## Technical Steering Committee (TSC)
+## Technical Steering Committee (TC)
 
-The project has a _Technical Steering Committee (TSC)_
+The project has a _Technical Committee (TC)_
 that consists of three maintainers who actively contribute to the project.
-The role of the steering committee is to facilitate development of the
+The role of the technical committee is to facilitate development of the
 OpenFeature specification and other technical decisions in the project.
 The responsibilities include reviewing the incoming enhancement proposal and pull requests,
 driving the decision making process
 and building consensus among the OpenFeature community.
-At the moment, TSC members do not get special permissions beyond what other maintainers have.
+At the moment, TC members do not get special permissions beyond what other maintainers have.
 
-### TSC Members
+### TC Members
+[Technical Committee Members](https://github.com/open-feature/community/blob/main/community-members.md#technical-committee)
 
-- [Todd Baert](https://github.com/toddbaert), Dynatrace, term: April 28, 2022 - April 28, 2023
-- [Steve Arch](https://github.com/agentgonzo), CloudBees, term: April 28, 2022 - April 28, 2023
-- [Dan O’Brien](https://github.com/InTheCloudDan), LaunchDarkly, term: April 28, 2022 - April 28, 2023
 
-### TSC Charter
+### TC Charter
 
-The technical steering committee is initially bootstrapped by 3 
+The technical committee is initially bootstrapped by 3 
 contributors based on the consensus of contributors and maintainers of the project.
 Their term is **one year**. 
-Then the steering committee members are re-elected based on the public nomination and decision making process.
-The same happens when a TSC member steps down from the role in the middle of the term,
-an acting TSC member is appointed by the community until the end of the term.
+Then the technical committee members are re-elected based on the public nomination and decision making process.
+The same happens when a TC member steps down from the role in the middle of the term,
+an acting TC member is appointed by the community until the end of the term.
 
-At any time, less than 50% of the TSC members can be affiliated with a single company.
+At any time, less than 50% of the TC members can be affiliated with a single company.
 If the affiliation changes during the term and violates the rule,
-one of the TSC members should step down.
+one of the TC members should step down.
 
 ## Decision making
 
 Decisions are made by a consensus of _Project Members_ and [Interested Parties](./interested-parties.md).
 If this consensus cannot be reached,
-the decision can be made by the plain majority vote of _Bootstrap Governing Committee Members_.
+the decision can be made by the plain majority vote of _Bootstrap Governance Committee Members_.
 
 <!-- TODO: List founding members or delegate the decision to CDF TAG App Delivery or another entity -->
 
@@ -88,31 +88,17 @@ but not for making decisions without prior discussion in async channels.
 ### Project roles
 
 The following project roles are defined at the moment:
-_Project member_,
+_Community Participant_,
+_Contributor_,
+_Organization Member_,
+_Triager_,
+_Approver_,
 _Maintainer_,
+_technical Committee member_,
 _Bootstrap Governance Committee Member_.
 These roles are defined below.
 
-#### Project members
-
-Project members are a group of contributors with the minimum entry bar.
-They are welcome to take leadership in initiatives
-and to participate in the project's open governance and decision making process.
-
-While the project is in the bootstrap governance phase,
-any individual who declares their interest in the [Interested Parties list](./interested-parties.md) will considered as project member and invited to the project's GitHub organization.
-It may require signing a Contributor License Agreement should it be introduced in the project.
-
-#### Maintainers
-
-Maintainers take responsibility for maintaining OpenFeature projects and repositories.
-They review and integrate changes submitted to their repositories,
-and also ensure that the decision making process is followed.
-Maintainer status can be granted within a single repository or within the entire GitHub organization.
-
-Maintainers are elected by project members according to the _Decision Making_ process.
-They are expected to demonstrate substantial code or non-code contributions to the project,
-and to also be able to dedicate some time to maintenance and regular participation in the community.
+See [Contributor Ladder](https://github.com/open-feature/community/blob/main/CONTRIBUTOR_LADDER.md) for additional information.
 
 In addition to the elected maintainer roles,
 3 individuals get the maintainer status at the inception of the project:
