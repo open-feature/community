@@ -36,7 +36,7 @@ If you are interested to be informed about the project or to contribute, feel fr
 
 ## Areas of Interest
 
-Technical committee members, maintainers, and approvers are encouraged to list their areas of interest in this document to help community members find interested parties and form new special interest groups.
+Technical committee members, maintainers, and approvers are encouraged to list their areas of interest in this [document](https://github.com/open-feature/community/blob/main/areas-of-interest.md) to help community members find interested parties and form new special interest groups.
 
 ### Interested Parties
 
