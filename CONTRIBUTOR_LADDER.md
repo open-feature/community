@@ -86,13 +86,11 @@ An Organization Member must meet the responsibilities and has the requirements o
 * Privileges:
     * May be assigned Issues and Reviews
     * May give commands to CI/CD automation
-    * Entitled to vote in the [TODO: appropriate election]
-    * Can be added to [TODO: Repo Host] teams
     * Can recommend other contributors to become Org Members
     
 The process for a Contributor to become an Organization Member is as follows:
 
- 1. Sponsored by 2 approvers. Note the following requirements for sponsors:
+ 1. Sponsored by 2 [Approver](#approver). Note the following requirements for sponsors:
          * Sponsors must have close interactions with the prospective member - e.g.
            code/design/proposal review, coordinating on issues, etc.
          * Sponsors must be approvers or maintainers in at least 1 CODEOWNERS file
@@ -163,7 +161,7 @@ The following apply to the part of the codebase for which one would be an
 approver in the `CODEOWNERS` files.
 
    * Reviewer of the codebase for at least 1 month
-   * Reviewer for or author of at least 10 substantial PRs to the codebase,
+   * Reviewer for or author of PRs to the codebase,
      with the definition of substantial subject to the maintainer's discretion
      (e.g. refactors/adds new functionality rather than one-line pulls).
    * Nominated by a maintainer
@@ -185,7 +183,6 @@ approver in the `CODEOWNERS` files.
    * May approve code contributions for acceptance
 
 ### Maintainer
-
 
 Maintainers are the technical authority for a subproject in the OpenFeature
 project. They *MUST* have demonstrated both good judgement and responsibility
