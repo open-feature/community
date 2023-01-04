@@ -30,7 +30,7 @@ This is the current Technical Committee, per the Technical Committee Charter, in
 
 These are community maintainers, responsible for cross-functional project communications, events, and other functions as needed.
 
-[David Hirsch](https://github.com/DavidPHirsch)Dynatrace
+[David Hirsch](https://github.com/DavidPHirsch) Dynatrace
 
 ## Specifications and Approvers
 
