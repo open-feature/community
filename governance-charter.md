@@ -37,7 +37,7 @@ and organizing elections for the elected governance board body.
 > In April 2022 _Project Maintainers_ assigned five seven individuals to be members of the _Bootstrap Governance Committee_.
 > This is a **temporary** arrangement that should be replaced by an elected governing body before March 2024.
 
-## Technical Steering Committee (TC)
+## Technical Committee (TC)
 
 The project has a _Technical Committee (TC)_
 that consists of three maintainers who actively contribute to the project.
