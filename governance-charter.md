@@ -98,7 +98,7 @@ _Technical Committee Member_,
 _Bootstrap Governance Committee Member_.
 These roles are defined below.
 
-See [Contributor Ladder](https://github.com/open-feature/community/blob/main/CONTRIBUTOR_LADDER.md) for additional information.
+See [Contributor Ladder](./CONTRIBUTOR_LADDER.md) for additional information.
 
 In addition to the elected maintainer roles,
 3 individuals get the maintainer status at the inception of the project:
