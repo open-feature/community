@@ -49,7 +49,7 @@ and building consensus among the OpenFeature community.
 At the moment, TC members do not get special permissions beyond what other maintainers have.
 
 ### TC Members
-[Technical Committee Members](https://github.com/open-feature/community/blob/main/community-members.md#technical-committee)
+[Technical Committee Members](./community-members.md#technical-committee)
 
 
 ### TC Charter
