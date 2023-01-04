@@ -94,7 +94,7 @@ _Organization Member_,
 _Triager_,
 _Approver_,
 _Maintainer_,
-_technical Committee member_,
+_Technical Committee Member_,
 _Bootstrap Governance Committee Member_.
 These roles are defined below.
 
