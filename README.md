@@ -74,7 +74,7 @@ New initiatives require an accepted [OpenFeature Enhancement Proposal (OFEP)](ht
 
 ## License
 
-All OpenFeature projects are shipped under the permissive [Apache License v2](./LICENSE) as CNCF IP Policy dictates. This blog post explains the reasoning behind choosing this license. Refer to [CONTRIBUTING.md](https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md) for details on code attribution.
+All OpenFeature projects are shipped under the permissive [Apache License v2](./LICENSE) as CNCF IP Policy dictates. [This blog post](https://www.cncf.io/blog/2017/02/01/cncf-recommends-aslv2/) explains the reasoning behind choosing this license. Refer to [CONTRIBUTING.md](https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md) for details on code attribution.
 
 ## Logos and Brand Guide
 
