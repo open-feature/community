@@ -11,7 +11,7 @@ If you find something suspicious and want to report it, we'd really appreciate!
 ### Ways to report
 
 * Send a message to [ccncf-openfeature-maintainers@lists.cncf.io][mailing-list]
-* If you can't send an email, either open an issue on GitHub with the description or open a pull request on GitHub with a reproducer and/or fix. We really prefer if you'd talk to us per email, though, as our repositories are public and we would like to give a heads up to our users before disclosing it publicly.
+* If you can't send an email, either open an issue on GitHub with the description or open a pull request on GitHub with a reproducer and/or fix. We really prefer if you'd talk to us over email, though, as our repositories are public and we would like to give a heads up to our users before disclosing it publicly.
 
 ## Vulnerability Policies
 
