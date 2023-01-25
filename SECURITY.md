@@ -6,7 +6,7 @@ AAs outlined by our [Repository requirements](https://github.com/open-feature/.g
 
 ## Reporting a Vulnerability
 
-If you find something suspicious and want to report it, we'd really appreciate!
+If you find something suspicious and want to report it, we'd really appreciate it!
 
 ### Ways to report
 
