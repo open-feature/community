@@ -46,8 +46,6 @@ If you are interested to be informed about the project or to contribute, feel fr
 
 ### Discussions
 
-We use [GitHub discussions](https://github.com/open-feature/community/discussions) for most communications. Please join us there!
-
 For those who are brand new to OpenFeature and want to chat or get redirected to the appropriate place for a specific question, feel free to join [the CNCF OpenFeature Slack channel](https://cloud-native.slack.com/archives/C0344AANLA1). If you are new, you can create a CNCF Slack account [here](https://slack.cncf.io/).
 
 ### Calendar
