@@ -18,7 +18,7 @@ TC membership is developed through leadership in the project and was bootstrappe
 Changes to TC membership should be posted in the agenda document, and may be suggested as any other agenda item.
 
 ### No Over-Representation
-
+No more than one-fourth (25%) of the TC members may be affiliated with the same employer (in the event of confusion or concern, the OpenFeature TC will defer to the CNCF definition of "same employer"). If removal or resignation of a TC member, or a change of employment by a TC member, creates a situation where more than one-fourth of the TC membership shares an employer, then the situation must be immediately remedied by the resignation or removal of one or more TC members affiliated with the over-represented employer(s).
 
 ### Participation
 
@@ -41,10 +41,23 @@ Changes to TC membership should be posted in the agenda document, and may be sug
 
 ### Election of TC Members
 
+New TC members can be nominated by any Member in Standing as defined in the [OpenFeature Governance Charter](https://github.com/open-feature/community/blob/main/governance-charter.md), and must be sponsored by one of the existing TC members to bring it to a vote. A candidate can be elected to the TC by the super-majority vote (greater than two thirds) of the existing TC members. The voting by the TC members is anonymous. A multiple-candidate method, such as [Condorcet](http://en.wikipedia.org/wiki/Condorcet_method) or [Single Transferable Vote](http://en.wikipedia.org/wiki/Single_transferable_vote), may be used to conduct the vote, by phrasing the selections as:
 
+* Vote for Nominee X
+* Vote against Nominee X
+
+The voting should remain open for a minimum of 5 business days.
 
 ### Election of TC Chair
 
+The TC will elect from amongst voting TC members a TC Chairperson to work on building an agenda for TC meetings. The TC shall hold annual elections to select a TC Chairperson; there are no limits on the number of terms a TC Chairperson may serve.
+
+For election of persons (such as the TC Chairperson) by a vote of the TC voting members, a multiple-candidate method should be used, such as:
+
+* [Condorcet](http://en.wikipedia.org/wiki/Condorcet_method) or
+* [Single Transferable Vote](http://en.wikipedia.org/wiki/Single_transferable_vote)
+
+Multiple-candidate methods may be reduced to simple election by plurality when there are only two candidates for one position to be filled. No election is required if there is only one candidate and no objections to the candidates election. Elections shall be done within the Projects by the collaborators active in the Project.
 
 
 ## Voting on project issues
