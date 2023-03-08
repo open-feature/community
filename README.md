@@ -11,7 +11,7 @@ Table of Contents
 * [Communication](#communication)
   * [Discussions](#discussions)
   * [Calendar](#calendar)
-  * [Social Media](social-media)
+  * [Social Media](#social-media)
 * [Roadmap](#roadmap)
 * [License](#license)
 * [Logos and Brand Guide](#logos-and-brand-guide)

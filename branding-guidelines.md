@@ -8,15 +8,11 @@ OpenFeature should be stylized as pascal case (i.e. `OpenFeature`) when possible
 
 Various layouts and versions are available including:
 
-- [Horizontal](assets/logo/horizontal)
-  - [Black](assets/logo/horizontal/black)
-  - [White](assets/logo/horizontal/white)
-- [Stacked](assets/logo/stacked)
-  - [Black](assets/logo/stacked/black)
-  - [White](assets/logo/stacked/white)
-- [Icon](assets/logo/icon)
-  - [Black](assets/logo/icon/black)
-  - [White](assets/logo/icon/white)
+|            | black                                                                                                                                                | white                                                                                                                                                |
+|------------|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Horizontal | [svg](./assets/logo/horizontal/black/openfeature-horizontal-black.svg) \| [png](./assets/logo/horizontal/black/openfeature-horizontal-black.png) | [svg](./assets/logo/horizontal/white/openfeature-horizontal-white.svg) \| [png](./assets/logo/horizontal/white/openfeature-horizontal-white.png) |
+| Stacked    | [svg](./assets/logo/stacked/black/openfeature-stacked-black.svg) \| [png](./assets/logo/stacked/black/openfeature-stacked-black.png)             | [svg](./assets/logo/stacked/white/openfeature-stacked-white.svg) \| [png](./assets/logo/stacked/white/openfeature-stacked-white.png)             |
+| Icon       | [svg](./assets/logo/icon/black/openfeature-icon-black.svg) \| [png](./assets/logo/icon/black/openfeature-icon-black.png)                         | [svg](./assets/logo/icon/white/openfeature-icon-white.svg) \| [png](./assets/logo/icon/white/openfeature-icon-white.png)                         |
 
 ### Colors
 
