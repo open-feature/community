@@ -1,3 +1,7 @@
+---
+title: Governance Charter
+sidebar_position: 20
+---
 # OpenFeature Governance Charter
 
 ## Overview

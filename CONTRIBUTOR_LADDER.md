@@ -1,3 +1,7 @@
+---
+title: Contributor Ladder
+sidebar_position: 10
+---
 # OpenFeature Contributor Ladder
 
 

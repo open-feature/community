@@ -1,3 +1,8 @@
+---
+title: Overview
+sidebar_position: 1
+---
+
 # OpenFeature Community Content
 
 <details>
@@ -17,7 +22,7 @@ Table of Contents
 * [Logos and Brand Guide](#logos-and-brand-guide)
 * [Special Interest Groups](#special-interest-groups)
 * [Contributing](#contributing)
-  * [Contributing Prerequisites (DCO)](#contributing-prerequisites)
+  * [Contributing Prerequisites (DCO)](#contributing-prerequisites-dco)
 * [Associated Components and Implementations](#associated-components-and-implementations)
 * [Adopters](#adopters)
 * [Code of Conduct](#code-of-conduct)

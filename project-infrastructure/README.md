@@ -1,3 +1,7 @@
+---
+title: Project Infrastructure
+sidebar_position: 30
+---
 # OpenFeature Project Infrastructure
 
 This page lists the resources used by the OpenFeature project.

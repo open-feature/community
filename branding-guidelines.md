@@ -1,3 +1,7 @@
+---
+title: Branding Guidelines
+sidebar_position: 40
+---
 # OpenFeature Branding Guidelines
 
 ## Name

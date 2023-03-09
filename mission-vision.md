@@ -1,3 +1,7 @@
+---
+title: Mission and Vision
+sidebar_position: 2
+---
 # OpenFeature Mission and Vision
 
 ## Mission
