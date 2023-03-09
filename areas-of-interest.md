@@ -1,3 +1,6 @@
+---
+
+---
 # Member areas of interest
 
 OpenFeature technical committee members, maintainers, and approvers

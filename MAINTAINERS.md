@@ -1,3 +1,8 @@
+---
+title: Maintainers
+sidebar_position: 12
+---
+
 # OpenFeature maintainers
 
 This is an official list of OpenFeature maintainers and other key roles

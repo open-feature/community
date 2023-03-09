@@ -1,3 +1,6 @@
+---
+title: Interested Parties
+---
 # Interested Parties
 
 This page lists individual and organization stakeholders who declared their interest in the project.

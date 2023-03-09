@@ -1,3 +1,7 @@
+---
+title: Members
+sidebar_position: 11
+---
 # OpenFeature Community Members
 
 ## Governance Board

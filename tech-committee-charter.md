@@ -1,3 +1,7 @@
+---
+title: Technical Committee Charter
+sidebar_position: 21
+---
 # Technical Committee Charter
 ## Guiding Principle
 
