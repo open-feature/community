@@ -1,0 +1,58 @@
+# org settings
+name: OpenFeature
+description: Standardizing Feature Flagging for Everyone
+
+has_organization_projects: true
+has_repository_projects: true
+default_repository_permission: read
+members_can_create_repositories: false
+
+admins:
+  # governance board
+  - beeme1mr
+  - AloisReitbauer
+  - AlexsJones
+  - moredip
+  - justinabrahms
+  - dabeeeenster
+
+  # technical steering committee
+  - agentgonzo
+  - toddbaert
+  - InTheCloudDan
+
+# org member settings
+members:
+  - oleg-nenashev
+  - DavidPHirsch
+
+teams:
+  admins:
+    members: []
+
+  maintainers:
+    members:
+      - beeme1mr
+      - AloisReitbauer
+      - oleg-nenashev
+      - DavidPHirsch
+
+  approvers:
+    members: []
+
+  technical-steering-committee:
+    members:
+      - agentgonzo
+      - toddbaert
+      - InTheCloudDan
+
+  governance-committee:
+    members:
+      - beeme1mr
+      - AloisReitbauer
+      - AlexsJones
+      - moredip
+      - justinabrahms
+      - dabeeeenster
+
+repos: []

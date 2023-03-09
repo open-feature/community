@@ -1,0 +1,10 @@
+
+repos:
+  - go-sdk
+  - go-sdk-contrib
+
+approvers: []
+
+maintainers: []
+
+admins: []

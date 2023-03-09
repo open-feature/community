@@ -1,0 +1,12 @@
+
+repos:
+  - ofep
+  - community
+  - .github
+  - spec
+
+approvers: []
+
+maintainers: []
+
+admins: []

@@ -1,0 +1,10 @@
+
+repos:
+  - dotnet-sdk
+  - dotnet-sdk-contrib
+
+approvers: []
+
+maintainers: []
+
+admins: []

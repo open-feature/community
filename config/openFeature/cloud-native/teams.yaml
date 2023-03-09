@@ -1,0 +1,12 @@
+
+repos:
+  - flagd
+  - watchman
+  - schemas
+  - open-feature-operator
+
+approvers: []
+
+maintainers: []
+
+admins: []

@@ -1,0 +1,10 @@
+
+repos:
+  - rust-sdk
+  - rust-sdk-contrib
+
+approvers: []
+
+maintainers: []
+
+admins: []

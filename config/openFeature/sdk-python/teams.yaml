@@ -1,0 +1,10 @@
+
+repos:
+  - python-sdk
+  - python-sdk-contrib
+
+approvers: []
+
+maintainers: []
+
+admins: []
