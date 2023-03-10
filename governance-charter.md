@@ -1,17 +1,9 @@
----
-title: Governance Charter
-sidebar_position: 20
----
-# OpenFeature Governance Charter
+# Governance Charter
 
 ## Overview
 
 This document describes the bootstrap governance process under which the project will operate
 until the final governance process is identified.
-
-> :warning: This is a temporary (aka bootstrap) governance document that
-> is effective until the project is fully established.
-> See [this issue](https://github.com/open-feature/governance/issues/11) for the scope of the full governance document.
 
 ## Goals
 
@@ -35,7 +27,8 @@ defining and approving with the project members the final governance model,
 and organizing elections for the elected governance board body.
 
 ### Governance Committee Members
-[Governance Committee Members](https://github.com/open-feature/community/blob/main/community-members.md#governance-board)
+
+[Governance Committee Members](./community-members.md#governance-board)
 
 > NOTE:
 > In April 2022 _Project Maintainers_ assigned five seven individuals to be members of the _Bootstrap Governance Committee_.
@@ -53,14 +46,14 @@ and building consensus among the OpenFeature community.
 At the moment, TC members do not get special permissions beyond what other maintainers have.
 
 ### TC Members
-[Technical Committee Members](./community-members.md#technical-committee)
 
+[Technical Committee Members](./community-members.md#technical-committee)
 
 ### TC Charter
 
-The technical committee is initially bootstrapped by 3 
+The technical committee is initially bootstrapped by 3
 contributors based on the consensus of contributors and maintainers of the project.
-Their term is **one year**. 
+Their term is **one year**.
 Then the technical committee members are re-elected based on the public nomination and decision making process.
 The same happens when a TC member steps down from the role in the middle of the term,
 an acting TC member is appointed by the community until the end of the term.
