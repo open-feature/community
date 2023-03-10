@@ -1,47 +1,41 @@
----
-title: Overview
-sidebar_position: 1
----
-
-# OpenFeature Community Content
+# OpenFeature Community
 
 <details>
 <summary>
 Table of Contents
 </summary>
 
-* [Getting Involved](#getting-involved)
-* [Governing Bodies](#governing-bodies)
-* [Areas of Interest](#areas-of-interest)
-* [Communication](#communication)
-  * [Discussions](#discussions)
-  * [Calendar](#calendar)
-  * [Social Media](#social-media)
-* [Roadmap](#roadmap)
-* [License](#license)
-* [Logos and Brand Guide](#logos-and-brand-guide)
-* [Special Interest Groups](#special-interest-groups)
-* [Contributing](#contributing)
-  * [Contributing Prerequisites (DCO)](#contributing-prerequisites-dco)
-* [Associated Components and Implementations](#associated-components-and-implementations)
-* [Adopters](#adopters)
-* [Code of Conduct](#code-of-conduct)
+- [Getting Involved](#getting-involved)
+- [Governing Bodies](#governing-bodies)
+- [Areas of Interest](#areas-of-interest)
+- [Communication](#communication)
+  - [Discussions](#discussions)
+  - [Calendar](#calendar)
+  - [Social Media](#social-media)
+- [Roadmap](#roadmap)
+- [License](#license)
+- [Logos and Brand Guide](#logos-and-brand-guide)
+- [Special Interest Groups](#special-interest-groups)
+- [Contributing](#contributing)
+  - [Contributing Prerequisites (DCO)](#contributing-prerequisites-dco)
+- [Associated Components and Implementations](#associated-components-and-implementations)
+- [Adopters](#adopters)
+- [Code of Conduct](#code-of-conduct)
 
 </details>
 
 ## Getting involved
 
-If you are interested to be informed about the project or to contribute, feel free to add yourself and/or your organization to [Interested Parties](./interested-parties.md). 
-
+If you are interested to be informed about the project or to contribute, feel free to add yourself and/or your organization to [Interested Parties](./interested-parties.md).
 
 ## Governing Bodies
 
-* Governance Commitee (GC): [Charter](./governance-charter.md), [Members](./community-members.md#governance-board)
-* Technical Committee (TC): [Charter](./tech-committee-charter.md), [Members](./community-members.md#technical-committee)
+- Governance Committee (GC): [Charter](./governance-charter.md), [Members](./community-members.md#governance-board)
+- Technical Committee (TC): [Charter](./tech-committee-charter.md), [Members](./community-members.md#technical-committee)
 
 ## Areas of Interest
 
-Technical committee members, maintainers, and approvers are encouraged to list their areas of interest in this [document](https://github.com/open-feature/community/blob/main/areas-of-interest.md) to help community members find interested parties and form new special interest groups.
+Technical committee members, maintainers, and approvers are encouraged to list their areas of interest in this [document](./areas-of-interest.md) to help community members find interested parties and form new special interest groups.
 
 ### Interested Parties
 
@@ -62,7 +56,7 @@ The community calendar contains all the upcoming OpenFeature meetings and events
   Calendar](https://calendar.google.com/calendar/u/0?cid=MHVhN2kxaGl2NWRoMThiMjd0b2FoNjM2NDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 - [iCal](https://calendar.google.com/calendar/ical/0ua7i1hiv5dh18b27toah63644%40group.calendar.google.com/public/basic.ics)
 
-### Social Media 
+### Social Media
 
 Follow-us on social media and help us to spread the word!
 Please use the `#openfeature` hashtag or mention our accounts when you share the content.
@@ -81,8 +75,7 @@ All OpenFeature projects are shipped under the permissive [Apache License v2](./
 
 ## Logos and Brand Guide
 
-The OpenFeature logos and brand guide can be found in the [CNCF artwork repository](https://github.com/cncf/artwork/tree/master/projects/openfeature). 
-
+The OpenFeature logos and brand guide can be found in the [branding guidelines](./branding-guidelines.md).
 
 ## Special Interest Groups
 
@@ -95,8 +88,7 @@ Notes and recordings from previous meetings can be found below:
 
 | Name | Meeting Time | Meeting Notes | Discussions |
 | ---- | ------------ | ------------- | ----------- |
-|      |              |               |             |    
-
+|      |              |               |             |
 
 ## Contributing
 
@@ -115,8 +107,7 @@ The OpenFeature specification defines abstractions and interfaces for the purpos
 
 ## Adopters
 
-Please refer to [Adopters list](https://github.com/open-feature/community/blob/main/ADOPTERS.md)
-
+Please refer to [Adopters list](./ADOPTERS.md)
 
 ## Code of Conduct
 
@@ -126,5 +117,3 @@ The project and its community abide by [the Code of Conduct](https://github.com/
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org),
 version 2.1, available
 [here](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
-
-

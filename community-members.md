@@ -1,8 +1,4 @@
----
-title: Members
-sidebar_position: 11
----
-# OpenFeature Community Members
+# Community Members
 
 ## Governance Board
 
@@ -42,11 +38,8 @@ Members of the Technical Committee are the maintainers of OpenFeature spec
 
 Spec Approvers:
 
-
-
 ## Java SDK
 
 Repo: open-feature/java-sdk
 
 The list of active members (both "approvers" and "maintainers") for the Java SDK can be found in the open-feature/java-sdk README file.
-
