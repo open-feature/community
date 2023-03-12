@@ -25,7 +25,7 @@ Changes to TC membership should be posted in the agenda document, and may be sug
 
 ## Responsibilities of the Technical Committee
 
-The TC ensures that the project maintains a high level of technical excellence while continuing to meet the needs of its adopters, and facilitating ongoing community contribution.
+The TC ensures that the project maintains a high level of technical excellence while continuing to meet the needs of its adopters, and facilitates ongoing community contribution.
 
 The TC is responsible for:
 
