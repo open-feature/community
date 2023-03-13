@@ -23,21 +23,41 @@ Changes to TC membership should be posted in the agenda document, and may be sug
 
 ### No Over-Representation
 
+## Responsibilities of the Technical Committee
+
+The TC ensures that the project maintains a high level of technical excellence while continuing to meet the needs of its adopters, and facilitates ongoing community contribution.
+
+The TC is responsible for:
+
+- Setting technical goals and priorities.
+- Participation in specification development.
+- Resolving disputes and disagreements about technical matters within the community.
+- Establishing and enforcing technical standards and practices.
+- Providing guidance to new contributors.
+- Ensuring proper stewardship and oversight of project components and repositories.
+- Participation in meetings facilitated by the TC Chair.
+
+Some specific examples of activities TC members might be involved in include, but are not limited to:
+
+- Ensuring new maintainer(s) for a particular SDK are identified when a previous maintainer leaves.
+- Resolving a dispute over whether or not a particular change is considered "breaking".
+- Ensuring repositories and releases conform to the [established requirements](https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md#repository-requirements).
+- Reviewing [specification](https://github.com/open-feature/spec) PRs and [OFEPs](https://github.com/open-feature/ofep).
+- Creating and reviewing [projects](https://github.com/orgs/open-feature/projects).
+- Contributing to the development of a vulnerability reporting policy.
+- Reviewing donated repositories, and identifying maintainers for the donated code.
+- Archiving a repository that cannot be maintained due to lack of maintainers.
 
 ### Participation
 
+It's the responsibility of the [TC Chair](#election-of-tc-chair) to facilitate meetings or other asynchronous mechanisms of communication within the TC.
+The frequency and mode of the meetings is to be decided by the chair, taking into consideration the availability of TC members.
+TC members are expected to regularly attend meetings and participate in communication modes facilitated by the TC Chair.
 
-## Responsibilities of the Technical Committee
+### Conflicts of Interest
 
-
-
-## OpenFeature Project Operations
-
-
-
-### Code Donations
-
-
+TC members will avoid taking actions or making decisions that constitute a conflict of interest.
+In such cases, TC members will inform the the wider TC of the perceived conflict and the issue will be resolved by another member.
 
 ## Elections
 
@@ -48,14 +68,3 @@ Changes to TC membership should be posted in the agenda document, and may be sug
 
 
 ### Election of TC Chair
-
-
-
-## Voting on project issues
-
-
-
-
-## Project Roles
-
-
