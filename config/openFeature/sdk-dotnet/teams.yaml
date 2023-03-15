@@ -5,6 +5,10 @@ repos:
 
 approvers: []
 
-maintainers: []
+maintainers:
+  - beeme1mr
+  - toddbaert
+  - benjiro
+  - kinyoklion
 
 admins: []

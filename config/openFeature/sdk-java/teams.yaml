@@ -5,6 +5,9 @@ repos:
 
 approvers: []
 
-maintainers: []
+maintainers:
+  - justinabrahms
+  - toddbaert
+  - agentgonzo
 
 admins: []

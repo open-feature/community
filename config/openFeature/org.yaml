@@ -2,9 +2,10 @@
 name: OpenFeature
 description: Standardizing Feature Flagging for Everyone
 
+default_repository_permission: read
+
 has_organization_projects: true
 has_repository_projects: true
-default_repository_permission: read
 members_can_create_repositories: false
 
 admins:
@@ -23,8 +24,56 @@ admins:
 
 # org member settings
 members:
-  - oleg-nenashev
-  - DavidPHirsch
+  - agardnerIT
+  - agentgonzo
+  - ajhelsby
+  - AlexsJones
+  - AnaisUrlichs
+  - Arhell
+  - bacherfl
+  - benjiro
+  - cdonnellytx
+  - dabeeeenster
+  - davejohnston
+  - dlopes7
+  - dnsmichi
+  - dyladan
+  - faulkt
+  - heckelmann
+  - hlipsig
+  - InTheCloudDan
+  - jakedoublev
+  - james-milligan
+  - josecolella
+  - justaugustus
+  - Kavindu-Dodan
+  - kbychu
+  - kinyoklion
+  - lopitz
+  - markphelps
+  - matthewelwell
+  - mkorbi
+  - moredip
+  - mowies
+  - mschoenlaub
+  - odubajDT
+  - openfeaturebot
+  - patricioe
+  - RealAnna
+  - rgrassian-split
+  - rschosser
+  - s-sen
+  - salaboy
+  - skyerus
+  - tcarrio
+  - tegenterter
+  - therealmitchconnors
+  - thisthat
+  - thiyagu06
+  - thomaspoignant
+  - thschue
+  - tomkerkhove
+  - weyert
 
 teams:
   admins:
@@ -55,4 +104,267 @@ teams:
       - justinabrahms
       - dabeeeenster
 
-repos: []
+  Interested Parties:
+    description: Group for members of https://github.com/openfeatureflags/governance/blob/main/interested-parties.md
+    maintainers:
+      - justinabrahms
+      - AloisReitbauer
+      - beeme1mr
+      - oleg-nenashev
+      - miigwi
+    members:
+      - weyert
+      - dabeeeenster
+      - markphelps
+      - salaboy
+      - dnsmichi
+      - justaugustus
+      - therealmitchconnors
+      - davejohnston
+      - AlexsJones
+      - dyladan
+      - benjiro
+      - tomkerkhove
+      - kinyoklion
+      - mkorbi
+      - thomaspoignant
+      - faulkt
+      - tegenterter
+      - AnaisUrlichs
+      - thschue
+      - james-milligan
+    privacy: closed
+    repos:
+      vendor-survey: write
+
+repos:
+  .github:
+    default_branch: main
+    description: This repository stores various defaults for the GitHub organization
+    has_projects: true
+    has_wiki: false
+  community:
+    default_branch: main
+    description: OpenFeature project community and governance
+    has_projects: true
+    has_wiki: false
+    homepage: https://openfeature.dev/
+  demo-repository:
+    default_branch: main
+    description: A code repository designed to show the best GitHub has to offer.
+    has_projects: true
+    has_wiki: false
+    private: true
+  docs.openfeature.dev:
+    default_branch: main
+    description: OpenFeature Documentation
+    has_projects: false
+    has_wiki: false
+  dotnet-sdk:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: .NET implementation of the OpenFeature SDK
+    has_projects: true
+  dotnet-sdk-contrib:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: OpenFeature Providers and Hooks for .NET
+    has_projects: true
+  feature-operator:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    archived: true
+    default_branch: main
+    description: OpenFeature Operator for Kubernetes
+    has_projects: true
+    has_wiki: false
+    homepage: https://openfeature.dev/
+  flagd:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: A feature flag daemon with a Unix philosophy
+    has_projects: true
+    has_wiki: false
+  go-sdk:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: Go SDK for OpenFeature
+    has_projects: true
+  go-sdk-contrib:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: Community maintained OpenFeature Providers and Hooks for Go
+    has_projects: true
+  homebrew-core:
+    description: "\U0001F37B Default formulae for the missing package manager
+      for macOS (or Linux)"
+    has_issues: false
+    has_projects: true
+    has_wiki: false
+    homepage: https://brew.sh
+  java-sdk:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: Java implementation of the OpenFeature SDK
+    has_projects: true
+  java-sdk-contrib:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: Community contributions for hooks and reference providers
+    has_projects: true
+  js-sdk:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: JavaScript SDK for OpenFeature
+    has_projects: true
+    has_wiki: false
+    homepage: https://openfeature.dev/
+  js-sdk-contrib:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: OpenFeature Providers and Hooks for JavaScript
+    has_projects: true
+  killercoda:
+    default_branch: main
+    description: Killercoda Interactive Examples for OpenFeature
+    has_projects: false
+    has_wiki: false
+  ofep:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: A focal point for OpenFeature research, proposals and requests
+      for comments
+    has_projects: false
+  open-feature-operator:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: A Kubernetes feature flag operator
+    has_projects: true
+  open-feature.github.io:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    archived: true
+    default_branch: main
+    description: OpenFeature website
+    has_projects: true
+    has_wiki: false
+    homepage: https://openfeature.dev/
+  openfeature.dev:
+    default_branch: main
+    description: OpenFeature Website
+    has_projects: true
+    homepage: https://openfeature.dev
+  php-sdk:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: 'PHP implementation of the OpenFeature SDK '
+    has_projects: false
+    homepage: https://openfeature.dev
+  php-sdk-contrib:
+    default_branch: main
+    description: ' OpenFeature Providers and Hooks for PHP '
+    has_projects: true
+  php-sdk-contrib-flagd-provider:
+    default_branch: main
+    description: Flagd provider for the OpenFeature PHP SDK
+    has_projects: true
+    private: true
+  playground:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: OpenFeature SDK demos and experimentation
+    has_projects: true
+    homepage: https://openfeature.dev/
+  python-sdk:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: Python SDK for OpenFeature
+    has_projects: true
+  python-sdk-contrib:
+    allow_rebase_merge: false
+    default_branch: main
+    description: Community contributions for hooks and reference providers in
+      python
+    has_projects: true
+  ruby-sdk:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: Ruby implementation of the OpenFeature SDK
+    has_projects: true
+  ruby-sdk-contrib:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: Community contributions for hooks and reference providers in
+      Ruby
+    has_projects: true
+    private: true
+  rust-sdk:
+    default_branch: main
+    has_projects: true
+  rust-sdk-contrib:
+    default_branch: main
+    description: Community maintained OpenFeature Providers and Hooks for Rust
+    has_projects: true
+  schemas:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: Schemas and spec files pertaining to OpenFeature
+    has_projects: true
+    homepage: https://buf.build/open-feature/flagd
+  spec:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: OpenFeature specification
+    has_projects: true
+    has_wiki: false
+    homepage: https://openfeature.dev/
+  test-harness:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    default_branch: main
+    description: Shared test harness for SDK testing, with Gherkin tests
+    has_projects: true
+    has_wiki: false
+  toc-proposal:
+    default_branch: main
+    description: ⚖️Technical Oversight Committee (TOC)
+    has_projects: true
+    has_wiki: false
+    homepage: https://cncf.io/
+  vendor-survey:
+    allow_merge_commit: false
+    allow_rebase_merge: false
+    allow_squash_merge: false
+    archived: true
+    default_branch: main
+    has_projects: true
+    private: true
+  watchman:
+    default_branch: main
+    description: A Kubernetes admission controller driven by open-feature
+    has_projects: true
+  web-sdk:
+    default_branch: main
+    description: 'Experimental Web SDK for OpenFeature '
+    has_projects: true
+    private: true

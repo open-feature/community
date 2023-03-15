@@ -5,6 +5,11 @@ repos:
 
 approvers: []
 
-maintainers: []
+maintainers:
+  - dabeeeenster
+  - mschoenlaub
+  - tcarrio
+  - matthewelwell
+  - ajhelsby
 
 admins: []

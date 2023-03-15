@@ -4,7 +4,10 @@ repos:
   - killrcoda
   - playground
 
-approvers: []
+approvers:
+  - justinabrahms
+  - beeme1mr
+  - toddbaert
 
 maintainers: []
 

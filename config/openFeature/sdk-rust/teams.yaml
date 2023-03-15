@@ -5,6 +5,7 @@ repos:
 
 approvers: []
 
-maintainers: []
+maintainers:
+  - AlexsJones
 
 admins: []

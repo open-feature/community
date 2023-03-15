@@ -7,6 +7,9 @@ repos:
 
 approvers: []
 
-maintainers: []
+maintainers:
+  - justinabrahms
+  - AlexsJones
+  - thschue
 
 admins: []
