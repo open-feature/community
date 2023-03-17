@@ -107,7 +107,7 @@ func loadOrgs(o options) (map[string]org.Config, error) {
 				return filepath.SkipDir // Skip prefix/foo/bar/ dirs
 			case !info.IsDir() && filepath.Dir(path) == prefix:
 				return nil // Ignore prefix/foo files
-			case filepath.Base(path) == "teams.yaml":
+			case filepath.Base(path) == "workgroup.yaml":
 				teams, err := generateGroupConfig(path)
 
 				if err != nil {
@@ -129,6 +129,7 @@ func loadOrgs(o options) (map[string]org.Config, error) {
 			admins.Repos[name] = github.Admin
 			maintainers.Repos[name] = github.Maintain
 			approvers.Repos[name] = github.Triage
+			cfg.Repos[name] = applyRepoDefaults(cfg, name)
 		}
 
 		cfg.Teams[Admins] = admins
@@ -137,6 +138,45 @@ func loadOrgs(o options) (map[string]org.Config, error) {
 		config[name] = *cfg
 	}
 	return config, nil
+}
+
+func applyRepoDefaults(cfg *org.Config, repoName string) org.Repo {
+	repo := cfg.Repos[repoName]
+	true := true
+	falsy := false
+
+	if repo.DefaultBranch == nil {
+		defaultBranch := "main"
+		repo.DefaultBranch = &defaultBranch
+	}
+	if repo.HomePage == nil {
+		homepage := "https://openfeature.dev"
+		repo.HomePage = &homepage
+	}
+	if repo.HasProjects == nil {
+		repo.HasProjects = &true
+	}
+	if repo.HasWiki == nil {
+		repo.HasWiki = &falsy
+	}
+
+	if repo.Archived != nil && *repo.Archived {
+		repo.AllowSquashMerge = &falsy
+		repo.AllowMergeCommit = &falsy
+		repo.AllowRebaseMerge = &falsy
+	} else {
+		if repo.AllowSquashMerge == nil {
+			repo.AllowSquashMerge = &true
+		}
+		if repo.AllowRebaseMerge == nil {
+			repo.AllowRebaseMerge = &falsy
+		}
+		if repo.AllowMergeCommit == nil {
+			repo.AllowMergeCommit = &falsy
+		}
+	}
+
+	return repo
 }
 
 func getGlobalTeam(cfg *org.Config, teamName string) org.Team {

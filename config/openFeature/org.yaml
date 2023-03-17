@@ -9,6 +9,8 @@ has_repository_projects: true
 members_can_create_repositories: false
 
 admins:
+  # todo bot account for applying
+
   # governance board
   - beeme1mr
   - AloisReitbauer
@@ -57,6 +59,7 @@ members:
   - mowies
   - mschoenlaub
   - odubajDT
+  - oleg-nenashev
   - openfeaturebot
   - patricioe
   - RealAnna
@@ -76,15 +79,15 @@ members:
   - weyert
 
 teams:
+  emiritus:
+    members:
+      - oleg-nenashev
+
   admins:
     members: []
 
   maintainers:
-    members:
-      - beeme1mr
-      - AloisReitbauer
-      - oleg-nenashev
-      - DavidPHirsch
+    members: []
 
   approvers:
     members: []
@@ -138,233 +141,107 @@ teams:
       vendor-survey: write
 
 repos:
+  # Template for adding a new project
+  # mandatory:
+  #
+  # <name>:
+  #   description: <description>
+  #
+  # optional:
+  #   archived: <true|false> - defaults to false
+  #   private: <true|false> - defaults to false
+  #   has_issues: <true|false> - defaults to true
+  #   has_projects: <true|false> - defaults to true
+  #   has_wiki: <true|false> - defaults to false
   .github:
-    default_branch: main
     description: This repository stores various defaults for the GitHub organization
-    has_projects: true
-    has_wiki: false
   community:
-    default_branch: main
-    description: OpenFeature project community and governance
-    has_projects: true
-    has_wiki: false
-    homepage: https://openfeature.dev/
+    description: OpenFeature project community and governance/
   demo-repository:
-    default_branch: main
     description: A code repository designed to show the best GitHub has to offer.
-    has_projects: true
-    has_wiki: false
     private: true
   docs.openfeature.dev:
-    default_branch: main
     description: OpenFeature Documentation
     has_projects: false
-    has_wiki: false
   dotnet-sdk:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
     description: .NET implementation of the OpenFeature SDK
-    has_projects: true
   dotnet-sdk-contrib:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
     description: OpenFeature Providers and Hooks for .NET
-    has_projects: true
   feature-operator:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    allow_squash_merge: false
     archived: true
-    default_branch: main
-    description: OpenFeature Operator for Kubernetes
-    has_projects: true
-    has_wiki: false
-    homepage: https://openfeature.dev/
+    description: OpenFeature Operator for Kubernetes/
   flagd:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
     description: A feature flag daemon with a Unix philosophy
-    has_projects: true
-    has_wiki: false
   go-sdk:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
     description: Go SDK for OpenFeature
-    has_projects: true
   go-sdk-contrib:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
     description: Community maintained OpenFeature Providers and Hooks for Go
-    has_projects: true
   homebrew-core:
     description: "\U0001F37B Default formulae for the missing package manager
       for macOS (or Linux)"
     has_issues: false
-    has_projects: true
-    has_wiki: false
     homepage: https://brew.sh
   java-sdk:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
     description: Java implementation of the OpenFeature SDK
-    has_projects: true
   java-sdk-contrib:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
     description: Community contributions for hooks and reference providers
-    has_projects: true
   js-sdk:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
-    description: JavaScript SDK for OpenFeature
-    has_projects: true
-    has_wiki: false
-    homepage: https://openfeature.dev/
+    description: JavaScript SDK for OpenFeature/
   js-sdk-contrib:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
     description: OpenFeature Providers and Hooks for JavaScript
-    has_projects: true
   killercoda:
-    default_branch: main
     description: Killercoda Interactive Examples for OpenFeature
     has_projects: false
-    has_wiki: false
   ofep:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
     description: A focal point for OpenFeature research, proposals and requests
       for comments
     has_projects: false
   open-feature-operator:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
     description: A Kubernetes feature flag operator
-    has_projects: true
   open-feature.github.io:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    allow_squash_merge: false
     archived: true
-    default_branch: main
-    description: OpenFeature website
-    has_projects: true
-    has_wiki: false
-    homepage: https://openfeature.dev/
+    description: OpenFeature website/
   openfeature.dev:
-    default_branch: main
     description: OpenFeature Website
-    has_projects: true
-    homepage: https://openfeature.dev
   php-sdk:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
     description: 'PHP implementation of the OpenFeature SDK '
     has_projects: false
-    homepage: https://openfeature.dev
   php-sdk-contrib:
-    default_branch: main
     description: ' OpenFeature Providers and Hooks for PHP '
-    has_projects: true
   php-sdk-contrib-flagd-provider:
-    default_branch: main
     description: Flagd provider for the OpenFeature PHP SDK
-    has_projects: true
     private: true
   playground:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
-    description: OpenFeature SDK demos and experimentation
-    has_projects: true
-    homepage: https://openfeature.dev/
+    description: OpenFeature SDK demos and experimentation/
   python-sdk:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
     description: Python SDK for OpenFeature
-    has_projects: true
   python-sdk-contrib:
-    allow_rebase_merge: false
-    default_branch: main
     description: Community contributions for hooks and reference providers in
       python
-    has_projects: true
   ruby-sdk:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
     description: Ruby implementation of the OpenFeature SDK
-    has_projects: true
   ruby-sdk-contrib:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
     description: Community contributions for hooks and reference providers in
       Ruby
-    has_projects: true
     private: true
   rust-sdk:
-    default_branch: main
-    has_projects: true
   rust-sdk-contrib:
-    default_branch: main
     description: Community maintained OpenFeature Providers and Hooks for Rust
-    has_projects: true
   schemas:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
     description: Schemas and spec files pertaining to OpenFeature
-    has_projects: true
     homepage: https://buf.build/open-feature/flagd
   spec:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
-    description: OpenFeature specification
-    has_projects: true
-    has_wiki: false
-    homepage: https://openfeature.dev/
+    description: OpenFeature specification/
   test-harness:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    default_branch: main
     description: Shared test harness for SDK testing, with Gherkin tests
-    has_projects: true
-    has_wiki: false
   toc-proposal:
-    default_branch: main
     description: ⚖️Technical Oversight Committee (TOC)
-    has_projects: true
-    has_wiki: false
     homepage: https://cncf.io/
   vendor-survey:
-    allow_merge_commit: false
-    allow_rebase_merge: false
-    allow_squash_merge: false
     archived: true
-    default_branch: main
-    has_projects: true
     private: true
   watchman:
-    default_branch: main
     description: A Kubernetes admission controller driven by open-feature
-    has_projects: true
   web-sdk:
-    default_branch: main
     description: 'Experimental Web SDK for OpenFeature '
-    has_projects: true
     private: true
