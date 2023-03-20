@@ -12,18 +12,18 @@ To reduce efforts and duplication we decided to adapt the generation apporach to
 
 The `tools/peribolosbuilder.go` contains our custom generation logic for the peribolos configuration.
 
-Within the `config` directory we are storing our configurations.
+Within the `config` directory, we are storing our configurations.
 (this can be overwritten with a config flag (`--config`) when executing `peribolosbuilder.go`).
 
 ## Configuration Structure
 
-Each directory within the `config` directory represents a GitHub Organization (therefor we will refrain to it as `org-folder`).
+Each directory within the `config` directory represents a GitHub Organization (therefore we will refrain from it as `org-folder`).
 This directory will only be picked up when there is a `org.yaml` within the directory.
 
 Within this `org-folder` we can have multiple teams/workgroups.
-Those teams are represented with an own subfolder (the name of the team) containing a `workgroup.yaml`.
+Those teams are represented with their subfolder (the name of the team) containing a `workgroup.yaml`.
 
-`peribolosbuilder.go` will fetch this configurations and generate a proper peribolos configuration based on this.
+`peribolosbuilder.go` will fetch these configurations and generate a proper peribolos configuration based on this.
 
 ### org.yaml
 
@@ -71,7 +71,7 @@ admins:
 ```
 
 Repositories are not mutually exclusive to workgroups.
-Hence, that multiple workgroups can have access to the same repositories.
+Hence, multiple workgroups can have access to the same repositories.
 
 > **Note**
 > Use admins carefully and only when it is really needed. 
@@ -149,7 +149,20 @@ admins:
  
 Remove the member from all `workgroup.yaml` files, and other teams within the `org.yaml`.
 
-If the user used to be an Admin of the organization move them from `admins` to `members` in the `org.yaml`.
+If the user used to be an Admin of the organization moves them from `admins` to `members` in the `org.yaml`.
 
-Add the user to the `emiritus`-team defintion within `org.yaml` of the desired GitHub Organization.
+Add the user to the emeritus-team definition within `org`.yaml` of the desired GitHub Organization.
 
+### ... create a new repository?
+
+Within the `org.yaml` of the designated organization, add an entry in the `repos` section.
+As an example, we want to add a new repository called `peribolos-test`, we will add the following:
+
+```yaml
+repos:
+  # ...
+  peribolos-test:
+    description: "my peribolos test"
+  # ...
+
+```
