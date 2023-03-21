@@ -3,6 +3,11 @@ title: Technical Committee Charter
 sidebar_position: 21
 ---
 # Technical Committee Charter
+
+### TC Members
+
+[Technical Committee Members](./community-members.md#technical-committee)
+
 ## Guiding Principle
 
 The OpenFeature project will operate transparently, collaboratively, ethically, and in alignment with the interests of OpenFeature technology end-users. Project proposals, timelines, and status must not merely be open, but also easily visible to and discoverable by outsiders.
