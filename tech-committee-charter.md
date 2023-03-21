@@ -1,3 +1,7 @@
+---
+title: Technical Committee Charter
+sidebar_position: 21
+---
 # Technical Committee Charter
 ## Guiding Principle
 
@@ -18,22 +22,45 @@ TC membership is developed through leadership in the project and was bootstrappe
 Changes to TC membership should be posted in the agenda document, and may be suggested as any other agenda item.
 
 ### No Over-Representation
-No more than one-fourth (25%) of the TC members may be affiliated with the same employer (in the event of confusion or concern, the OpenFeature TC will defer to the CNCF definition of "same employer"). If removal or resignation of a TC member, or a change of employment by a TC member, creates a situation where more than one-fourth of the TC membership shares an employer, then the situation must be immediately remedied by the resignation or removal of one or more TC members affiliated with the over-represented employer(s).
 
-### Participation
+No more than one-third (33%) of the TC members may be affiliated with the same employer (in the event of confusion or concern, the OpenFeature TC will defer to the CNCF definition of "same employer"). If removal or resignation of a TC member, or a change of employment by a TC member, creates a situation where more than one-third of the TC membership shares an employer, then the situation must be immediately remedied by the election of one or more TC members.
 
 
 ## Responsibilities of the Technical Committee
 
+The TC ensures that the project maintains a high level of technical excellence while continuing to meet the needs of its adopters, and facilitates ongoing community contribution.
 
+The TC is responsible for:
 
-## OpenFeature Project Operations
+- Setting technical goals and priorities.
+- Participation in specification development.
+- Resolving disputes and disagreements about technical matters within the community.
+- Establishing and enforcing technical standards and practices.
+- Providing guidance to new contributors.
+- Ensuring proper stewardship and oversight of project components and repositories.
+- Participation in meetings facilitated by the TC Chair.
 
+Some specific examples of activities TC members might be involved in include, but are not limited to:
 
+- Ensuring new maintainer(s) for a particular SDK are identified when a previous maintainer leaves.
+- Resolving a dispute over whether or not a particular change is considered "breaking".
+- Ensuring repositories and releases conform to the [established requirements](https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md#repository-requirements).
+- Reviewing [specification](https://github.com/open-feature/spec) PRs and [OFEPs](https://github.com/open-feature/ofep).
+- Creating and reviewing [projects](https://github.com/orgs/open-feature/projects).
+- Contributing to the development of a vulnerability reporting policy.
+- Reviewing donated repositories, and identifying maintainers for the donated code.
+- Archiving a repository that cannot be maintained due to lack of maintainers.
 
-### Code Donations
+### Participation
 
+It's the responsibility of the [TC Chair](#election-of-tc-chair) to facilitate meetings or other asynchronous mechanisms of communication within the TC.
+The frequency and mode of the meetings is to be decided by the chair, taking into consideration the availability of TC members.
+TC members are expected to regularly attend meetings and participate in communication modes facilitated by the TC Chair.
 
+### Conflicts of Interest
+
+TC members will avoid taking actions or making decisions that constitute a conflict of interest.
+In such cases, TC members will inform the the wider TC of the perceived conflict and the issue will be resolved by another member.
 
 ## Elections
 
@@ -50,21 +77,5 @@ The voting should remain open for a minimum of 5 business days.
 
 ### Election of TC Chair
 
-The TC will elect from amongst voting TC members a TC Chairperson to work on building an agenda for TC meetings. The TC shall hold annual elections to select a TC Chairperson; there are no limits on the number of terms a TC Chairperson may serve.
-
-For election of persons (such as the TC Chairperson) by a vote of the TC voting members, a multiple-candidate method should be used, such as:
-
-* [Condorcet](http://en.wikipedia.org/wiki/Condorcet_method) or
-* [Single Transferable Vote](http://en.wikipedia.org/wiki/Single_transferable_vote)
-
-Multiple-candidate methods may be reduced to simple election by plurality when there are only two candidates for one position to be filled. No election is required if there is only one candidate and no objections to the candidates election. Elections shall be done within the Projects by the collaborators active in the Project.
-
-
-## Voting on project issues
-
-
-
-
-## Project Roles
-
+The TC will rotate amongst TC members a TC Chairperson to work on building an agenda for TC meetings. The TC Chairperson should hold their role for 3 months; there are no limits on the number of terms a TC Chairperson may serve.
 

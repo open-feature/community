@@ -1,4 +1,4 @@
-# OpenFeature Mission and Vision
+# Mission and Vision
 
 ## Mission
 
@@ -8,7 +8,7 @@ To improve the software development lifecycle, no matter the size of the project
 
 A world where feature flagging is a core principle of the software development lifecycle, enabling teams to test and release high quality software with a high degree of safety and confidence.
 
-OpenFeature can achieve this vision by:
+**OpenFeature can achieve this vision by:**
 
 ### Vendor neutrality
 
@@ -28,6 +28,6 @@ OpenFeature is a collective effort that benefits from years of experience across
 
 Feature flagging is a simple, yet powerful mechanism that improves the entire software development lifecycle by decoupling feature release from a deployment. It isn't, however, ubiquitously used throughout the industry. OpenFeature is an opportunity to promote good software practices in a vendor neutral way through developing feature flag awareness.
 
-[glossary-app-auth]: https://github.com/open-feature/spec/blob/main/specification/glossary.md#application-author
-[glossary-app-int]: https://github.com/open-feature/spec/blob/main/specification/glossary.md#application-integrator
-[glossary-provider]: https://github.com/open-feature/spec/blob/main/specification/glossary.md#provider
+[glossary-app-auth]: https://docs.openfeature.dev/docs/specification/glossary#application-author
+[glossary-app-int]: https://docs.openfeature.dev/docs/specification/glossary#application-integrator
+[glossary-provider]: https://docs.openfeature.dev/docs/specification/glossary#provider

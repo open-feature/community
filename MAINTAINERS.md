@@ -1,4 +1,4 @@
-# OpenFeature maintainers
+# Maintainers
 
 This is an official list of OpenFeature maintainers and other key roles
 with admin/maintain/write/triage permissions in the GitHub organizations.
@@ -11,9 +11,9 @@ Names added to this file should be in the following format:
 
 ## Maintainers
 
-* Michael Beemer, @beeme1mr, Dynatrace
-* Alois Reitbauer, @AloisReitbauer, Dynatrace/CNCF/Keptn
-* Oleg Nenashev, @oleg-nenashev, Dynatrace/CDF/Jenkins/Keptn
-* David Hirsch @DavidPHirsch, Dynatrace/Keptn/TODO Group
+- Michael Beemer, @beeme1mr, Dynatrace
+- Alois Reitbauer, @AloisReitbauer, Dynatrace/CNCF/Keptn
+- Oleg Nenashev, @oleg-nenashev, Dynatrace/CDF/Jenkins/Keptn
+- David Hirsch @DavidPHirsch, Dynatrace/Keptn/TODO Group
 
 GitHub team: `@open-feature/maintainers`
