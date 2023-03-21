@@ -32,14 +32,26 @@ These are community maintainers, responsible for cross-functional project commun
 
 [David Hirsch](https://github.com/DavidPHirsch) Dynatrace
 
-## Specifications and Approvers
+### Project roles
 
-Members of the Technical Committee are the maintainers of OpenFeature spec
+The following project roles are defined at the moment:
+_Community Participant_,
+_Contributor_,
+_Organization Member_,
+_Triager_,
+_Approver_,
+_Maintainer_,
+_Technical Committee Member_,
+_Bootstrap Governance Committee Member_.
+These roles are defined below.
 
-Spec Approvers:
+See [Contributor Ladder](./CONTRIBUTOR_LADDER.md) for additional information.
 
-## Java SDK
+In addition to the elected maintainer roles,
+3 individuals get the maintainer status at the inception of the project:
 
-Repo: open-feature/java-sdk
+- Michael Beemer, @beeme1mr, Dynatrace
+- Alois Reitbauer, @AloisReitbauer, Dynatrace/CNCF/Keptn
 
-The list of active members (both "approvers" and "maintainers") for the Java SDK can be found in the open-feature/java-sdk README file.
+### Emeritus
+- Oleg Nenashev, @oleg-nenashev, Dynatrace/CDF/Jenkins/Keptn
