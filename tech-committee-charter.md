@@ -77,5 +77,8 @@ The voting should remain open for a minimum of 5 business days.
 
 ### Election of TC Chair
 
-The TC will rotate amongst TC members a TC Chairperson to work on building an agenda for TC meetings. The TC Chairperson should hold their role for 3 months; there are no limits on the number of terms a TC Chairperson may serve.
+The TC Chair will rotate amongst TC members. The responsibilities of TC Chair include: building an agenda for TC meetings, encouraging participation of other members and facilitating the decisions among TCs. The TC Chairperson should hold their role for 3 months; there are no limits on the number of terms a TC Chairperson may serve.
+
+
+
 
