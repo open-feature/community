@@ -9,7 +9,8 @@ has_repository_projects: true
 members_can_create_repositories: false
 
 admins:
-  # todo bot account for applying
+  # org management bot
+  - openfeaturebot
 
   # governance board
   - beeme1mr
