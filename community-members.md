@@ -4,12 +4,12 @@
 
 This is the current Governance Committee, per the Governance Committee Charter, in alphabetical order:
 
-- [Alois Reitbauer](https://github.com/aloisreitbauer), Dynatrace, term: Oct 1st, 2022 - TBD
-- [Ben Rometsch](https://github.com/dabeeeenster), Flagsmith, term: April 28, 2022 - TBD
-- [Justin Abrahms](https://github.com/justinabrahms), eBay, term: April 28, 2022 - TBD
-- [Michael Beemer](https://github.com/beeme1mr), Dynatrace, term: April 28, 2022 - TBD
-- [Pete Hodgson](https://github.com/moredip), Independent, term: April 28, 2022 - TBD
-- [Alex Jones](https://github.com/AlexsJones), Canonical, term: Nov 1, 2022 - TBD
+- [Alois Reitbauer](https://github.com/aloisreitbauer), Dynatrace, term: Oct 1st, 2022 - December 2023
+- [Ben Rometsch](https://github.com/dabeeeenster), Flagsmith, term: April 28, 2022 - December 2023
+- [Justin Abrahms](https://github.com/justinabrahms), eBay, term: April 28, 2022 - December 2023
+- [Michael Beemer](https://github.com/beeme1mr), Dynatrace, term: April 28, 2022 - December 2023
+- [Pete Hodgson](https://github.com/moredip), Independent, term: April 28, 2022 - December 2023
+- [Alex Jones](https://github.com/AlexsJones), Canonical, term: Nov 1, 2022 - December 2023
 
 currently there is one vacant seat
 
