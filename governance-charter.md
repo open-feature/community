@@ -34,33 +34,6 @@ and organizing elections for the elected governance board body.
 > In April 2022 _Project Maintainers_ assigned five seven individuals to be members of the _Bootstrap Governance Committee_.
 > This is a **temporary** arrangement that should be replaced by an elected governing body before March 2024.
 
-## Technical Committee (TC)
-
-The project has a _Technical Committee (TC)_
-that consists of three maintainers who actively contribute to the project.
-The role of the technical committee is to facilitate development of the
-OpenFeature specification and other technical decisions in the project.
-The responsibilities include reviewing the incoming enhancement proposal and pull requests,
-driving the decision making process
-and building consensus among the OpenFeature community.
-At the moment, TC members do not get special permissions beyond what other maintainers have.
-
-### TC Members
-
-[Technical Committee Members](./community-members.md#technical-committee)
-
-### TC Charter
-
-The technical committee is initially bootstrapped by 3
-contributors based on the consensus of contributors and maintainers of the project.
-Their term is **one year**.
-Then the technical committee members are re-elected based on the public nomination and decision making process.
-The same happens when a TC member steps down from the role in the middle of the term,
-an acting TC member is appointed by the community until the end of the term.
-
-At any time, less than 50% of the TC members can be affiliated with a single company.
-If the affiliation changes during the term and violates the rule,
-one of the TC members should step down.
 
 ## Decision making
 
@@ -82,27 +55,6 @@ hosted by its maintainers and contributors.
 These meetings are used as additional discussion and consensus building
 but not for making decisions without prior discussion in async channels.
 
-### Project roles
-
-The following project roles are defined at the moment:
-_Community Participant_,
-_Contributor_,
-_Organization Member_,
-_Triager_,
-_Approver_,
-_Maintainer_,
-_Technical Committee Member_,
-_Bootstrap Governance Committee Member_.
-These roles are defined below.
-
-See [Contributor Ladder](./CONTRIBUTOR_LADDER.md) for additional information.
-
-In addition to the elected maintainer roles,
-3 individuals get the maintainer status at the inception of the project:
-
-- Michael Beemer, @beeme1mr, Dynatrace
-- Alois Reitbauer, @AloisReitbauer, Dynatrace/CNCF/Keptn
-- Oleg Nenashev, @oleg-nenashev, Dynatrace/CDF/Jenkins/Keptn
 
 #### Bootstrap Governance Committee Members
 
