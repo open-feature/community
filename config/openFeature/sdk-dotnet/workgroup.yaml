@@ -1,0 +1,12 @@
+
+repos:
+  - dotnet-sdk
+  - dotnet-sdk-contrib
+
+approvers: []
+
+maintainers:
+  - beeme1mr
+  - toddbaert
+
+admins: []

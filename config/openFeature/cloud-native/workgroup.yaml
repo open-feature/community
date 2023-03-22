@@ -1,0 +1,15 @@
+
+repos:
+  - flagd
+  - watchman
+  - schemas
+  - open-feature-operator
+
+approvers: []
+
+maintainers:
+  - justinabrahms
+  - AlexsJones
+  - thschue
+
+admins: []

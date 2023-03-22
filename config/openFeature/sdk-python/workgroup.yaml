@@ -1,0 +1,15 @@
+
+repos:
+  - python-sdk
+  - python-sdk-contrib
+
+approvers: []
+
+maintainers:
+  - dabeeeenster
+  - mschoenlaub
+  - tcarrio
+  - matthewelwell
+  - ajhelsby
+
+admins: []

@@ -1,0 +1,11 @@
+
+repos:
+  - ruby-sdk
+  - ruby-sdk-contrib
+
+approvers: []
+
+maintainers:
+  - josecolella
+
+admins: []

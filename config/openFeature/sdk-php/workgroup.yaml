@@ -1,0 +1,11 @@
+
+repos:
+  - php-sdk
+  - php-sdk-contrib
+
+approvers: []
+
+maintainers:
+  - tcarrio
+
+admins: []

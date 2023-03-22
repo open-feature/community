@@ -1,0 +1,14 @@
+
+repos:
+  - docs.openfeature.dev
+  - killercoda
+  - playground
+
+approvers:
+  - justinabrahms
+  - beeme1mr
+  - toddbaert
+
+maintainers: []
+
+admins: []

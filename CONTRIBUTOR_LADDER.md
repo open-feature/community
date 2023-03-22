@@ -71,22 +71,22 @@ An Organization Member must meet the responsibilities and has the requirements o
 
 The process for a Contributor to become an Organization Member is as follows:
 
-1.  Sponsored by 2 [Approver](#approver). Note the following requirements for sponsors:
-    _ Sponsors must have close interactions with the prospective member - e.g.
+1. Sponsored by 2 [Approver](#approver). Note the following requirements for sponsors:
+    - Sponsors must have close interactions with the prospective member - e.g.
     code/design/proposal review, coordinating on issues, etc.
-    _ Sponsors must be approvers or maintainers in at least 1 CODEOWNERS file
+    - Sponsors must be approvers or maintainers in at least 1 CODEOWNERS file
     in any repo in the OpenFeature org. \* Sponsors must be from multiple member companies to demonstrate integration
     across community.
-2.  [Open an issue](https://github.com/open-feature/community/issues/new)
+2. [Open an issue](https://github.com/open-feature/community/issues/new)
 
-- Ensure your sponsors are `@mentioned` on the issue
-- Complete every item on the checklist ([preview the current version of the
-  template](https://github.com/open-feature/community/ISSUE_TEMPLATE/membership.md))
-- Make sure that the list of contributions included is representative of your
-  work on the project.
+     - Ensure your sponsors are `@mentioned` on the issue
+     - Complete every item on the checklist ([preview the current version of the
+       template](https://github.com/open-feature/community/issues/new?labels=membership&template=memberhip.md))
+     - Make sure that the list of contributions included is representative of your
+       work on the project.
 
-3.  Have your sponsoring reviewers reply confirmation of sponsorship: `I support`
-4.  Once your sponsors have responded, your request will be reviewed by the
+3. Have your sponsoring reviewers reply confirmation of sponsorship: `I support`
+4. Once your sponsors have responded, your request will be reviewed by the
     Technical Committee (TC). Any TC member can review the requirements and add
     Members to the GitHub org.
 
@@ -106,19 +106,19 @@ meetings, chat rooms, and other discussion forums.
 
 - Requirements
 
-* Nominated by a maintainer, with no objections from other maintainers.
-* Consistently attend meetings and interact with issues.
+  - Nominated by a maintainer, with no objections from other maintainers.
+  - Consistently attend meetings and interact with issues.
 
 - Responsibilities and privileges
 
-* Have an understanding of the goals and workflows defined by the maintainers.
-* Respond to new PRs and Issues by asking clarifying questions.
-* Organize the backlog by applying labels, milestones, assignees, and projects.
+  - Have an understanding of the goals and workflows defined by the maintainers.
+  - Respond to new PRs and Issues by asking clarifying questions.
+  - Organize the backlog by applying labels, milestones, assignees, and projects.
 
 The process of becoming a Triager is:
 
-1.  The contributor is nominated by opening a PR against the appropriate repository, which adds their GitHub username to the respective GitHub team for one or more directories.
-2.  At least two members of the team that owns that repository or main directory, who are already Approvers, approve the PR.
+1. The contributor is nominated by opening a PR against the appropriate repository, which adds their GitHub username to the respective GitHub team for one or more directories.
+2. At least two members of the team that owns that repository or main directory, who are already Approvers, approve the PR.
 
 ## Approver
 
@@ -130,37 +130,39 @@ focused on holistic acceptance of a contribution including: backwards/forwards
 compatibility, adhering to API and flag conventions, subtle performance and
 correctness issues, interactions with other parts of the system, etc.
 
-Defined by: [CODEOWNERS workflow](https://help.github.com/en/articles/about-code-owners).
+- Defined by:
+
+  - [CODEOWNERS workflow](https://help.github.com/en/articles/about-code-owners)
+  - [Community Configuration](https://github.com/open-feature/community/config/)
 
 Approver status can be scoped to a part of the codebase. For example, critical
 core components may have higher bar for becoming an approver.
 
 - Requirements
 
-The following apply to the part of the codebase for which one would be an
-approver in the `CODEOWNERS` files.
+    The following apply to the part of the codebase for which one would be an
+    approver in the `CODEOWNERS` files.
 
-- Reviewer of the codebase for at least 1 month
-- Reviewer for or author of PRs to the codebase,
-  with the definition of substantial subject to the maintainer's discretion
-  (e.g. refactors/adds new functionality rather than one-line pulls).
-- Nominated by a maintainer
-- With no objections from other maintainers
-- Done through PR to update the `CODEOWNERS`.
+  - Reviewer of the codebase for at least 1 month
+  - Reviewer for or author of PRs to the codebase,
+    with the definition of substantial subject to the maintainer's discretion
+    (e.g. refactors/adds new functionality rather than one-line pulls).
+  - Nominated by a maintainer
+  - With no objections from other maintainers
+  - Done through PR to update the `CODEOWNERS`.
 
 - Responsibilities and privileges
 
-The following apply to the part of the codebase for which one would be an
-approver in the `CODEOWNERS` files.
+    The following apply to the part of the codebase for which one would be an approver in the `CODEOWNERS` files.
 
-- Approver status may be a precondition to accepting large code contributions
-- Demonstrate sound technical judgement (may be asked to step down by a maintainer if they lose confidence of the maintainers)
-- Responsible for project quality control via code reviews
-  - Focus on holistic acceptance of contribution such as dependencies with other
-    features, backwards / forwards compatibility, API and flag definitions, etc
-- Expected to be responsive to review requests (inactivity for more than 1 month may result in suspension until active again)
-- Mentor contributors and reviewers
-- May approve code contributions for acceptance
+  - Approver status may be a precondition to accepting large code contributions
+  - Demonstrate sound technical judgement (may be asked to step down by a maintainer if they lose confidence of the maintainers)
+  - Responsible for project quality control via code reviews
+    - Focus on holistic acceptance of contribution such as dependencies with other
+      features, backwards / forwards compatibility, API and flag definitions, etc
+  - Expected to be responsive to review requests (inactivity for more than 1 month may result in suspension until active again)
+  - Mentor contributors and reviewers
+  - May approve code contributions for acceptance
 
 ## Maintainer
 
@@ -170,47 +172,49 @@ towards the health of that subproject. Maintainers _MUST_ set technical
 direction and make or approve design decisions for their subproject - either
 directly or through delegation of these responsibilities.
 
-Defined by: GitHub organization ownership, permissions and entry in `CODEOWNERS`
-files.
+- Defined by:
+
+  - [Community Configuration](https://github.com/open-feature/community/config/)
+  - [CODEOWNERS workflow](https://help.github.com/en/articles/about-code-owners)
 
 - Requirements
 
-Unlike the roles outlined above, the maintainers of a subproject are typically
-limited to a relatively small group of decision makers and updated as fits
-the needs of the subproject.
+    Unlike the roles outlined above, the maintainers of a subproject are typically
+    limited to a relatively small group of decision makers and updated as fits
+    the needs of the subproject.
 
-The following apply to the subproject for which one would be a maintainer.
+    The following apply to the subproject for which one would be a maintainer.
 
-- Deep understanding of the technical goals and direction of the subproject
-- Deep understanding of the technical domain (specifically the language) of the
-  subproject
-- Sustained contributions to design and direction by doing all of:
-  - Authoring and reviewing proposals
-  - Initiating, contributing and resolving discussions (emails, GitHub issues,
-    meetings)
-  - Identifying subtle or complex issues in designs and implementation PRs
-- Directly contributed to the subproject through implementation and / or review
-- Aligning with the overall project goals, specifications and design principles
-  defined by Technical Committee (TC). Bringing general questions and requests
-  to the discussions as part of specifications project.
+  - Deep understanding of the technical goals and direction of the subproject
+    - Deep understanding of the technical domain (specifically the language) of the
+        subproject
+    - Sustained contributions to design and direction by doing all of:
+      - Authoring and reviewing proposals
+      - Initiating, contributing and resolving discussions (emails, GitHub issues,
+          meetings)
+      - Identifying subtle or complex issues in designs and implementation PRs
+    - Directly contributed to the subproject through implementation and / or review
+    - Aligning with the overall project goals, specifications and design principles
+        defined by Technical Committee (TC). Bringing general questions and requests
+        to the discussions as part of specifications project.
 
 - Responsibilities and privileges
 
-The following apply to the subproject for which one would be a maintainer.
+    The following apply to the subproject for which one would be a maintainer.
 
-- Make and approve technical design decisions for the subproject.
-- Set technical direction and priorities for the subproject.
-- Define milestones and releases.
-  - Decides on when PRs are merged to control the release scope.
-- Mentor and guide approvers, reviewers, and contributors to the subproject.
-- Escalate _reviewer_ and _maintainer_ workflow concerns (i.e. responsiveness,
-  availability, and general contributor community health) to the TC.
-- Ensure continued health of subproject:
-  - Adequate test coverage to confidently release
-  - Tests are passing reliably (i.e. not flaky) and are fixed when they fail
-- Ensure a healthy process for discussion and decision making is in place.
-- Work with other maintainers to maintain the project's overall health and
-  success holistically.
+  - Make and approve technical design decisions for the subproject.
+  - Set technical direction and priorities for the subproject.
+  - Define milestones and releases.
+    - Decides on when PRs are merged to control the release scope.
+  - Mentor and guide approvers, reviewers, and contributors to the subproject.
+  - Escalate _reviewer_ and _maintainer_ workflow concerns (i.e. responsiveness,
+      availability, and general contributor community health) to the TC.
+  - Ensure continued health of subproject:
+    - Adequate test coverage to confidently release
+    - Tests are passing reliably (i.e. not flaky) and are fixed when they fail
+  - Ensure a healthy process for discussion and decision making is in place.
+  - Work with other maintainers to maintain the project's overall health and
+      success holistically.
 
 ### Becoming a Maintainer
 

@@ -1,0 +1,247 @@
+# org settings
+name: OpenFeature
+description: Standardizing Feature Flagging for Everyone
+
+default_repository_permission: read
+
+has_organization_projects: true
+has_repository_projects: true
+members_can_create_repositories: false
+
+admins:
+  # todo bot account for applying
+
+  # governance board
+  - beeme1mr
+  - AloisReitbauer
+  - AlexsJones
+  - moredip
+  - justinabrahms
+  - dabeeeenster
+
+  # technical steering committee
+  - agentgonzo
+  - toddbaert
+  - InTheCloudDan
+
+# org member settings
+members:
+  - agardnerIT
+  - agentgonzo
+  - ajhelsby
+  - AlexsJones
+  - AnaisUrlichs
+  - Arhell
+  - bacherfl
+  - benjiro
+  - cdonnellytx
+  - dabeeeenster
+  - davejohnston
+  - dlopes7
+  - dnsmichi
+  - dyladan
+  - faulkt
+  - heckelmann
+  - hlipsig
+  - InTheCloudDan
+  - jakedoublev
+  - james-milligan
+  - josecolella
+  - justaugustus
+  - Kavindu-Dodan
+  - kbychu
+  - kinyoklion
+  - lopitz
+  - markphelps
+  - matthewelwell
+  - mkorbi
+  - moredip
+  - mowies
+  - mschoenlaub
+  - odubajDT
+  - oleg-nenashev
+  - openfeaturebot
+  - patricioe
+  - RealAnna
+  - rgrassian-split
+  - rschosser
+  - s-sen
+  - salaboy
+  - skyerus
+  - tcarrio
+  - tegenterter
+  - therealmitchconnors
+  - thisthat
+  - thiyagu06
+  - thomaspoignant
+  - thschue
+  - tomkerkhove
+  - weyert
+
+teams:
+  emiritus:
+    members:
+      - oleg-nenashev
+
+  admins:
+    members: []
+
+  maintainers:
+    members: []
+
+  approvers:
+    members: []
+
+  technical-steering-committee:
+    members:
+      - agentgonzo
+      - toddbaert
+      - InTheCloudDan
+
+  governance-committee:
+    members:
+      - beeme1mr
+      - AloisReitbauer
+      - AlexsJones
+      - moredip
+      - justinabrahms
+      - dabeeeenster
+
+  Interested Parties:
+    description: Group for members of https://github.com/openfeatureflags/governance/blob/main/interested-parties.md
+    maintainers:
+      - justinabrahms
+      - AloisReitbauer
+      - beeme1mr
+      - oleg-nenashev
+      - miigwi
+    members:
+      - weyert
+      - dabeeeenster
+      - markphelps
+      - salaboy
+      - dnsmichi
+      - justaugustus
+      - therealmitchconnors
+      - davejohnston
+      - AlexsJones
+      - dyladan
+      - benjiro
+      - tomkerkhove
+      - kinyoklion
+      - mkorbi
+      - thomaspoignant
+      - faulkt
+      - tegenterter
+      - AnaisUrlichs
+      - thschue
+      - james-milligan
+    privacy: closed
+    repos:
+      vendor-survey: write
+
+repos:
+  # Template for adding a new project
+  # mandatory:
+  #
+  # <name>:
+  #   description: <description>
+  #
+  # optional:
+  #   archived: <true|false> - defaults to false
+  #   private: <true|false> - defaults to false
+  #   has_issues: <true|false> - defaults to true
+  #   has_projects: <true|false> - defaults to true
+  #   has_wiki: <true|false> - defaults to false
+  .github:
+    description: This repository stores various defaults for the GitHub organization
+  community:
+    description: OpenFeature project community and governance/
+  demo-repository:
+    description: A code repository designed to show the best GitHub has to offer.
+    private: true
+  docs.openfeature.dev:
+    description: OpenFeature Documentation
+    has_projects: false
+  dotnet-sdk:
+    description: .NET implementation of the OpenFeature SDK
+  dotnet-sdk-contrib:
+    description: OpenFeature Providers and Hooks for .NET
+  feature-operator:
+    archived: true
+    description: OpenFeature Operator for Kubernetes/
+  flagd:
+    description: A feature flag daemon with a Unix philosophy
+  go-sdk:
+    description: Go SDK for OpenFeature
+  go-sdk-contrib:
+    description: Community maintained OpenFeature Providers and Hooks for Go
+  homebrew-core:
+    description: "\U0001F37B Default formulae for the missing package manager
+      for macOS (or Linux)"
+    has_issues: false
+    homepage: https://brew.sh
+  java-sdk:
+    description: Java implementation of the OpenFeature SDK
+  java-sdk-contrib:
+    description: Community contributions for hooks and reference providers
+  js-sdk:
+    description: JavaScript SDK for OpenFeature/
+  js-sdk-contrib:
+    description: OpenFeature Providers and Hooks for JavaScript
+  killercoda:
+    description: Killercoda Interactive Examples for OpenFeature
+    has_projects: false
+  ofep:
+    description: A focal point for OpenFeature research, proposals and requests
+      for comments
+    has_projects: false
+  open-feature-operator:
+    description: A Kubernetes feature flag operator
+  open-feature.github.io:
+    archived: true
+    description: OpenFeature website/
+  openfeature.dev:
+    description: OpenFeature Website
+  php-sdk:
+    description: 'PHP implementation of the OpenFeature SDK '
+    has_projects: false
+  php-sdk-contrib:
+    description: ' OpenFeature Providers and Hooks for PHP '
+  php-sdk-contrib-flagd-provider:
+    description: Flagd provider for the OpenFeature PHP SDK
+    private: true
+  playground:
+    description: OpenFeature SDK demos and experimentation/
+  python-sdk:
+    description: Python SDK for OpenFeature
+  python-sdk-contrib:
+    description: Community contributions for hooks and reference providers in
+      python
+  ruby-sdk:
+    description: Ruby implementation of the OpenFeature SDK
+  ruby-sdk-contrib:
+    description: Community contributions for hooks and reference providers in
+      Ruby
+    private: true
+  rust-sdk:
+  rust-sdk-contrib:
+    description: Community maintained OpenFeature Providers and Hooks for Rust
+  schemas:
+    description: Schemas and spec files pertaining to OpenFeature
+    homepage: https://buf.build/open-feature/flagd
+  spec:
+    description: OpenFeature specification/
+  test-harness:
+    description: Shared test harness for SDK testing, with Gherkin tests
+  toc-proposal:
+    description: ⚖️Technical Oversight Committee (TOC)
+    homepage: https://cncf.io/
+  vendor-survey:
+    archived: true
+    private: true
+  watchman:
+    description: A Kubernetes admission controller driven by open-feature
+  web-sdk:
+    description: 'Experimental Web SDK for OpenFeature '
+    private: true

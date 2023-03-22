@@ -1,0 +1,17 @@
+
+repos:
+  - go-sdk
+  - go-sdk-contrib
+
+approvers: []
+
+maintainers:
+  - beeme1mr
+  - davejohnston
+  - AlexsJones
+  - Kavindu-Dodan
+  - thomaspoignant
+  - skyerus
+  - james-milligan
+
+admins: []
