@@ -1,13 +1,15 @@
-
 repos:
-  - dotnet-sdk
-  - dotnet-sdk-contrib
+  - java-sdk
+  - java-sdk-contrib
 
-approvers: []
+approvers:
+  - thiyagu06
+  - thomaspoignant
 
 maintainers:
   - justinabrahms
   - toddbaert
   - agentgonzo
+  - kavindu-dodan
 
 admins: []

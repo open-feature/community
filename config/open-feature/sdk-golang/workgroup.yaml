@@ -1,17 +1,18 @@
-
 repos:
   - go-sdk
   - go-sdk-contrib
 
-approvers: []
+approvers:
+  - beeme1mr
+  - agentgonzo
 
 maintainers:
-  - beeme1mr
   - davejohnston
   - AlexsJones
   - Kavindu-Dodan
   - thomaspoignant
   - skyerus
   - james-milligan
+  - toddbaert
 
 admins: []

@@ -1,15 +1,21 @@
-
 repos:
   - flagd
-  - watchman
   - schemas
   - open-feature-operator
 
-approvers: []
+approvers:
+  - thomaspoignant
+  - justinabrahms
+  - thschue
+  - thisthat
+  - tcarrio
+  - beeme1mr
 
 maintainers:
-  - justinabrahms
   - AlexsJones
-  - thschue
+  - james-milligan
+  - toddbaert
+  - kavindu-dodan
+  - skyerus
 
 admins: []
