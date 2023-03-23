@@ -143,10 +143,10 @@ admins:
   - admins-1
 ```
 
-### ... set a member as emiritus?
+### ... set a member as emeritus?
 
 > **Warning**
-> First discuss this with the community and the member you want to set to emiritus state.
+> First discuss this with the community and the member you want to set to emeritus state.
 
 Remove the member from all `workgroup.yaml` files, and other teams within the `org.yaml`.
 
