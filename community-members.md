@@ -52,6 +52,15 @@ In addition to the elected maintainer roles,
 
 - Michael Beemer, @beeme1mr, Dynatrace
 - Alois Reitbauer, @AloisReitbauer, Dynatrace/CNCF/Keptn
+- - Oleg Nenashev, @oleg-nenashev, Dynatrace/CDF/Jenkins/Keptn
 
 ### Emeritus
-- Oleg Nenashev, @oleg-nenashev, Dynatrace/CDF/Jenkins/Keptn
+
+
+
+
+
+
+
+
+
