@@ -28,15 +28,12 @@ admins:
 # org member settings
 members:
   - agardnerIT
-  - agentgonzo
   - ajhelsby
-  - AlexsJones
   - AnaisUrlichs
   - Arhell
   - bacherfl
   - benjiro
   - cdonnellytx
-  - dabeeeenster
   - davejohnston
   - dlopes7
   - dnsmichi
@@ -44,7 +41,6 @@ members:
   - faulkt
   - heckelmann
   - hlipsig
-  - InTheCloudDan
   - jakedoublev
   - james-milligan
   - josecolella
@@ -56,12 +52,10 @@ members:
   - markphelps
   - matthewelwell
   - mkorbi
-  - moredip
   - mowies
   - mschoenlaub
   - odubajDT
   - oleg-nenashev
-  - openfeaturebot
   - patricioe
   - RealAnna
   - rgrassian-split
@@ -94,13 +88,13 @@ teams:
   approvers:
     members: []
 
-  technical-steering-committee:
+  Technical Steering Committee:
     members:
       - agentgonzo
       - toddbaert
       - InTheCloudDan
 
-  governance-committee:
+  Governance Board:
     members:
       - beeme1mr
       - AloisReitbauer
