@@ -147,10 +147,10 @@ func applyRepoDefaults(cfg *org.Config, repoName string) org.Repo {
 	true := true
 	falsy := false
 
-	if repo.DefaultBranch == nil {
-		defaultBranch := "main"
-		repo.DefaultBranch = &defaultBranch
-	}
+	// if repo.DefaultBranch == nil {
+	// 	defaultBranch := "main"
+	// 	repo.DefaultBranch = &defaultBranch
+	// }
 	if repo.HomePage == nil {
 		homepage := "https://openfeature.dev"
 		repo.HomePage = &homepage
