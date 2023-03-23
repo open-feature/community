@@ -1,10 +1,14 @@
-
 repos:
-  - java-sdk
-  - java-sdk-contrib
+  - js-sdk
+  - js-sdk-contrib
 
-approvers: []
+approvers:
+  - weyert
+  - james-milligan
+  - tcarrio
 
-maintainers: []
+maintainers:
+  - beeme1mr
+  - toddbaert
 
 admins: []

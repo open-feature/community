@@ -1,11 +1,23 @@
-
 repos:
   - ofep
   - community
   - .github
   - spec
 
-approvers: []
+approvers:
+  - DavidPHirsch
+  - beeme1mr
+  - AloisReitbauer
+  - AlexsJones
+  - moredip
+  - justinabrahms
+  - dabeeeenster
+  - agentgonzo
+  - toddbaert
+  - InTheCloudDan
+  - benjiro
+  - kinyoklion
+  - weyert
 
 maintainers: []
 

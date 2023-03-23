@@ -1,9 +1,10 @@
-
 repos:
   - dotnet-sdk
   - dotnet-sdk-contrib
 
-approvers: []
+approvers:
+  - bacherfl
+  - cdonnellytx
 
 maintainers:
   - beeme1mr

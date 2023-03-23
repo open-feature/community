@@ -76,7 +76,7 @@ members:
   - miigwi
 
 teams:
-  emiritus:
+  emeritus:
     members:
       - oleg-nenashev
 
@@ -201,10 +201,10 @@ repos:
   openfeature.dev:
     description: OpenFeature Website
   php-sdk:
-    description: 'PHP implementation of the OpenFeature SDK '
+    description: "PHP implementation of the OpenFeature SDK "
     has_projects: false
   php-sdk-contrib:
-    description: ' OpenFeature Providers and Hooks for PHP '
+    description: " OpenFeature Providers and Hooks for PHP "
   php-sdk-contrib-flagd-provider:
     description: Flagd provider for the OpenFeature PHP SDK
     private: true
@@ -236,6 +236,3 @@ repos:
     private: true
   watchman:
     description: A Kubernetes admission controller driven by open-feature
-  web-sdk:
-    description: 'Experimental Web SDK for OpenFeature '
-    private: true

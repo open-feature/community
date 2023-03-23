@@ -1,10 +1,9 @@
-
 repos:
-  - java-sdk
-  - java-sdk-contrib
+  - test-harness
 
 approvers: []
 
-maintainers: []
+maintainers:
+  - toddbaert
 
 admins: []
