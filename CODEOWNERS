@@ -1,6 +1,5 @@
 # These owners will be the default owners for everything in
 # the repo. Unless a later match takes precedence
-#
-# Managed by Peribolos: https://github.com/open-feature/community/blob/main/config/open-feature/org/workgroup.yaml
-#
+
+# The config folder is used by Peribolos to configure org permissions
 /config/      @toddbaert @beeme1mr
