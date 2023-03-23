@@ -33,8 +33,10 @@ members:
   - Arhell
   - bacherfl
   - benjiro
+  - caniszccyk
   - cdonnellytx
   - davejohnston
+  - DavidPHirsch
   - dlopes7
   - dnsmichi
   - dyladan
@@ -230,9 +232,6 @@ repos:
     description: OpenFeature specification/
   test-harness:
     description: Shared test harness for SDK testing, with Gherkin tests
-  toc-proposal:
-    description: ⚖️Technical Oversight Committee (TOC)
-    homepage: https://cncf.io/
   vendor-survey:
     archived: true
     private: true
