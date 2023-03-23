@@ -78,6 +78,7 @@ members:
   - thschue
   - tomkerkhove
   - weyert
+  - miigwi
 
 teams:
   emiritus:
@@ -114,9 +115,9 @@ teams:
       - justinabrahms
       - AloisReitbauer
       - beeme1mr
-      - oleg-nenashev
-      - miigwi
+
     members:
+      - miigwi
       - weyert
       - dabeeeenster
       - markphelps
