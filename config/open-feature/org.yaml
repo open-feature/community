@@ -154,7 +154,9 @@ repos:
   .github:
     description: This repository stores various defaults for the GitHub organization
   community:
-    description: OpenFeature project community and governance/
+    description: OpenFeature project community and governance
+  community-tooling:
+    description: Tools for Community Management
   demo-repository:
     description: A code repository designed to show the best GitHub has to offer.
     private: true
