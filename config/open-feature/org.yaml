@@ -169,7 +169,7 @@ repos:
     description: OpenFeature Providers and Hooks for .NET
   feature-operator:
     archived: true
-    description: OpenFeature Operator for Kubernetes/
+    description: OpenFeature Operator for Kubernetes
   flagd:
     description: A feature flag daemon with a Unix philosophy
   go-sdk:
@@ -186,7 +186,7 @@ repos:
   java-sdk-contrib:
     description: Community contributions for hooks and reference providers
   js-sdk:
-    description: JavaScript SDK for OpenFeature/
+    description: JavaScript SDK for OpenFeature
   js-sdk-contrib:
     description: OpenFeature Providers and Hooks for JavaScript
   killercoda:
@@ -200,19 +200,19 @@ repos:
     description: A Kubernetes feature flag operator
   open-feature.github.io:
     archived: true
-    description: OpenFeature website/
+    description: OpenFeature website
   openfeature.dev:
     description: OpenFeature Website
   php-sdk:
-    description: "PHP implementation of the OpenFeature SDK "
+    description: PHP implementation of the OpenFeature SDK
     has_projects: false
   php-sdk-contrib:
-    description: " OpenFeature Providers and Hooks for PHP "
+    description: OpenFeature Providers and Hooks for PHP
   php-sdk-contrib-flagd-provider:
     description: Flagd provider for the OpenFeature PHP SDK
     private: true
   playground:
-    description: OpenFeature SDK demos and experimentation/
+    description: OpenFeature SDK demos and experimentation
   python-sdk:
     description: Python SDK for OpenFeature
   python-sdk-contrib:
@@ -231,7 +231,7 @@ repos:
     description: Schemas and spec files pertaining to OpenFeature
     homepage: https://buf.build/open-feature/flagd
   spec:
-    description: OpenFeature specification/
+    description: OpenFeature specification
   test-harness:
     description: Shared test harness for SDK testing, with Gherkin tests
   vendor-survey:
