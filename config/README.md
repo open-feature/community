@@ -10,10 +10,13 @@ To reduce efforts and duplication we decided to adapt the generation approach to
 
 ## Overview
 
-The `tools/peribolosbuilder.go` contains our custom generation logic for the peribolos configuration.
+We are using our [community-tools](https://github.com/open-feature/community/) to merge our configuration.
 
-Within the `config` directory, we are storing our configurations.
-(this can be overwritten with a config flag (`--config`) when executing `peribolosbuilder.go`).
+It is also available as a docker image to be used locally:
+
+```console
+docker run --rm -v $(pwd):/config ghcr.io/open-feature/community-tooling:v0
+```
 
 ## Configuration Structure
 
@@ -23,7 +26,7 @@ This directory will only be picked up when there is a `org.yaml` within the dire
 Within this `org-folder` we can have multiple teams/workgroups.
 Those teams are represented with their subfolder (the name of the team) containing a `workgroup.yaml`.
 
-`peribolosbuilder.go` will fetch these configurations and generate a proper peribolos configuration based on this.
+The `community-tools` will fetch these configurations and generate a proper peribolos configuration based on this.
 
 ### org.yaml
 
