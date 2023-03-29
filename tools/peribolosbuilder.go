@@ -129,7 +129,7 @@ func loadOrgs(o options) (map[string]org.Config, error) {
 			for name := range cfg.Repos {
 				admins.Repos[name] = github.Admin
 				maintainers.Repos[name] = github.Maintain
-				approvers.Repos[name] = github.Triage
+				approvers.Repos[name] = github.Write
 				cfg.Repos[name] = applyRepoDefaults(cfg, name)
 			}
 
@@ -225,7 +225,7 @@ func generateGroupConfig(path string) (map[string]org.Team, error) {
 	for _, repo := range groupCfg.Repos {
 		admins.Repos[repo] = github.Admin
 		maintainers.Repos[repo] = github.Maintain
-		approvers.Repos[repo] = github.Triage
+		approvers.Repos[repo] = github.Write
 	}
 
 	teams := map[string]org.Team{}
