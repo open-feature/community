@@ -43,8 +43,6 @@ It will be used to:
 
 There are 3 special teams within the `org.yaml`.
 
-Those are
-
 ### &lt;workgroup&gt;/workgroup.yaml
 
 Each workgroup represents an organizational unit, which needs to work on the same repositories.
