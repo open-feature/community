@@ -23,7 +23,7 @@ Changes to TC membership should be posted in the agenda document, and may be sug
 
 ### No Over-Representation
 
-No more than one-third (33%) of the TC members may be affiliated with the same employer (same employer defined as "people employed by the same company or subsidiaries"). If removal or resignation of a TC member, or a change of employment by a TC member, creates a situation where more than one-third of the TC membership shares an employer, then the situation must be immediately remedied by the election of one or more TC members.
+No more than one-third (33%) of the TC members may be affiliated with the same employer (same employer defined as "representing the same legal entity/project"). If removal or resignation of a TC member, or a change of employment by a TC member, creates a situation where more than one-third of the TC membership shares an employer, then the situation must be immediately remedied by the election of one or more TC members.
 
 
 ## Responsibilities of the Technical Committee
@@ -68,12 +68,7 @@ In such cases, TC members will inform the the wider TC of the perceived conflict
 
 ### Election of TC Members
 
-New TC members can be nominated by any Member in Standing as defined in the [OpenFeature Governance Charter](https://github.com/open-feature/community/blob/main/governance-charter.md), and must be sponsored by one of the existing TC members to bring it to a vote. A candidate can be elected to the TC by the super-majority vote (greater than two thirds) of the existing TC members. The voting by the TC members is anonymous. A multiple-candidate method, such as [Condorcet](http://en.wikipedia.org/wiki/Condorcet_method) or [Single Transferable Vote](http://en.wikipedia.org/wiki/Single_transferable_vote), may be used to conduct the vote, by phrasing the selections as:
-
-* Vote for Nominee X
-* Vote against Nominee X
-
-The voting should remain open for a minimum of 5 business days.
+New TC members can be nominated by an existing TC Member. A candidate can be elected to the TC by the super-majority vote (greater than two thirds) of the existing TC members. The GC will have a veto for the new members.
 
 ### Election of TC Chair
 
