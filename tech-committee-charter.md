@@ -28,6 +28,9 @@ Changes to TC membership should be posted in the agenda document, and may be sug
 
 ### No Over-Representation
 
+No more than one-third (33%) of the TC members may be affiliated with the same employer (same employer defined as "representing the same legal entity/project"). If removal or resignation of a TC member, or a change of employment by a TC member, creates a situation where more than one-third of the TC membership shares an employer, then the situation must be immediately remedied by the election of one or more TC members.
+
+
 ## Responsibilities of the Technical Committee
 
 The TC ensures that the project maintains a high level of technical excellence while continuing to meet the needs of its adopters, and facilitates ongoing community contribution.
@@ -70,6 +73,8 @@ In such cases, TC members will inform the the wider TC of the perceived conflict
 
 ### Election of TC Members
 
-
+New TC members can be nominated by an existing TC Member. A candidate can be elected to the TC by the super-majority vote (greater than two thirds) of the existing TC members. The GC will have a veto for the new members.
 
 ### Election of TC Chair
+
+The TC Chair will rotate amongst TC members. The responsibilities of TC Chair include: building an agenda for TC meetings, encouraging participation of other members and facilitating the decisions among TCs. The TC Chairperson should hold their role for 3 months; there are no limits on the number of terms a TC Chairperson may serve.
