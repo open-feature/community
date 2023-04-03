@@ -73,7 +73,3 @@ New TC members can be nominated by an existing TC Member. A candidate can be ele
 ### Election of TC Chair
 
 The TC Chair will rotate amongst TC members. The responsibilities of TC Chair include: building an agenda for TC meetings, encouraging participation of other members and facilitating the decisions among TCs. The TC Chairperson should hold their role for 3 months; there are no limits on the number of terms a TC Chairperson may serve.
-
-
-
-
