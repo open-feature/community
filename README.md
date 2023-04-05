@@ -64,6 +64,10 @@ Please use the `#openfeature` hashtag or mention our accounts when you share the
 - Twitter: [@openfeature](https://twitter.com/openfeature)
 - LinkedIn: [OpenFeature](https://www.linkedin.com/company/openfeature/)
 
+### Mailing List
+
+Join our (low-traffic) [CNCF mailing list](https://lists.cncf.io/g/cncf-openfeature-project) to stay up to date on announcements, discussions, and more.
+
 ## Roadmap
 
 The project roadmap is available [here](https://github.com/orgs/open-feature/projects/1).
