@@ -80,6 +80,7 @@ teams:
   emeritus:
     members:
       - oleg-nenashev
+      - thschue
 
   admins:
     members: []
