@@ -81,7 +81,7 @@ The process for a Contributor to become an Organization Member is as follows:
 
      - Ensure your sponsors are `@mentioned` on the issue
      - Complete every item on the checklist ([preview the current version of the
-       template](https://github.com/open-feature/community/issues/new?labels=membership&template=memberhip.md))
+       template](https://github.com/open-feature/community/issues/new?labels=membership&template=membership.md))
      - Make sure that the list of contributions included is representative of your
        work on the project.
 
