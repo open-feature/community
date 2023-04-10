@@ -241,3 +241,6 @@ repos:
     private: true
   watchman:
     description: A Kubernetes admission controller driven by open-feature
+  five-minutes-to-feature-flags:
+    private: true
+    description: A short introduction to the core concepts of OpenFeature
