@@ -2,6 +2,7 @@ repos:
   - docs.openfeature.dev
   - killercoda
   - playground
+  - five-minutes-to-feature-flags
 
 approvers:
   - justinabrahms
