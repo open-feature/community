@@ -3,6 +3,7 @@ repos:
   - killercoda
   - playground
   - five-minutes-to-feature-flags
+  - cloud-native-demo
 
 approvers:
   - justinabrahms
