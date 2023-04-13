@@ -23,10 +23,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generating Peribolos configuration
-        run: cd tools && go run peribolosbuilder.go -config=../config > ../peribolos.yaml && cd ..
-
-      - name: Printing configuration for safety
-        run: cat peribolos.yaml
+        uses: docker://ghcr.io/open-feature/community-tooling:v0
 
       - name: Preparing credentials
         run: echo ${{ secrets.PERIBOLOS_GH_TOKEN }} >> github-token # a secret with the user token to be used for execution
@@ -35,10 +32,10 @@ jobs:
         if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
         uses: docker://ghcr.io/dynatrace-innovationlab/peribolos:v0
         with:
-          args: ${{ env.PERIBOLOS_ARGS }} --github-token-path github-token --config-path peribolos.yaml
+          args: ${{ env.PERIBOLOS_ARGS }} --github-token-path github-token --config-path config/peribolos.yaml
 
       - name: Apply Peribolos Configuration
         if: github.event_name != 'pull_request'
         uses: docker://ghcr.io/dynatrace-innovationlab/peribolos:v0
         with:
-          args: ${{ env.PERIBOLOS_ARGS }} --github-token-path github-token --config-path peribolos.yaml --confirm
+          args: ${{ env.PERIBOLOS_ARGS }} --github-token-path github-token --config-path config/peribolos.yaml --confirm
