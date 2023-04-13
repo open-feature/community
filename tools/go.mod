@@ -6,7 +6,7 @@ require (
 	github.com/ghodss/yaml v1.0.0
 	github.com/sirupsen/logrus v1.9.0
 	golang.org/x/exp v0.0.0-20230206171751-46f607a40771
-	k8s.io/test-infra v0.0.0-20221124093604-46b061fa0c7a
+	k8s.io/test-infra v0.0.0-20230413084236-a98f7f6910df
 )
 
 require (
