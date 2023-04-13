@@ -10,7 +10,7 @@ To reduce efforts and duplication we decided to adapt the generation approach to
 
 ## Overview
 
-We are using our [community-tools](https://github.com/open-feature/community-tooling/) to merge our configuration.
+We are using our [community-tools](https://github.com/open-feature/community-tooling/) to generate a proper configuration based on our opinionated one for peribolos.
 
 It is also available as a docker image to be used locally:
 
