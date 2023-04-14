@@ -165,6 +165,7 @@ repos:
   docs.openfeature.dev:
     description: OpenFeature Documentation
     has_projects: false
+    archived: true
   dotnet-sdk:
     description: .NET implementation of the OpenFeature SDK
   dotnet-sdk-contrib:
