@@ -28,6 +28,6 @@ OpenFeature is a collective effort that benefits from years of experience across
 
 Feature flagging is a simple, yet powerful mechanism that improves the entire software development lifecycle by decoupling feature release from a deployment. It isn't, however, ubiquitously used throughout the industry. OpenFeature is an opportunity to promote good software practices in a vendor neutral way through developing feature flag awareness.
 
-[glossary-app-auth]: https://docs.openfeature.dev/docs/specification/glossary#application-author
-[glossary-app-int]: https://docs.openfeature.dev/docs/specification/glossary#application-integrator
-[glossary-provider]: https://docs.openfeature.dev/docs/specification/glossary#provider
+[glossary-app-auth]: https://openfeature.dev/docs/specification/glossary#application-author
+[glossary-app-int]: https://openfeature.dev/docs/specification/glossary#application-integrator
+[glossary-provider]: https://openfeature.dev/docs/specification/glossary#provider
