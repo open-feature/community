@@ -22,9 +22,9 @@ currently there is one vacant seat
 
 This is the current Technical Committee, per the Technical Committee Charter, in alphabetical order:
 
-- [Dan O’Brien](https://github.com/InTheCloudDan), LaunchDarkly, term: April 28, 2022 - April 28, 2023
-- [Todd Baert](https://github.com/toddbaert), Dynatrace, term: April 28, 2022 - April 28, 2023
-- [Steve Arch](https://github.com/agentgonzo), CloudBees, term: April 28, 2022 - April 28, 2023
+- [Ryan Lamb](https://github.com/kinyoklion), [LaunchDarkly](https://github.com/launchdarkly)
+- [Thomas Poignant](https://github.com/thomaspoignant), [Adevinta](https://github.com/adevinta)
+- [Todd Baert](https://github.com/toddbaert), [Dynatrace](https://github.com/Dynatrace)
 
 ## Community Management
 
