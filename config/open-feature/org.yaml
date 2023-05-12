@@ -21,14 +21,15 @@ admins:
   - dabeeeenster
 
   # technical steering committee
-  - agentgonzo
+  - kinyoklion
   - toddbaert
-  - InTheCloudDan
+  - thomaspoignant
 
 # org member settings
 members:
   - aepfli
   - agardnerIT
+  - agentgonzo
   - ajhelsby
   - AnaisUrlichs
   - Arhell
@@ -44,13 +45,13 @@ members:
   - faulkt
   - heckelmann
   - hlipsig
+  - InTheCloudDan
   - jakedoublev
   - james-milligan
   - josecolella
   - justaugustus
   - Kavindu-Dodan
   - kbychu
-  - kinyoklion
   - lopitz
   - lukas-reining
   - markphelps
@@ -73,7 +74,6 @@ members:
   - therealmitchconnors
   - thisthat
   - thiyagu06
-  - thomaspoignant
   - thschue
   - tomkerkhove
   - weyert
@@ -97,9 +97,9 @@ teams:
 
   Technical Steering Committee:
     members:
-      - agentgonzo
+      - kinyoklion
       - toddbaert
-      - InTheCloudDan
+      - thomaspoignant
 
   Governance Board:
     members:
