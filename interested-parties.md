@@ -17,6 +17,7 @@ Everyone is also welcome to [participate](https://openfeature.dev/community/CONT
 
 | Person              | Organization    | Other Affiliations                                                      | GitHub Username                                               | Gitlab Username                                   |
 | ------------------- | --------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------- |
+| Adam Gardner        | Dynatrace.      | CNCF, CDF, Keptn, Ortelius, CDEvents | [agardnerit](https://github.com/agardnerit) |    |
 | Alex Jones          | Canonical       | TAG App Delivery, CDF                                                   | [alexsjones](https://github.com/AlexsJones)                   | N/A                                               |
 | Alexandre Burgoni   | Conduktor       |                                                                         | [AlexandreBrg](https://github.com/AlexandreBrg)               | [Protocole](https://gitlab.com/Protocole)         |
 | Alois Reitbauer     | Dynatrace       | CNCF TAG AppDelivery, Keptn                                             | [Alois Reitbauer](https://github.com/AloisReitbauer)          | N/A                                               |
