@@ -11,7 +11,7 @@ affiliations is optional. Organizations must specify a contact email and ensure
 it is kept up to date.
 
 We invite interested parties to sign-up for news and to share expectations using our [CNCF Mailing List](https://lists.cncf.io/g/cncf-openfeature-project).
-Everyone is also welcome to [participate](https://openfeature.dev/community/CONTRIBUTOR_LADDER) and [contribute]([https://openfeature.dev/home/participate/](https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md)) to the project.
+Everyone is also welcome to [participate](https://openfeature.dev/community/contributor_ladder/) and [contribute](https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md) to the project.
 
 ## Interested individuals
 
