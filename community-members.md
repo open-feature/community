@@ -28,7 +28,7 @@ This is the current Technical Committee, per the Technical Committee Charter, in
 
 ## Community Management
 
-These are community maintainers, responsible for cross-functional project communications, events, and other functions as needed.
+These are community maintainers responsible for cross-functional project communications, events, and other functions as needed.
 
 [David Hirsch](https://github.com/DavidPHirsch) Dynatrace
 
@@ -42,19 +42,11 @@ _Triager_,
 _Approver_,
 _Maintainer_,
 _Technical Committee Member_,
-_Bootstrap Governance Committee Member_.
-These roles are defined below.
+_Bootstrap Governance Committee Member_,
+_Emeritus_.
 
 See [Contributor Ladder](./CONTRIBUTOR_LADDER.md) for additional information.
 
-In addition to the elected maintainer roles,
-3 individuals get the maintainer status at the inception of the project:
-
-- Michael Beemer, @beeme1mr, Dynatrace
-- Alois Reitbauer, @AloisReitbauer, Dynatrace/CNCF/Keptn
-- Oleg Nenashev, @oleg-nenashev, Dynatrace/CDF/Jenkins/Keptn
-
-### Emeritus
 
 
 
