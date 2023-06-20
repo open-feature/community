@@ -272,6 +272,7 @@ Involuntary removal or demotion is handled through a vote by a majority of the c
 If and when contributors' commitment levels change, contributors can consider stepping down (moving down the contributor ladder) vs moving to emeritus status (completely stepping away from the project).
 
 Contact the Maintainers about changing to Emeritus status, or reducing your contributor level.
+When a contributor returns to being more active, they may be promoted back to their previous position at the discretion of the current maintainers by opening a PR. If the current maintainers do not agree on restoring the previous responsibilities they should follow the contributor ladder steps.
 
 ## Contact
 
