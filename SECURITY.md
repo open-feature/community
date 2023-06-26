@@ -10,11 +10,11 @@ If you find something suspicious and want to report it, we'd really appreciate i
 
 ### Ways to report
 
-- Send a message to [cncf-openfeature-maintainers@lists.cncf.io](mailto:cncf-openfeature-maintainers@lists.cncf.io)
-- If you can't send an email, either open an issue on GitHub with the description or open a pull request on GitHub with a reproducer and/or fix. We really prefer if you'd talk to us over email, though, as our repositories are public and we would like to give a heads up to our users before disclosing it publicly.
+- Many repositories provide a way to report vulnerabilities privately to maintainers through a GitHub issue. This can be done by selecting the `Report a vulnerability` template when creating a new issue. Only report vulnerabilities using this template, so the issue can be addressed before public disclosure.
+- Send a message to [cncf-openfeature-maintainers@lists.cncf.io](mailto:cncf-openfeature-maintainers@lists.cncf.io). This option should only be used if the vulnerability template is unavailable.
 
 ## Vulnerability Policies
 
-OpenFeature uses Snyk and trivy vulnerability scans in order to make sure we minimize vulnerabilities in our dependencies and get notified of new vulnerabilities.
+OpenFeature uses Snyk and Trivy vulnerability scans to make sure we minimize vulnerabilities in our dependencies and get notified of new vulnerabilities.
 
-There are many situations where a vulnerability does not affect a particular dependency because of how the vulnerable package is used. In that situation the package authors may choose to stay at the current version rather than bumping the dependency, leading to a warning in the vulnerability scans but no actual vulnerability.
+There are many situations where a vulnerability does not affect a particular dependency because of how the vulnerable package is used. In that situation, the package authors may choose to stay at the current version rather than bumping the dependency, leading to a warning in the vulnerability scans but no actual vulnerability.
