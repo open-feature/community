@@ -1,7 +1,6 @@
 
 repos:
   - ruby-sdk
-  - ruby-sdk-contrib
 
 approvers: []
 

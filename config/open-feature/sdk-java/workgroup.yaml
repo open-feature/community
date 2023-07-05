@@ -1,6 +1,5 @@
 repos:
   - java-sdk
-  - java-sdk-contrib
 
 approvers:
   - thiyagu06

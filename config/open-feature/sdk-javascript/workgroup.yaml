@@ -1,6 +1,5 @@
 repos:
   - js-sdk
-  - js-sdk-contrib
 
 approvers:
   - weyert

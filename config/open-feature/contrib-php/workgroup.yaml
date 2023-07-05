@@ -1,10 +1,9 @@
-
 repos:
-  - rust-sdk
+  - php-sdk-contrib
 
 approvers: []
 
 maintainers:
-  - AlexsJones
+  - tcarrio
 
 admins: []

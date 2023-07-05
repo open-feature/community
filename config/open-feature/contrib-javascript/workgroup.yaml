@@ -1,0 +1,14 @@
+repos:
+  - js-sdk-contrib
+
+approvers: []
+
+maintainers:
+  - beeme1mr
+  - toddbaert
+  - weyert
+  - james-milligan
+  - tcarrio
+  - lukas-reining
+
+admins: []

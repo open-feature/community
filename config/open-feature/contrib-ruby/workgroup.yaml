@@ -1,10 +1,9 @@
-
 repos:
-  - rust-sdk
+  - ruby-sdk-contrib
 
 approvers: []
 
 maintainers:
-  - AlexsJones
+  - josecolella
 
 admins: []
