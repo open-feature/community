@@ -72,12 +72,10 @@ An Organization Member must meet the responsibilities and has the requirements o
 The process for a Contributor to become an Organization Member is as follows:
 
 1. Sponsored by 2 [Approver](#approver). Note the following requirements for sponsors:
-    - Sponsors must have close interactions with the prospective member - e.g.
-    code/design/proposal review, coordinating on issues, etc.
-    - Sponsors must be approvers or maintainers in at least 1 CODEOWNERS file
-    in any repo in the OpenFeature org. \* Sponsors must be from multiple member companies to demonstrate integration
-    across community.
-2. [Open an issue](https://github.com/open-feature/community/issues/new)
+    - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.
+    - Sponsors must be in an approvers or maintainers team for at least one resource in the[Community Configuration](https://github.com/open-feature/community/config/).
+      - Sponsors must be from multiple member companies to demonstrate integration across community.
+1. [Open an issue](https://github.com/open-feature/community/issues/new)
 
      - Ensure your sponsors are `@mentioned` on the issue
      - Complete every item on the checklist ([preview the current version of the
@@ -85,8 +83,8 @@ The process for a Contributor to become an Organization Member is as follows:
      - Make sure that the list of contributions included is representative of your
        work on the project.
 
-3. Have your sponsoring reviewers reply confirmation of sponsorship: `I support`
-4. Once your sponsors have responded, your request will be reviewed by the
+1. Have your sponsoring reviewers reply confirmation of sponsorship: `I support`
+1. Once your sponsors have responded, your request will be reviewed by the
     Technical Committee (TC). Any TC member can review the requirements and add
     Members to the GitHub org.
 
@@ -118,7 +116,7 @@ meetings, chat rooms, and other discussion forums.
 The process of becoming a Triager is:
 
 1. The contributor is nominated by opening a PR against the appropriate repository, which adds their GitHub username to the respective GitHub team for one or more directories.
-2. At least two members of the team that owns that repository or main directory, who are already Approvers, approve the PR.
+1. At least two members of the team that owns that repository or main directory, who are already Approvers, approve the PR.
 
 ## Approver
 
@@ -149,7 +147,7 @@ core components may have higher bar for becoming an approver.
     (e.g. refactors/adds new functionality rather than one-line pulls).
   - Nominated by a maintainer
   - With no objections from other maintainers
-  - Done through PR to update the `CODEOWNERS`.
+  - Done through PR to update the [Community Configuration](https://github.com/open-feature/community/config/).
 
 - Responsibilities and privileges
 
@@ -247,8 +245,8 @@ in order to improve your chances to become a maintainer in the future.
 Process of becoming a maintainer:
 
 1. Any current Maintainer may nominate a current Reviewer to become a new Maintainer, by opening a PR against the respective repository (Spec, java-sdk, community..) adding the nominee as an Approver in the respective maintainer group.
-2. The nominee will add a comment to the PR testifying that they agree to all requirements of becoming a Maintainer.
-3. A majority of the current Maintainers must then approve the PR.
+1. The nominee will add a comment to the PR testifying that they agree to all requirements of becoming a Maintainer.
+1. A majority of the current Maintainers must then approve the PR.
 
 ## Inactivity
 
