@@ -14,9 +14,8 @@ This is the current Governance Committee, per the Governance Committee Charter, 
 currently there is one vacant seat
 
 > NOTE:
-> In April 2022 _Project Maintainers_ assigned five seven individuals to be members of the _Bootstrap Governing Committee_.
+> In April 2022 _Project Maintainers_ assigned five individuals to be members of the _Bootstrap Governing Committee_.
 > This is a **temporary** arrangement that should be replaced by an elected governing body before March 2024.
-> Two seats remain vacant at the moment
 
 ## Technical Committee
 
