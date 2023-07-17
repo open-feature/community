@@ -25,7 +25,7 @@ admins:
   - toddbaert
   - thomaspoignant
 
-# org member settings
+# org member settings - keep alphabetical
 members:
   - aepfli
   - agardnerIT
@@ -37,6 +37,7 @@ members:
   - ARobertsCollibra
   - bacherfl
   - benjiro
+  - c4milo
   - Calibretto
   - cdonnellytx
   - davejohnston
@@ -58,11 +59,15 @@ members:
   - justaugustus
   - Kavindu-Dodan
   - kbychu
+  - kinyoklion
   - lopitz
   - lukas-reining
+  - madhead
   - markphelps
   - matthewelwell
   - mfranberg
+  - mihirm21
+  - miigwi
   - mkorbi
   - mowies
   - mschoenlaub
@@ -71,12 +76,14 @@ members:
   - odubajDT
   - oleg-nenashev
   - patricioe
+  - rcrowe
   - RealAnna
   - rgrassian-split
   - rschosser
   - s-sen
   - salaboy
   - skyerus
+  - sindhuinti
   - staceypotter
   - tcarrio
   - tegenterter
@@ -85,11 +92,8 @@ members:
   - thiyagu06
   - thschue
   - tomkerkhove
-  - weyert
-  - miigwi
-  - sindhuinti
-  - mihirm21
   - vahidlazio
+  - weyert
 
 teams:
   emeritus:
