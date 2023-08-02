@@ -4,6 +4,7 @@ repos:
   - community-tooling
   - .github
   - spec
+  - toc-proposal
 
 approvers:
   - DavidPHirsch

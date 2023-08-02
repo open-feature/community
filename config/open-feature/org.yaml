@@ -258,6 +258,8 @@ repos:
     description: OpenFeature specification
   swift-sdk:
     description: Swift implementation of the OpenFeature SDK for iOS clients
+  toc-proposal:
+    description: TOC proposal fork
   test-harness:
     description: Shared test harness for SDK testing, with Gherkin tests
   vendor-survey:
