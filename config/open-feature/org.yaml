@@ -254,6 +254,8 @@ repos:
     homepage: https://buf.build/open-feature/flagd
   spec:
     description: OpenFeature specification
+  toc-proposal:
+    description: TOC proposal fork
   test-harness:
     description: Shared test harness for SDK testing, with Gherkin tests
   vendor-survey:
