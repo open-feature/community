@@ -1,0 +1,13 @@
+repos:
+  - kotlin-sdk
+
+approvers: []
+
+maintainers:
+  - fabriziodemaria
+  - nicklasl
+  - nickybondarenko
+  - toddbaert
+  - vahidlazio
+
+admins: []

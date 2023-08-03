@@ -1,0 +1,13 @@
+repos:
+  - swift-sdk
+
+approvers: []
+
+maintainers:
+  - alina-v1
+  - Calibretto
+  - fabriziodemaria
+  - mfranberg
+  - toddbaert
+
+admins: []

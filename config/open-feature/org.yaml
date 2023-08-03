@@ -214,6 +214,8 @@ repos:
   killercoda:
     description: Killercoda Interactive Examples for OpenFeature
     has_projects: false
+  kotlin-sdk:
+    description: Kotlin implementation of the OpenFeature SDK for Android clients
   ofep:
     description: A focal point for OpenFeature research, proposals and requests
       for comments
@@ -254,6 +256,8 @@ repos:
     homepage: https://buf.build/open-feature/flagd
   spec:
     description: OpenFeature specification
+  swift-sdk:
+    description: Swift implementation of the OpenFeature SDK for iOS clients
   toc-proposal:
     description: TOC proposal fork
   test-harness:
