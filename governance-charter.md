@@ -31,7 +31,7 @@ and organizing elections for the elected governance board body.
 [Governance Committee Members](./community-members.md#governance-board)
 
 > NOTE:
-> In April 2022 _Project Maintainers_ assigned five seven individuals to be members of the _Bootstrap Governance Committee_.
+> In April 2022 _Project Maintainers_ assigned seven individuals to be members of the _Bootstrap Governance Committee_.
 > This is a **temporary** arrangement that should be replaced by an elected governing body before March 2024.
 
 
