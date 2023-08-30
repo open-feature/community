@@ -16,7 +16,7 @@ e.g. (at)example_user
 
 ### Requirements
 
-- [ ] I have reviewed the community membership guidelines https://github.com/open-feature/community/CONTRIBUTOR_LADDER.md
+- [ ] I have reviewed the community membership guidelines https://github.com/open-feature/community/blob/main/CONTRIBUTOR_LADDER.md
 - [ ] I have enabled 2FA on my GitHub account. See https://github.com/settings/security
 - [ ] I have subscribed to the [Slack channel](https://cloud-native.slack.com/archives/C0344AANLA1) (use http://slack.cncf.io/ to get an invite)
 - [ ] I am actively contributing to 1 or more OpenFeature subprojects
