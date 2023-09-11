@@ -131,7 +131,7 @@ correctness issues, interactions with other parts of the system, etc.
 - Defined by:
 
   - [CODEOWNERS workflow](https://help.github.com/en/articles/about-code-owners)
-  - [Community Configuration](https://github.com/open-feature/community/config/)
+  - [Community Configuration](https://github.com/open-feature/community/tree/main/config/open-feature)
 
 Approver status can be scoped to a part of the codebase. For example, critical
 core components may have higher bar for becoming an approver.
@@ -147,7 +147,7 @@ core components may have higher bar for becoming an approver.
     (e.g. refactors/adds new functionality rather than one-line pulls).
   - Nominated by a maintainer
   - With no objections from other maintainers
-  - Done through PR to update the [Community Configuration](https://github.com/open-feature/community/config/).
+  - Done through PR to update the [Community Configuration](https://github.com/open-feature/community/tree/main/config/open-feature).
 
 - Responsibilities and privileges
 
