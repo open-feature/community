@@ -6,6 +6,8 @@ Table of Contents
 </summary>
 
 - [Getting Involved](#getting-involved)
+- [Contributing](#contributing)
+  - [Contributing Prerequisites (DCO)](#contributing-prerequisites-dco)
 - [Governing Bodies](#governing-bodies)
 - [Areas of Interest](#areas-of-interest)
 - [Communication](#communication)
@@ -16,8 +18,6 @@ Table of Contents
 - [License](#license)
 - [Logos and Brand Guide](#logos-and-brand-guide)
 - [Special Interest Groups](#special-interest-groups)
-- [Contributing](#contributing)
-  - [Contributing Prerequisites (DCO)](#contributing-prerequisites-dco)
 - [Associated Components and Implementations](#associated-components-and-implementations)
 - [Adopters](#adopters)
 - [Code of Conduct](#code-of-conduct)
@@ -27,6 +27,17 @@ Table of Contents
 ## Getting involved
 
 If you are interested to be informed about the project or to contribute, feel free to add yourself and/or your organization to [Interested Parties](./interested-parties.md).
+
+## Contributing
+
+All contributors are welcome!
+Please see the contributing guidelines
+[here](https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md).
+
+### Contributing Prerequisites (DCO)
+
+The [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) requires all pull requests are signed off using [Developer Certificate of Origin (DCO)](https://wiki.linuxfoundation.org/dco).
+By submitting pull requests, submitters acknowledge they grant the [Apache License v2](./LICENSE) to the code and that they are eligible to grant this license for all commits submitted in their pull requests.
 
 ## Governing Bodies
 
@@ -95,16 +106,6 @@ Notes and recordings from previous meetings can be found below:
 | ---- | ------------ | ------------- | ----------- |
 |      |              |               |             |
 
-## Contributing
-
-All contributors are welcome!
-Please see the contributing guidelines
-[here](https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md).
-
-### Contributing Prerequisites (DCO)
-
-The [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) requires all pull requests are signed off using [Developer Certificate of Origin (DCO)](https://wiki.linuxfoundation.org/dco).
-By submitting pull requests, submitters acknowledge they grant the [Apache License v2](./LICENSE) to the code and that they are eligible to grant this license for all commits submitted in their pull requests.
 
 ## Associated Components and Implementations
 
