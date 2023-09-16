@@ -31,6 +31,7 @@ Everyone is also welcome to [participate](https://openfeature.dev/community/cont
 | David Hirsch        | Dynatrace       | TODO                                                                    | [DavidPHirsch](https://github.com/DavidPHirsch)               | N/A                                               |
 | Dipto Chakrabarty   | CISCO           | Kubernetes                                                              | [diptochakrabarty](https://github.com/DiptoChakrabarty)       | N/A                                               |
 | Dominik Fleischmann | Canonical       | Kubeflow                                                                | [DomFleischmann](https://github.com/DomFleischmann)           | N/A                                               |
+| Fernando Bandeira   | Alternative Payments |                                                                    | [fernandobandeira](https://github.com/fernandobandeira)       | N/A                                               |
 | Gergely Sinka       | ConfigCat       |                                                                         | [sigewuzhere](https://github.com/sigewuzhere)                 | N/A                                               |
 | Ihor Sychevskyi     | N/A             |                                                                         | [Arhell](https://github.com/Arhell)                           | [Arhell](https://gitlab.com/Arhell)               |
 | Ivar Østhus         | Unleash         |                                                                         | [ivarconr](https://github.com/ivarconr)                       |                                                   |
@@ -83,6 +84,7 @@ List of companies, organizations, foundations and other groups that declared int
 
 | Organization    | Website link                                                           | Contact Email/Information                                                                     | Testimonial/case study link |
 | --------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------- |
+| Alternative Payments | [alternativepayments.io](https://www.alternativepayments.io/)     | `fernando at alternativepayments.io`                                                          | N/A                         |
 | Cisco           | [opensource.cisco.com](https://opensource.cisco.com/)                  | `augustus at cisco.com`                                                                       | N/A                         |
 | CloudBees       | [cloudbees.com](https://www.cloudbees.com/products/feature-management) | [Contact CloudBees support](https://www.cloudbees.com/products/feature-management/contact-us) | N/A                         |
 | ConfigCat       | [configcat.com](https://configcat.com/)                                | `opensource at configcat.com`                                                                 | N/A                         |
