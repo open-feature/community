@@ -202,7 +202,6 @@ Contact the Governance committee about changing to Emeritus status, or stepping 
 Members of the governance committee will graduate to becoming *Emeritus* members
 of the governance committee once their term ends.
 
-
 ## Contact
 
 - For inquiries, please reach out to:
