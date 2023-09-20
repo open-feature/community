@@ -4,13 +4,15 @@ repos:
   - open-feature-operator
 
 approvers:
-  - thomaspoignant
-  - justinabrahms
-  - thisthat
-  - tcarrio
-  - beeme1mr
-  - odubajDT
   - agardnerIT
+  - beeme1mr
+  - craigpastro
+  - justinabrahms
+  - odubajDT
+  - tcarrio
+  - thisthat
+  - thomaspoignant
+ 
 
 maintainers:
   - AlexsJones
