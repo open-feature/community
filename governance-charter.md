@@ -176,10 +176,35 @@ broader community in reformulating governance, we believe that in such a case
 the community will "vote with their feet" by either leaving or forking the
 project.
 
-## Emeritus Term
+## Inactivity
+
+It is important for Governance members to be and stay active to set an example and show commitment to the project. Inactivity is harmful to the project as it may lead to unexpected delays, contributor attrition, and a lost of trust in the project.
+
+- Inactivity is measured by:
+  - Periods of no contributions for longer than 3 months
+  - Periods of no communication for longer than 3 months
+- Consequences of being inactive include:
+  - Involuntary removal or demotion
+  - Being asked to move to Emeritus status
+
+## Involuntary Removal or Demotion
+
+Involuntary removal/demotion of a Governance member happens when responsibilities and requirements aren't being met. This may include repeated patterns of inactivity, extended period of inactivity, a period of failing to meet the requirements of your role, and/or a violation of the Code of Conduct. This process is important because it protects the community and its deliverables while also opens up opportunities for new people to step in.
+
+Involuntary removal or demotion is handled through a vote by a majority of the current Governance committee.
+
+## Stepping Down/Emeritus Process
+
+If and when Governance members commitment levels change, they can consider stepping down (moving down the contributor ladder) vs moving to emeritus status (completely stepping away from the project).
+
+Contact the Governance committee about changing to Emeritus status, or stepping down.
 
 Members of the governance committee will graduate to becoming *Emeritus* members
-of the governance committee.
+of the governance committee once their term ends.
 
+## Contact
+
+- For inquiries, please reach out to:
+  - members of the [Governance Board](https://github.com/open-feature/community/blob/main/community-members.md#governance-board)
 
 
