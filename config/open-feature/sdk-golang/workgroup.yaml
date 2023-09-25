@@ -7,12 +7,13 @@ approvers:
   - agentgonzo
 
 maintainers:
-  - davejohnston
   - AlexsJones
-  - Kavindu-Dodan
-  - thomaspoignant
-  - skyerus
+  - bacherfl
+  - davejohnston
   - james-milligan
+  - Kavindu-Dodan
+  - skyerus
+  - thomaspoignant
   - toddbaert
 
 admins: []
