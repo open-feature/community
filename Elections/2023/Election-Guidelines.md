@@ -21,7 +21,7 @@ We highly encourage participation in this election cycle to ensure that the comm
 * Vote between 17 November 2023 00:00 UTC and 17 December 2023 23:59 UTC via the [voting link](https://vote.heliosvoting.org/helios/e/OpenFeature2023)
 
 # Vacancies
-TThis election should fill seven seats: 
+This election should fill seven seats:
 - fours seats from the existing governance committee
 - three seats from new candidates
 To encourage diversity there will be a maximum of one-third representation on the Governance Committee from any one company at any time. 
