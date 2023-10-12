@@ -35,7 +35,9 @@ We will ensure that all documents and assets related to the 2023 election proces
 
 For the 2023 elections, [Helios Voting](https://vote.heliosvoting.org/) was chosen as it's a hosted solution with cryptographic guarantees that no GC members can meddle with the results.
 
-Helios voting also allows us to add GitHub handles to the list of voters in addition to email addresses. We need this, as we count contributions based on GitHub contributions and do not always have the contributor's actual email address. The disadvantage of Helios is that it does not support ranked voting
+Helios voting also allows us to add GitHub handles to the list of voters in addition to email addresses.
+We need this, as we count contributions based on GitHub contributions and do not always have the contributor's email address.
+The disadvantage of Helios is that it does not support ranked voting.
 
 # Nominations
 
