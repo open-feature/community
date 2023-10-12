@@ -55,7 +55,7 @@ The Pull Request will not be merged until the candidate has confirmed their desi
 
 # Voter Eligibility
 
-All [members of the OpenFeature Organization Members, Approvers, Maintainers will automatically be eligible to vote.
+All members of the OpenFeature Organization Members, Approvers, Maintainers will automatically be eligible to vote.
 
 # Vote
 
