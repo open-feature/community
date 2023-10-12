@@ -67,7 +67,9 @@ Nevertheless, it is possible to vote for nominees from the same organization.
 To encourage diversity, there will be a maximum of one-third representation on the Governance Committee from any one company at any time. 
 If the outcomes of an election result in greater than 1/3 representation (or maximum of two, whichever is greater), the lowest vote getters from any particular company will be removed until representation on the committee is equal or less than one-third.
 
-If there is a draw between the lower ranked candidates, there will be a runoff election between the tied candidates. The runoff election will be held within 48 hours of the original election. The runoff election will be a simple majority vote, and the candidate with the most votes will be elected.
+If there is a draw between the lower ranked candidates, there will be a runoff election between the tied candidates.
+The runoff election will be held within 48 hours of the original election.
+The runoff election will be a simple majority vote, and the candidate with the most votes will be elected.
 
 Per Helios, voting is entirely private: nobody will know any individual's vote.
 
