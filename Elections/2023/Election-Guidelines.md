@@ -30,7 +30,8 @@ If the outcomes of an election result in greater than 1/3 representation (or max
 
 # Voting process
 
-Anyone can track the 2023 election process via [this GitHub issue](https://github.com/open-feature/community/issues/262). We will ensure that all documents and assets related to the 2023 election process are public.
+Anyone can track the 2023 election process via [this GitHub issue](https://github.com/open-feature/community/issues/262).
+We will ensure that all documents and assets related to the 2023 election process are public.
 
 For the 2023 elections, [Helios Voting](https://vote.heliosvoting.org/) was chosen as it's a hosted solution with cryptographic guarantees that no GC members can meddle with the results.
 
