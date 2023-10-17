@@ -8,9 +8,9 @@ This election should fill seven seats:
 
 Election schedule:
 
-* October 15th - November 15th 2023 - period to submit nominations
-* November 16th 2023 - official nominees list published
-* November 17th - December 17th 2023 - voting period
+* October 23rd - November 23rd 2023 - period to submit nominations
+* November 24th 2023 - official nominees list published
+* November 25th - December 17th 2023 - voting period
 * Decmber 18th 2023 - results announced
 
 We highly encourage participation in this election cycle to ensure that the community is well-represented by the Governance Committee.
@@ -18,7 +18,7 @@ We highly encourage participation in this election cycle to ensure that the comm
 # TL;DR
 
 * If you've been nominated or are willing to nominate yourself: express your interest in [this issue](https://github.com/open-feature/community/issues/262)
-* Vote between 17 November 2023 00:00 UTC and 17 December 2023 23:59 UTC via the [voting link](https://vote.heliosvoting.org/helios/e/OpenFeature2023)
+* Vote between 25 November 2023 00:00 UTC and 17 December 2023 23:59 UTC via the [voting link](https://vote.heliosvoting.org/helios/e/OpenFeature2023)
 
 # Vacancies
 This election should fill seven seats:
