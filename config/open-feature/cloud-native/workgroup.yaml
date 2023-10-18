@@ -1,6 +1,6 @@
 repos:
   - flagd
-  - schemas
+  - flagd-schemas
   - open-feature-operator
 
 approvers:
