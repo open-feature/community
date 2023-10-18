@@ -258,9 +258,6 @@ repos:
   rust-sdk:
   rust-sdk-contrib:
     description: Community maintained OpenFeature Providers and Hooks for Rust
-  schemas:
-    description: Schemas and spec files pertaining to OpenFeature
-    homepage: https://buf.build/open-feature/flagd
   spec:
     description: OpenFeature specification
   swift-sdk:
@@ -269,6 +266,9 @@ repos:
     description: TOC proposal fork
   flagd-testbed:
     description: Shared test harness for flagd SDK testing, with Gherkin tests
+  flagd-schemas:
+    description: Schemas and spec files pertaining to flagd
+    homepage: https://buf.build/open-feature/flagd
   vendor-survey:
     archived: true
     private: true
