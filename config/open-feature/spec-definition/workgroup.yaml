@@ -3,6 +3,7 @@ repos:
 approvers:
 
 maintainers:
+  - thomaspoignant
   - toddbaert
 
 admins: []
