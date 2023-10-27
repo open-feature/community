@@ -1,7 +1,7 @@
 # 2023 OpenFeature Governance Committee Candidates
 
 In December 2023 we will hold the first election with 4 positions to be elected from the current Governance committee and 3 members from the community. 
-The 4 members that are elected from the current governance board will have a one year term and and the 3 elected from the community will have a two year term.
+The 4 members that are elected from the current governance board will have a one year term and the 3 elected from the community will have a two year term.
 
 ## Current Governance committee members (4 seats open, with 1 year term)
 
