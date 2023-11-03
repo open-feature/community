@@ -3,7 +3,7 @@
 Please see **[the list of candidates running in the election here](https://github.com/open-feature/community/pull/261/files#diff-aa2a6823369b7c294aa78e2867de50e1707b786d7b208ce5dd2269512765f598)**.
 
 This election should fill seven seats: 
-- fours seats from the existing governance committee
+- four seats from the existing governance committee
 - three seats from new candidates.
 
 Election schedule:
