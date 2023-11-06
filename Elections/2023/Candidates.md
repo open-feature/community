@@ -10,7 +10,7 @@ The 4 members that are elected from the current governance board will have a one
 - [Justin Abrahms](https://github.com/justinabrahms), eBay
 - [Michael Beemer](https://github.com/beeme1mr), Dynatrace
 - [Pete Hodgson](https://github.com/moredip), Independent
-- [Alex Jones](https://github.com/AlexsJones), Canonical
+- [Alex Jones](https://github.com/AlexsJones), AWS
 
 
 ## List of new candidates candidates (3 seat open, with 2 year term)
