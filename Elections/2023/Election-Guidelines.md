@@ -62,9 +62,7 @@ All members of the OpenFeature Organization Members, Approvers, Maintainers will
 Everyone with voting rights may log into [Helios Voting](https://vote.heliosvoting.org/helios/e/OpenFeature2023) using their GitHub account.
 Voting will be approval voting, where each voter may select up to seven candidates, **four** from the current Governance Committee and three from the new nominees.
 The seven candidates (four from current GC and three from new nominees) with the most votes win the election.
-The winners must be from different organizations, therefore only the highest ranked nominee from each organization will be elected.
-Nevertheless, it is possible to vote for nominees from the same organization.
-To encourage diversity, there will be a maximum of one-third representation on the Governance Committee from any one company at any time. 
+The winners should be from different organizations(at most 1/3 from the same organization), therefore only the 2 highest ranked nominees from each organization will be elected. 
 If the outcomes of an election result in greater than 1/3 representation (or maximum of two, whichever is greater), the lowest vote getters from any particular company will be removed until representation on the committee is equal or less than one-third.
 
 If there is a draw between the lower ranked candidates, there will be a runoff election between the tied candidates.
