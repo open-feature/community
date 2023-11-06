@@ -1,6 +1,7 @@
 repos:
   - js-sdk
   - js-sdk-contrib
+  - react-test-app
 
 approvers:
   - weyert

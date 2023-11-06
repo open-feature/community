@@ -198,9 +198,6 @@ repos:
     description: .NET implementation of the OpenFeature SDK
   dotnet-sdk-contrib:
     description: OpenFeature Providers and Hooks for .NET
-  feature-operator:
-    archived: true
-    description: OpenFeature Operator for Kubernetes
   flagd:
     description: A feature flag daemon with a Unix philosophy
   go-sdk:
@@ -253,6 +250,8 @@ repos:
       python
   ruby-sdk:
     description: Ruby implementation of the OpenFeature SDK
+  react-test-app:
+    description: Small test app for @openfeature/react-sdk development and e2e testing
   ruby-sdk-contrib:
     description: Community contributions for hooks and reference providers in
       Ruby
