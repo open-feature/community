@@ -16,7 +16,10 @@ The 4 members that are elected from the current governance board will have a one
 ## List of new candidates candidates (3 seat open, with 2 year term)
 
 In alphabetical order:
-- 
+- David Hirsch
+- Company: Dynatrace
+- GitHub: [DavidPHirsch](https://github.com/DavidPHirsch)
+- Description: Open Source Program manager at Dynatrace and maintainer for Keptn, and for the OpenFeature        community Repository, also a CNCF Ambassador.
 
 <!--
 ### Candidate 1
