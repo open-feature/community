@@ -16,10 +16,15 @@ The 4 members that are elected from the current governance board will have a one
 ## List of new candidates candidates (3 seat open, with 2 year term)
 
 In alphabetical order:
-- David Hirsch
+### David Hirsch
 - Company: Dynatrace
 - GitHub: [DavidPHirsch](https://github.com/DavidPHirsch)
 - Description: Open Source Program manager at Dynatrace and maintainer for Keptn, and for the OpenFeature        community Repository, also a CNCF Ambassador.
+
+### Jonathan Norris
+- Company: DevCycle
+- GitHub: [jonathannorris](https://github.com/jonathannorris)
+- Description: Co-Founder & CTO @ DevCycle + Taplytics. I've built products in the A/B Testing + Feature Flagging space for over ten years across Taplytics and DevCycle. I've become a strong believer in the OpenFeature project over the last year, and look forward to helping support the future of the project. I hope to bring our experience working with large customers building with Feature Flags across both Client and Server-side use-cases.
 
 <!--
 ### Candidate 1
