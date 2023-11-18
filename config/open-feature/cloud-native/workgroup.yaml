@@ -1,6 +1,7 @@
 repos:
   - flagd
   - flagd-schemas
+  - flagd-testbed
   - open-feature-operator
 
 approvers:
