@@ -6,7 +6,7 @@ The 4 members that are elected from the current governance board will have a one
 ## Current Governance committee members (4 seats open, with 1 year term)
 
 - [Alois Reitbauer](https://github.com/aloisreitbauer), Dynatrace
-- [Ben Rometsch](https://github.com/dabeeeenster), Flagsmith
+- [Ben Rometsch](https://github.com/dabeeeenster), Flagsmith (Looking to continue board membership in 2024)
 - [Justin Abrahms](https://github.com/justinabrahms), eBay
 - [Michael Beemer](https://github.com/beeme1mr), Dynatrace
 - [Pete Hodgson](https://github.com/moredip), Independent
