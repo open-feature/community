@@ -17,11 +17,6 @@ The 4 members that are elected from the current governance board will have a one
 
 In alphabetical order:
 
-### Weyert de Boer
-- Company: FNZ
-- GitHub: [weyert](https://github.com/weyert)
-- Description: Working on the API Ecosystem team, an end-user of OpenFeature, full supporter of the project, and love to help support to share an end-users point of view and experience, helped improve the OpenSLO standard. 
-
 ### David Hirsch
 - Company: Dynatrace
 - GitHub: [DavidPHirsch](https://github.com/DavidPHirsch)
@@ -31,6 +26,11 @@ In alphabetical order:
 - Company: DevCycle
 - GitHub: [jonathannorris](https://github.com/jonathannorris)
 - Description: Co-Founder & CTO @ DevCycle + Taplytics. I've built products in the A/B Testing + Feature Flagging space for over ten years across Taplytics and DevCycle. I've become a strong believer in the OpenFeature project over the last year, and look forward to helping support the future of the project. I hope to bring our experience working with large customers building with Feature Flags across both Client and Server-side use-cases.
+
+### Weyert de Boer
+- Company: FNZ
+- GitHub: [weyert](https://github.com/weyert)
+- Description: Working on the API Ecosystem team, an end-user of OpenFeature, full supporter of the project, and love to help support to share an end-users point of view and experience, helped improve the OpenSLO standard. 
 
 <!--
 ### Candidate 1
