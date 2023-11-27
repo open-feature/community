@@ -13,7 +13,7 @@ The 4 members that are elected from the current governance board will have a one
 - [Alex Jones](https://github.com/AlexsJones), AWS (Looking to continue board membership in 2024)
 
 
-## List of new candidates candidates (3 seat open, with 2 year term)
+## List of new candidates (3 seat open, with 2 year term)
 
 In alphabetical order:
 
