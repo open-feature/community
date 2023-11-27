@@ -21,6 +21,7 @@ admins:
   - dabeeeenster
 
   # technical steering committee
+  - lukas-reining
   - kinyoklion
   - toddbaert
   - thomaspoignant
@@ -125,6 +126,7 @@ teams:
 
   Technical Steering Committee:
     members:
+      - lukas-reining
       - kinyoklion
       - toddbaert
       - thomaspoignant
