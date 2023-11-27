@@ -16,6 +16,12 @@ The 4 members that are elected from the current governance board will have a one
 ## List of new candidates candidates (3 seat open, with 2 year term)
 
 In alphabetical order:
+
+### Weyert de Boer
+- Company: FNZ
+- GitHub: [weyert](https://github.com/weyert)
+- Description: Working on the API Ecosystem team, an end-user of OpenFeature, full supporter of the project, and love to help support to share an end-users point of view and experience, helped improve the OpenSLO standard. 
+
 ### David Hirsch
 - Company: Dynatrace
 - GitHub: [DavidPHirsch](https://github.com/DavidPHirsch)
