@@ -8,7 +8,7 @@ The 4 members that are elected from the current governance board will have a one
 - [Alois Reitbauer](https://github.com/aloisreitbauer), Dynatrace
 - [Ben Rometsch](https://github.com/dabeeeenster), Flagsmith (Looking to continue board membership in 2024)
 - [Justin Abrahms](https://github.com/justinabrahms), eBay
-- [Michael Beemer](https://github.com/beeme1mr), Dynatrace
+- [Michael Beemer](https://github.com/beeme1mr), Dynatrace (Looking to continue board membership in 2024)
 - [Pete Hodgson](https://github.com/moredip), Independent
 - [Alex Jones](https://github.com/AlexsJones), AWS (Looking to continue board membership in 2024)
 
