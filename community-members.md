@@ -21,7 +21,7 @@ currently there is one vacant seat
 
 This is the current Technical Committee, per the Technical Committee Charter, in alphabetical order:
 
-- [Lukas Reining], [codecentric](https://www.codecentric.de/)
+- [Lukas Reining](https://github.com/lukas-reining), [codecentric](https://www.codecentric.de/)
 - [Ryan Lamb](https://github.com/kinyoklion), [LaunchDarkly](https://github.com/launchdarkly)
 - [Thomas Poignant](https://github.com/thomaspoignant), [Adevinta](https://github.com/adevinta)
 - [Todd Baert](https://github.com/toddbaert), [Dynatrace](https://github.com/Dynatrace)
