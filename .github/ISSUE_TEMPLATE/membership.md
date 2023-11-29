@@ -22,7 +22,7 @@ e.g. (at)example_user
 - [ ] I am actively contributing to 1 or more OpenFeature subprojects
 - [ ] I have two sponsors that meet the sponsor requirements listed in the community membership guidelines. Among other requirements, sponsors must be approvers or maintainers of at least one repository in the organization and not both affiliated with the same company
 - [ ] I have spoken to my sponsors ahead of this application, and they have agreed to sponsor my application
-- [ ] I have created a pull request, adding myself to the `members` of the organization within the [community configuration](https://github.com/open-feature/community/blob/main/config/open-feature/org/workgroup.yaml)
+- [ ] I have created a pull request, adding myself to the `members` of the organization within the [community configuration](https://github.com/open-feature/community/blob/main/config/open-feature/org.yaml/#L31)
 
 ### Sponsors
 
