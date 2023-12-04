@@ -11,6 +11,7 @@ The 4 members that are elected from the current governance board will have a one
 - [Michael Beemer](https://github.com/beeme1mr), Dynatrace (Looking to continue board membership in 2024)
 - [Pete Hodgson](https://github.com/moredip), Independent (Looking to continue board membership in 2024)
 - [Alex Jones](https://github.com/AlexsJones), AWS (Looking to continue board membership in 2024)
+- [Alois Reitbauer](https://github.com/AloisReitbauer). Dynatrace, Bootstrapped Openfeature (Looking to contiue board membership in 2024)
 
 
 ## List of new candidates (3 seat open, with 2 year term)
