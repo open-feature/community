@@ -23,6 +23,11 @@ In alphabetical order:
 - GitHub: [DavidPHirsch](https://github.com/DavidPHirsch)
 - Description: Open Source Program manager at Dynatrace and maintainer for Keptn, and for the OpenFeature        community Repository, also a CNCF Ambassador.
 
+### Drew Gorton
+- Company: Unleash
+- GitHub: [dgorton]((https://github.com/dgorton))
+- Description: Developer Relations leader and current head of DevRel for Unleash. I've helped organize and lead Open Source communities for 15+ years. Built a successful developer tool SaaS, and helped several small open-source developer platforms grow in adoption and scale. I believe that feature flags are an emergent engineering best practice, and I would like to support the adoption of open-source, cross-platform standards.
+
 ### Jonathan Norris
 - Company: DevCycle
 - GitHub: [jonathannorris](https://github.com/jonathannorris)
