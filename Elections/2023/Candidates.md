@@ -38,7 +38,7 @@ In alphabetical order:
 
 ### Kamil Nowosad
 - Company: Google
-- GitHub: [kamilnowosad](https://github.com/kamilnowosad)
+- GitHub: [kamil-nowosad](https://github.com/kamil-nowosad)
 - Description: Software Engineer at Google working on feature flags and experiments. I'm interested in growing popularity of OpenFeature and feature flags technology in general. I strongly support development of open standards around OpenFeature such as: Remote Flag Evaluation Protocol, Flag Definition Language (low-level machine-optimized and/or high-level human-optimized), config validations / policy checking (incl. static analysis) and telemetry.
 
 ### Weyert de Boer
