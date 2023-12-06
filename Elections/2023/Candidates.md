@@ -41,6 +41,11 @@ In alphabetical order:
 - GitHub: [weyert](https://github.com/weyert)
 - Description: Working on the API Ecosystem team, an end-user of OpenFeature, full supporter of the project, and love to help support to share an end-users point of view and experience, helped improve the OpenSLO standard.
 
+### Johan Rydberg
+- Company: Spotify
+- GitHub: [jrydberg](https://github.com/jrydberg)
+- Description: General Manager for Experimentation at Spotify. Lead the teams building the internal experimentation platform at Spotify, and most recently leading the efforts around Confidence, the commercial incarnation of Spotify's experimentation platform.
+
 <!--
 ### Candidate Name
 - Company: Company Name
