@@ -1,6 +1,6 @@
 # 2023 OpenFeature Governance Committee Candidates
 
-In December 2023 we will hold the first election with 4 positions to be elected from the current Governance committee and 3 members from the community. 
+In December 2023 we will hold the first election with 4 positions to be elected from the current Governance committee and 3 members from the community.
 The 4 members that are elected from the current governance board will have a one year term and the 3 elected from the community will have a two year term.
 
 ## Current Governance committee members (4 seats open, with 1 year term)
@@ -23,6 +23,11 @@ In alphabetical order:
 - GitHub: [DavidPHirsch](https://github.com/DavidPHirsch)
 - Description: Open Source Program manager at Dynatrace and maintainer for Keptn, and for the OpenFeature        community Repository, also a CNCF Ambassador.
 
+### Janek Łukaszewicz
+- Company: Google
+- GitHub: [oxddr](https://github.com/oxddr)
+- Description: Working on Google-internal platform for feature flagging and A/B testing. Interested in OpenFeature from the perspective of the end-used that happen to be a large enterprise. I have an experience working with large-scale backend services and building a feature flag solution for them. I believe feature flags are simple and effective mean to improve software reliability and thus I strongly believe in OpenFeature initiative.
+
 ### Jonathan Norris
 - Company: DevCycle
 - GitHub: [jonathannorris](https://github.com/jonathannorris)
@@ -31,7 +36,7 @@ In alphabetical order:
 ### Weyert de Boer
 - Company: FNZ
 - GitHub: [weyert](https://github.com/weyert)
-- Description: Working on the API Ecosystem team, an end-user of OpenFeature, full supporter of the project, and love to help support to share an end-users point of view and experience, helped improve the OpenSLO standard. 
+- Description: Working on the API Ecosystem team, an end-user of OpenFeature, full supporter of the project, and love to help support to share an end-users point of view and experience, helped improve the OpenSLO standard.
 
 <!--
 ### Candidate 1
