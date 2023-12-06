@@ -11,22 +11,30 @@ The 4 members that are elected from the current governance board will have a one
 - [Michael Beemer](https://github.com/beeme1mr), Dynatrace (Looking to continue board membership in 2024)
 - [Pete Hodgson](https://github.com/moredip), Independent (Looking to continue board membership in 2024)
 - [Alex Jones](https://github.com/AlexsJones), AWS (Looking to continue board membership in 2024)
-- [Alois Reitbauer](https://github.com/AloisReitbauer). Dynatrace, Bootstrapped Openfeature (Looking to contiue board membership in 2024)
+- [Alois Reitbauer](https://github.com/AloisReitbauer). Dynatrace (Looking to contiue board membership in 2024)
 
 
-## List of new candidates (3 seat open, with 2 year term)
+## List of new candidates (3 seats open, with 2 year term)
 
 In alphabetical order:
 
 ### David Hirsch
 - Company: Dynatrace
 - GitHub: [DavidPHirsch](https://github.com/DavidPHirsch)
-- Description: Open Source Program manager at Dynatrace and maintainer for Keptn, and for the OpenFeature        community Repository, also a CNCF Ambassador.
+- Description: Open Source Program manager at Dynatrace and maintainer for Keptn, and for the OpenFeature community Repository, also a CNCF Ambassador. Driver for the Incubation Proposal and the particiaption of the Project in CNCF events.
+
+
+### Drew Gorton
+- Company: Unleash
+- GitHub: [dgorton]((https://github.com/dgorton))
+- Description: Developer Relations leader and current head of DevRel for Unleash. I've helped organize and lead Open Source communities for 15+ years. Built a successful developer tool SaaS, and helped several small open-source developer platforms grow in adoption and scale. I believe that feature flags are an emergent engineering best practice, and I would like to support the adoption of open-source, cross-platform standards.
+
 
 ### Janek Łukaszewicz
 - Company: Google
 - GitHub: [oxddr](https://github.com/oxddr)
 - Description: Working on Google-internal platform for feature flagging and A/B testing. Interested in OpenFeature from the perspective of the end-used that happen to be a large enterprise. I have an experience working with large-scale backend services and building a feature flag solution for them. I believe feature flags are simple and effective mean to improve software reliability and thus I strongly believe in OpenFeature initiative.
+
 
 ### Jonathan Norris
 - Company: DevCycle
