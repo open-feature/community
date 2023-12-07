@@ -1,9 +1,9 @@
 # 2023 OpenFeature Governance Committee Candidates
 
-In December 2023 we will hold the first election with 4 positions to be elected from the current Governance committee and 3 members from the community.
-The 4 members that are elected from the current governance board will have a one year term and the 3 elected from the community will have a two year term.
+In December 2023 we will hold the first election with 5 seats to be elected from the current Governance committee and 4 members from the community.
+The 5 members that are elected from the current governance board will have a one year term and the 4 elected from the community will have a two year term.
 
-## Current Governance committee members (4 seats open, with 1 year term)
+## Current Governance committee members (5 seats open, with 1 year term)
 
 - [Ben Rometsch](https://github.com/dabeeeenster), Flagsmith (Looking to continue board membership in 2024)
 - [Justin Abrahms](https://github.com/justinabrahms), eBay
@@ -12,7 +12,7 @@ The 4 members that are elected from the current governance board will have a one
 - [Alex Jones](https://github.com/AlexsJones), AWS (Looking to continue board membership in 2024)
 - [Alois Reitbauer](https://github.com/AloisReitbauer). Dynatrace (Looking to continue board membership in 2024)
 
-## List of new candidates (3 seats open, with 2 year term)
+## List of new candidates (4 seats open, with 2 year term)
 
 In alphabetical order:
 
