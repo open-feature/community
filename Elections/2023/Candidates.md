@@ -44,7 +44,7 @@ In alphabetical order:
 ### Johan Rydberg
 - Company: Spotify
 - GitHub: [jrydberg](https://github.com/jrydberg)
-- Description: General Manager for Experimentation at Spotify. Lead the teams building the internal experimentation platform at Spotify, and most recently leading the efforts around Confidence, the commercial incarnation of Spotify's experimentation platform.
+- Description: General Manager for Experimentation at Spotify. Led the teams building the internal experimentation platform at Spotify, and most recently leading the efforts around Confidence, the commercial incarnation of Spotify's experimentation platform.
 
 <!--
 ### Candidate Name
