@@ -248,6 +248,8 @@ repos:
     private: true
   playground:
     description: OpenFeature SDK demos and experimentation
+  protocol:
+    description: OpenFeature Remote Evaluation Protocol
   python-sdk:
     description: Python SDK for OpenFeature
   python-sdk-contrib:
