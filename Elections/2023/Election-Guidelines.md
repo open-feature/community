@@ -2,9 +2,9 @@
 
 Please see **[the list of candidates running in the election here](https://github.com/open-feature/community/pull/261/files#diff-aa2a6823369b7c294aa78e2867de50e1707b786d7b208ce5dd2269512765f598)**.
 
-This election should fill seven seats: 
-- four seats from the existing governance committee
-- three seats from new candidates.
+This election should fill nine seats: 
+- five seats from the existing governance committee
+- four seats from new candidates.
 
 Election schedule:
 
@@ -21,9 +21,9 @@ We highly encourage participation in this election cycle to ensure that the comm
 * Vote between 8 December 2023 00:00 UTC and 31 January 2024 23:59 UTC via the [voting link](https://vote.heliosvoting.org/helios/e/OpenFeature2023)
 
 # Vacancies
-This election should fill seven seats:
-- fours seats from the existing governance committee
-- three seats from new candidates
+This election should fill nine seats:
+- five seats from the existing governance committee
+- four seats from new candidates
 To encourage diversity there will be a maximum of one-third representation on the Governance Committee from any one company at any time. 
 If the outcomes of an election result in greater than 1/3 representation (or maximum of two, whichever is greater), the lowest vote getters from any particular company will be removed until representation on the committee is equal or less than one-third.
 
