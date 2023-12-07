@@ -36,6 +36,11 @@ In alphabetical order:
 - GitHub: [jonathannorris](https://github.com/jonathannorris)
 - Description: Co-Founder & CTO @ DevCycle + Taplytics. I've built products in the A/B Testing + Feature Flagging space for over ten years across Taplytics and DevCycle. I've become a strong believer in the OpenFeature project over the last year, and look forward to helping support the future of the project. I hope to bring our experience working with large customers building with Feature Flags across both Client and Server-side use-cases.
 
+### Konrad Niemiec
+- Company: Lekko
+- GitHub: [konradjniemiec](https://github.com/konradjniemiec)
+- Description: Founder & CEO @ Lekko. I've built dev tools for many years and have been exposed to many feature flagging and dynamic configuration tools at many organization. I am really excited to have contributed some big tech ideas over the last few year, and hope to contribute to OpenFeature by making it truly open. I hope to have measurable contributions in migration tooling, common code generaiton, and best practices for SDKs and other tools just getting started in feature flagging.
+
 ### Kamil Nowosad
 - Company: Google
 - GitHub: [kamil-nowosad](https://github.com/kamil-nowosad)
