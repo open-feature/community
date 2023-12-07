@@ -41,10 +41,20 @@ In alphabetical order:
 - GitHub: [konradjniemiec](https://github.com/konradjniemiec)
 - Description: Founder & CEO @ Lekko. I've built dev tools for many years and have been exposed to many feature flagging and dynamic configuration tools at many organization. I am really excited to have contributed some big tech ideas over the last few year, and hope to contribute to OpenFeature by making it truly open. I hope to have measurable contributions in migration tooling, common code generaiton, and best practices for SDKs and other tools just getting started in feature flagging.
 
+### Kamil Nowosad
+- Company: Google
+- GitHub: [kamil-nowosad](https://github.com/kamil-nowosad)
+- Description: Software Engineer at Google working on feature flags and experiments. I'm interested in growing popularity of OpenFeature and feature flags technology in general. I strongly support development of open standards around OpenFeature such as: Remote Flag Evaluation Protocol, Flag Definition Language (low-level machine-optimized and/or high-level human-optimized), config validations / policy checking (incl. static analysis) and telemetry.
+
 ### Weyert de Boer
 - Company: FNZ
 - GitHub: [weyert](https://github.com/weyert)
 - Description: Working on the API Ecosystem team, an end-user of OpenFeature, full supporter of the project, and love to help support to share an end-users point of view and experience, helped improve the OpenSLO standard.
+
+### Johan Rydberg
+- Company: Spotify
+- GitHub: [jrydberg](https://github.com/jrydberg)
+- Description: General Manager for Experimentation at Spotify. Led the teams building the internal experimentation platform at Spotify, and most recently leading the efforts around Confidence, the commercial incarnation of Spotify's experimentation platform.
 
 <!--
 ### Candidate Name
