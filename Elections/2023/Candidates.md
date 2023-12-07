@@ -31,6 +31,11 @@ In alphabetical order:
 - GitHub: [oxddr](https://github.com/oxddr)
 - Description: Working on Google-internal platform for feature flagging and A/B testing. Interested in OpenFeature from the perspective of the end-used that happen to be a large enterprise. I have an experience working with large-scale backend services and building a feature flag solution for them. I believe feature flags are simple and effective mean to improve software reliability and thus I strongly believe in OpenFeature initiative.
 
+### Johan Rydberg
+- Company: Spotify
+- GitHub: [jrydberg](https://github.com/jrydberg)
+- Description: General Manager for Experimentation at Spotify. Led the teams building the internal experimentation platform at Spotify, and most recently leading the efforts around Confidence, the commercial incarnation of Spotify's experimentation platform.
+
 ### Jonathan Norris
 - Company: DevCycle
 - GitHub: [jonathannorris](https://github.com/jonathannorris)
@@ -51,10 +56,6 @@ In alphabetical order:
 - GitHub: [weyert](https://github.com/weyert)
 - Description: Working on the API Ecosystem team, an end-user of OpenFeature, full supporter of the project, and love to help support to share an end-users point of view and experience, helped improve the OpenSLO standard.
 
-### Johan Rydberg
-- Company: Spotify
-- GitHub: [jrydberg](https://github.com/jrydberg)
-- Description: General Manager for Experimentation at Spotify. Led the teams building the internal experimentation platform at Spotify, and most recently leading the efforts around Confidence, the commercial incarnation of Spotify's experimentation platform.
 
 <!--
 ### Candidate Name
