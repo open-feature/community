@@ -36,6 +36,11 @@ In alphabetical order:
 - GitHub: [jonathannorris](https://github.com/jonathannorris)
 - Description: Co-Founder & CTO @ DevCycle + Taplytics. I've built products in the A/B Testing + Feature Flagging space for over ten years across Taplytics and DevCycle. I've become a strong believer in the OpenFeature project over the last year, and look forward to helping support the future of the project. I hope to bring our experience working with large customers building with Feature Flags across both Client and Server-side use-cases.
 
+### Kamil Nowosad
+- Company: Google
+- GitHub: [kamil-nowosad](https://github.com/kamil-nowosad)
+- Description: Software Engineer at Google working on feature flags and experiments. I'm interested in growing popularity of OpenFeature and feature flags technology in general. I strongly support development of open standards around OpenFeature such as: Remote Flag Evaluation Protocol, Flag Definition Language (low-level machine-optimized and/or high-level human-optimized), config validations / policy checking (incl. static analysis) and telemetry.
+
 ### Weyert de Boer
 - Company: FNZ
 - GitHub: [weyert](https://github.com/weyert)
