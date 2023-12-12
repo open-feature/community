@@ -7,32 +7,31 @@ repos:
   - toc-proposal
 
 approvers:
-  - beeme1mr
-  - AloisReitbauer
-  - AlexsJones
-  - moredip
-  - justinabrahms
-  - dabeeeenster
-  - agentgonzo
-  - toddbaert
-  - InTheCloudDan
-  - benjiro
-  - kinyoklion
-  - weyert
-  - aepfli
-  - bacherfl
-  - benjiro
-  - davejohnston
-  - james-milligan
-  - josecolella
-  - Kavindu-Dodan
-  - kinyoklion
-  - staceypotter
-  - tcarrio
-  - thiyagu06
-  - thomaspoignant
-  - lukas-reining
-  - federicobond
+- AlexsJones
+- AloisReitbauer
+- InTheCloudDan
+- Kavindu-Dodan
+- aepfli
+- agentgonzo
+- bacherfl
+- beeme1mr
+- benjiro
+- dabeeeenster
+- davejohnston
+- fabriziodemaria
+- federicobond
+- james-milligan
+- josecolella
+- justinabrahms
+- kinyoklion
+- lukas-reining
+- moredip
+- staceypotter
+- tcarrio
+- thiyagu06
+- thomaspoignant
+- toddbaert
+- weyert
 
 maintainers:
   - DavidPHirsch
