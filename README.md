@@ -58,9 +58,13 @@ If you are interested to be informed about the project or to contribute, feel fr
 
 For those who are brand new to OpenFeature and want to chat or get redirected to the appropriate place for a specific question, feel free to join [the CNCF OpenFeature Slack channel](https://cloud-native.slack.com/archives/C0344AANLA1). If you are new, you can create a CNCF Slack account [here](https://slack.cncf.io/).
 
-### Calendar
+### Community Meetings
 
-The community calendar contains all the upcoming OpenFeature meetings and events. You can access it via:
+| Name | Meeting Time | Meeting Notes | Discussions |
+| ---- | ------------ | ------------- | ----------- |
+| OpenFeature Community Meeting | Every other Thursday at 10:00 am ET | [Google Doc](https://docs.google.com/document/d/1pp6t2giTcdEdVAri_2B1Z6Mv8mHhvtZT1AmkPV9K7xQ/edit?usp=sharing) | [Zoom](https://dynatrace.zoom.us/j/94194023310?pwd=T0xDQ3J5VzlrdFlOTDIvcmtYVkdEdz09) |
+
+All upcoming OpenFeature meetings and events are in our [CNCF OpenFeature Community Chapter](https://community.cncf.io/openfeature/) and via public calendars:
 
 - [Web](https://calendar.google.com/calendar/embed?src=0ua7i1hiv5dh18b27toah63644%40group.calendar.google.com)
 - [Google
@@ -102,10 +106,6 @@ Notes and recordings from previous meetings can be found below:
 - [Meeting notes](https://docs.google.com/document/d/1pp6t2giTcdEdVAri_2B1Z6Mv8mHhvtZT1AmkPV9K7xQ/edit?usp=sharing)
 - [Recordings](https://www.youtube.com/channel/UCXSFt-dT2HORGXz1-ksxtxw)
 - [CNCF Hosted Project Community Chapter](https://community.cncf.io/openfeature/)  
-
-| Name | Meeting Time | Meeting Notes | Discussions |
-| ---- | ------------ | ------------- | ----------- |
-| OpenFeature Community Meeting | Every other Thursday at 10:00 am ET | [Google Doc](https://docs.google.com/document/d/1pp6t2giTcdEdVAri_2B1Z6Mv8mHhvtZT1AmkPV9K7xQ/edit?usp=sharing) | [Zoom](https://dynatrace.zoom.us/j/94194023310?pwd=T0xDQ3J5VzlrdFlOTDIvcmtYVkdEdz09) |
 
 ## Associated Components and Implementations
 
