@@ -2,7 +2,7 @@
 
 A non-exhaustive, alphabetized list of organizations that have adopted OpenFeature.
 
-| Company                                           | Components | Notes |
+| Company                                           | Logo | Notes |
 | ------------------------------------------------- | ---------- | :---: |
 | [Dynatrace](https://www.dynatrace.com)            |            |       |
 | [Ebay](https://www.ebay.com)                      |            |       |
@@ -12,4 +12,13 @@ A non-exhaustive, alphabetized list of organizations that have adopted OpenFeatu
 | [Utility Warehouse](https://uw.co.uk)             |            |       |
 | [Virtru](https://www.virtru.com)                  |            |       |
 
+_Sorted alphabetically by name_
+
+# Vendors
+
+A non-exhaustive, alphabetized list of organizations that have offer an OpenFeature Provider.
+
+| Company                                           | Logo | Notes |
+| ------------------------------------------------- | ---------- | :---: |
+|            |            |       |
 _Sorted alphabetically by name_
