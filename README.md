@@ -12,7 +12,7 @@ Table of Contents
 - [Areas of Interest](#areas-of-interest)
 - [Communication](#communication)
   - [Discussions](#discussions)
-  - [Calendar](#calendar)
+  - [Community Meetings](#community-meetings)
   - [Social Media](#social-media)
 - [Roadmap](#roadmap)
 - [License](#license)
@@ -63,8 +63,6 @@ For those who are brand new to OpenFeature and want to chat or get redirected to
 | Name | Meeting Time | Meeting Notes | Discussions |
 | ---- | ------------ | ------------- | ----------- |
 | OpenFeature Community Meeting | Every other Thursday at 10:00 am ET | [Google Doc](https://docs.google.com/document/d/1pp6t2giTcdEdVAri_2B1Z6Mv8mHhvtZT1AmkPV9K7xQ/edit?usp=sharing) | [Zoom](https://dynatrace.zoom.us/j/94194023310?pwd=T0xDQ3J5VzlrdFlOTDIvcmtYVkdEdz09) |
-
-### Calendar
 
 All upcoming OpenFeature meetings and events are in our [CNCF OpenFeature Community Chapter](https://community.cncf.io/openfeature/) and via public calendars:
 
