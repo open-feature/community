@@ -12,7 +12,7 @@ Table of Contents
 - [Areas of Interest](#areas-of-interest)
 - [Communication](#communication)
   - [Discussions](#discussions)
-  - [Calendar](#calendar)
+  - [Community Meetings](#community-meetings)
   - [Social Media](#social-media)
 - [Roadmap](#roadmap)
 - [License](#license)
@@ -26,7 +26,7 @@ Table of Contents
 
 ## Getting involved
 
-If you are interested to be informed about the project or to contribute, feel free to add yourself and/or your organization to [Interested Parties](./interested-parties.md).
+If you are interested in being informed about the project or contributing, feel free to add yourself and/or your organization to [Interested Parties](./interested-parties.md).
 
 ## Contributing
 
@@ -36,8 +36,8 @@ Please see the contributing guidelines
 
 ### Contributing Prerequisites (DCO)
 
-The [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) requires all pull requests are signed off using [Developer Certificate of Origin (DCO)](https://wiki.linuxfoundation.org/dco).
-By submitting pull requests, submitters acknowledge they grant the [Apache License v2](./LICENSE) to the code and that they are eligible to grant this license for all commits submitted in their pull requests.
+The [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) requires all pull requests to be signed off using [Developer Certificate of Origin (DCO)](https://wiki.linuxfoundation.org/dco).
+By submitting pull requests, submitters acknowledge they grant the [Apache License v2](./LICENSE) to the code and are eligible to grant this license for all commits submitted in their pull requests.
 
 ## Governing Bodies
 
@@ -50,7 +50,7 @@ Technical committee members, maintainers, and approvers are encouraged to list t
 
 ### Interested Parties
 
-If you are interested to be informed about the project or to contribute, feel free to add yourself and/or your organization to [Interested Parties](./interested-parties.md).
+If you are interested in being informed about the project or contributing, feel free to add yourself and/or your organization to [Interested Parties](./interested-parties.md).
 
 ## Communication
 
@@ -67,13 +67,12 @@ For those who are brand new to OpenFeature and want to chat or get redirected to
 All upcoming OpenFeature meetings and events are in our [CNCF OpenFeature Community Chapter](https://community.cncf.io/openfeature/) and via public calendars:
 
 - [Web](https://calendar.google.com/calendar/embed?src=0ua7i1hiv5dh18b27toah63644%40group.calendar.google.com)
-- [Google
-  Calendar](https://calendar.google.com/calendar/u/0?cid=MHVhN2kxaGl2NWRoMThiMjd0b2FoNjM2NDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+- [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MHVhN2kxaGl2NWRoMThiMjd0b2FoNjM2NDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 - [iCal](https://calendar.google.com/calendar/ical/0ua7i1hiv5dh18b27toah63644%40group.calendar.google.com/public/basic.ics)
 
 ### Social Media
 
-Follow-us on social media and help us to spread the word!
+Follow us on social media and help us to spread the word!
 Please use the `#openfeature` hashtag or mention our accounts when you share the content.
 
 - Twitter: [@openfeature](https://twitter.com/openfeature)
