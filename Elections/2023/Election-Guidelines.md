@@ -41,7 +41,7 @@ The disadvantage of Helios is that it does not support ranked voting.
 
 # Nominations
 
-Anybody is eligible to run for the Governance Committee. During the "call for nomination" period, people can be nominated or nominate themselves by expressing their interest in [this issue](https://github.com/open-feature/community/issues/262) a Pull Request adding said candidate to the [candidates-2023.md](https://github.com/open-feature/community/Elections/2023/Candidates) file in the OpenFeature community repository.
+Anybody is eligible to run for the Governance Committee. During the "call for nomination" period, people can be nominated or nominate themselves by expressing their interest in [this issue](https://github.com/open-feature/community/issues/262) a Pull Request adding said candidate to the [candidates-2023.md](https://github.com/open-feature/community/blob/main/Elections/2023/Candidates.md) file in the OpenFeature community repository.
 
 The template in that file includes the following columns:
 
