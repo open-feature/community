@@ -1,6 +1,6 @@
 # OpenFeature 2023 Governance Committee election
 
-Please see **[the list of candidates running in the election here](https://github.com/open-feature/community/pull/261/files#diff-aa2a6823369b7c294aa78e2867de50e1707b786d7b208ce5dd2269512765f598)**.
+Please see **[the list of candidates running in the election here](https://github.com/open-feature/community/blob/main/Elections/2023/Candidates.md)**.
 
 This election should fill seven seats: 
 - four seats from the existing governance committee
