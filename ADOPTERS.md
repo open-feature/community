@@ -2,7 +2,7 @@
 
 A non-exhaustive, alphabetized list of organizations that have adopted OpenFeature.
 
-| Company                                           | Components | Notes |
+| Company                                           | Logo       | Notes |
 | ------------------------------------------------- | ---------- | :---: |
 | [codecentric](https://www.codecentric.de/)        |            |       |
 | [Dynatrace](https://www.dynatrace.com)            |            |       |
