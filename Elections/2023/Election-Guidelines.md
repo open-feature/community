@@ -18,7 +18,7 @@ We highly encourage participation in this election cycle to ensure that the comm
 # TL;DR
 
 * If you've been nominated or are willing to nominate yourself: express your interest in [this issue](https://github.com/open-feature/community/issues/262)
-* Vote between 8 December 2023 00:00 UTC and 31 January 2024 23:59 UTC via the [voting link]([https://vote.heliosvoting.org/helios/e/OpenFeature2023](https://vote.heliosvoting.org/helios/elections/765b99df-f00a-4bd5-a885-f014e0f6d625/view))
+* Vote between 8 December 2023 00:00 UTC and 31 January 2024 23:59 UTC via the [voting link](ttps://vote.heliosvoting.org/helios/elections/765b99df-f00a-4bd5-a885-f014e0f6d625/view)
 
 # Vacancies
 This election should fill seven seats:
