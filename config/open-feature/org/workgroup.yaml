@@ -7,7 +7,6 @@ repos:
   - toc-proposal
 
 approvers:
-  - DavidPHirsch
   - beeme1mr
   - AloisReitbauer
   - AlexsJones
@@ -34,6 +33,7 @@ approvers:
   - thomaspoignant
   - lukas-reining 
 
-maintainers: []
+maintainers:
+  - DavidPHirsch
 
 admins: []
