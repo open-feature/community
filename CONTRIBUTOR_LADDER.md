@@ -105,7 +105,7 @@ meetings, chat rooms, and other discussion forums.
 - Requirements
 
   - Nominated by a maintainer, with no objections from other maintainers.
-  - Consistently attend meetings and interact with issues.
+  - Consistently attend meetings and/or interact with issues.
 
 - Responsibilities and privileges
 
