@@ -2,10 +2,10 @@ repos:
   - python-sdk
   - python-sdk-contrib
 
-approvers:
-  - federicobond
+approvers: []
 
 maintainers:
+  - federicobond
   - hlipsig
   - dabeeeenster
   - mschoenlaub
