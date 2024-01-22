@@ -26,7 +26,7 @@ In alphabetical order:
 - GitHub: [dgorton](https://github.com/dgorton)
 - Description: Developer Relations leader and current head of DevRel for Unleash. I've helped organize and lead Open Source communities for 15+ years. Built a successful developer tool SaaS, and helped several small open-source developer platforms grow in adoption and scale. I believe that feature flags are an emergent engineering best practice, and I would like to support the adoption of open-source, cross-platform standards.
 
-### Janek Łukaszewicz
+### Janek Łukaszewicz - WITHDRAWN
 - Company: Google
 - GitHub: [oxddr](https://github.com/oxddr)
 - Description: Working on Google-internal platform for feature flagging and A/B testing. Interested in OpenFeature from the perspective of the end-used that happen to be a large enterprise. I have an experience working with large-scale backend services and building a feature flag solution for them. I believe feature flags are simple and effective mean to improve software reliability and thus I strongly believe in OpenFeature initiative.
