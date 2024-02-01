@@ -3,7 +3,8 @@ repos:
   - ruby-sdk
   - ruby-sdk-contrib
 
-approvers: []
+approvers:
+  - maxveldink
 
 maintainers:
   - josecolella
