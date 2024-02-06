@@ -6,33 +6,33 @@ repos:
   - spec
   - toc-proposal
 
+# keep alphabetical
 approvers:
-  - beeme1mr
-  - AloisReitbauer
   - AlexsJones
-  - moredip
-  - justinabrahms
-  - dabeeeenster
-  - agentgonzo
-  - toddbaert
+  - AloisReitbauer
   - InTheCloudDan
-  - benjiro
-  - kinyoklion
-  - weyert
+  - Kavindu-Dodan
   - aepfli
+  - agentgonzo
   - bacherfl
+  - beeme1mr
   - benjiro
+  - dabeeeenster
   - davejohnston
+  - fabriziodemaria
+  - federicobond
   - james-milligan
   - josecolella
-  - Kavindu-Dodan
+  - justinabrahms
   - kinyoklion
+  - lukas-reining
+  - moredip
   - staceypotter
   - tcarrio
   - thiyagu06
   - thomaspoignant
-  - lukas-reining
-  - federicobond
+  - toddbaert
+  - weyert
 
 maintainers:
   - DavidPHirsch
