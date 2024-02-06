@@ -6,6 +6,7 @@ repos:
   - spec
   - toc-proposal
 
+# keep alphabetical
 approvers:
 - AlexsJones
 - AloisReitbauer
