@@ -4,18 +4,15 @@
 
 This is the current Governance Committee, per the Governance Committee Charter, in alphabetical order:
 
-- [Alois Reitbauer](https://github.com/aloisreitbauer), Dynatrace, term: Oct 1st, 2022 - December 2023
-- [Ben Rometsch](https://github.com/dabeeeenster), Flagsmith, term: April 28, 2022 - December 2023
-- [Justin Abrahms](https://github.com/justinabrahms), eBay, term: April 28, 2022 - December 2023
-- [Michael Beemer](https://github.com/beeme1mr), Dynatrace, term: April 28, 2022 - December 2023
-- [Pete Hodgson](https://github.com/moredip), Independent, term: April 28, 2022 - December 2023
-- [Alex Jones](https://github.com/AlexsJones), Canonical, term: Nov 1, 2022 - December 2023
+- [Alois Reitbauer](https://github.com/aloisreitbauer), Dynatrace, term: February 1st, 2024 - January 31st 2025
+- [Ben Rometsch](https://github.com/dabeeeenster), Flagsmith, term: February 1st, 2024 - January 31st 2025
+- [Michael Beemer](https://github.com/beeme1mr), Dynatrace, term: February 1st, 2024 - January 31st 2025
+- [Pete Hodgson](https://github.com/moredip), Independent, term: February 1st, 2024 - January 31st 2025
+- [Johan Rydberg](https://github.com/jrydberg), Spotify, term: February 1st, 2024 - January 31st 2026
+- [Jonathan Norris](https://github.com/jonathannorris), DevCycle, term: February 1st, 2024 - January 31st 2026
+- [Weyert de Boer](https://github.com/weyert), FNZ, term: February 1st, 2024 - January 31st 2026
 
-currently there is one vacant seat
-
-> NOTE:
-> In April 2022 _Project Maintainers_ assigned five individuals to be members of the _Bootstrap Governing Committee_.
-> This is a **temporary** arrangement that should be replaced by an elected governing body before March 2024.
+The next election will take place in January 2025.
 
 ## Technical Committee
 
