@@ -8,31 +8,31 @@ repos:
 
 # keep alphabetical
 approvers:
-- AlexsJones
-- AloisReitbauer
-- InTheCloudDan
-- Kavindu-Dodan
-- aepfli
-- agentgonzo
-- bacherfl
-- beeme1mr
-- benjiro
-- dabeeeenster
-- davejohnston
-- fabriziodemaria
-- federicobond
-- james-milligan
-- josecolella
-- justinabrahms
-- kinyoklion
-- lukas-reining
-- moredip
-- staceypotter
-- tcarrio
-- thiyagu06
-- thomaspoignant
-- toddbaert
-- weyert
+  - AlexsJones
+  - AloisReitbauer
+  - InTheCloudDan
+  - Kavindu-Dodan
+  - aepfli
+  - agentgonzo
+  - bacherfl
+  - beeme1mr
+  - benjiro
+  - dabeeeenster
+  - davejohnston
+  - fabriziodemaria
+  - federicobond
+  - james-milligan
+  - josecolella
+  - justinabrahms
+  - kinyoklion
+  - lukas-reining
+  - moredip
+  - staceypotter
+  - tcarrio
+  - thiyagu06
+  - thomaspoignant
+  - toddbaert
+  - weyert
 
 maintainers:
   - DavidPHirsch
