@@ -68,7 +68,7 @@ faith. If this turns out to be a problem, this will be reconsidered.
 
 ### Eligibility for voting
 
-All Members are eligible to vote for the governance committee members. 
+All organization members are eligible to vote for the governance committee members. 
 
 ### Election process
 
