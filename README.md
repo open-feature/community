@@ -9,11 +9,12 @@ Table of Contents
 - [Contributing](#contributing)
   - [Contributing Prerequisites (DCO)](#contributing-prerequisites-dco)
 - [Governing Bodies](#governing-bodies)
-- [Areas of Interest](#areas-of-interest)
+  - [Interested Parties](#interested-parties)
 - [Communication](#communication)
   - [Discussions](#discussions)
   - [Community Meetings](#community-meetings)
   - [Social Media](#social-media)
+  - [Mailing List](#mailing-list)
 - [Roadmap](#roadmap)
 - [License](#license)
 - [Logos and Brand Guide](#logos-and-brand-guide)
@@ -24,7 +25,7 @@ Table of Contents
 
 </details>
 
-## Getting involved
+## Getting Involved
 
 If you are interested in being informed about the project or contributing, feel free to add yourself and/or your organization to [Interested Parties](./interested-parties.md).
 
@@ -43,10 +44,6 @@ By submitting pull requests, submitters acknowledge they grant the [Apache Licen
 
 - Governance Committee (GC): [Charter](./governance-charter.md), [Members](./community-members.md#governance-board)
 - Technical Committee (TC): [Charter](./tech-committee-charter.md), [Members](./community-members.md#technical-committee)
-
-## Areas of Interest
-
-Technical committee members, maintainers, and approvers are encouraged to list their areas of interest in this [document](./areas-of-interest.md) to help community members find interested parties and form new special interest groups.
 
 ### Interested Parties
 

@@ -15,10 +15,11 @@ admins:
   # governance board
   - beeme1mr
   - AloisReitbauer
-  - AlexsJones
   - moredip
-  - justinabrahms
   - dabeeeenster
+  - jrydberg
+  - jonathannorris
+  - weyert
 
   # technical steering committee
   - lukas-reining
@@ -33,6 +34,7 @@ members:
   - agardnerIT
   - agentgonzo
   - ajhelsby
+  - AlexsJones
   - alina-v1
   - AnaisUrlichs
   - Arhell
@@ -65,11 +67,11 @@ members:
   - InTheCloudDan
   - ivarconr
   - jakedoublev
-  - jamescarr
   - james-milligan
-  - jonathannorris
+  - jamescarr
   - josecolella
   - justaugustus
+  - justinabrahms
   - kamil-nowosad
   - Kavindu-Dodan
   - kbychu
@@ -118,7 +120,6 @@ members:
   - tomkerkhove
   - vahidlazio
   - vpetrusevici
-  - weyert
   - znonthedev
 
 teams:

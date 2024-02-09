@@ -2,25 +2,18 @@
 
 ## Overview
 
-This document describes the bootstrap governance process under which the project will operate
-until the final governance process is identified.
+This document describes the governance process under which the project operates.
+It describes the election process for the _Governance Committee_ (GC) and how the committee operates.
 
 ## Goals
 
-The initial role of the governance committee is to **instantiate the formal
-process for OpenFeature governance**. In addition to defining the initial
-governance process, the bootstrap committee strongly believes that **it is
-important to provide a means for iterating** the processes defined by the
-governance committee. We do not believe that we will get it right the first
-time, or possibly ever, and won’t even complete the governance development in a
-single shot. The role of the governance committee is to be a live, responsive
+The role of the _Governance Committee_ is to be a live, responsive
 body that can refactor and reform as necessary to adapt to a changing project
 and community.
 
 ## Governance Committee
 
-The _Governance Committee_ is responsible for
-representing the project,
+The _Governance Committee_ is responsible for representing the project,
 making a final decision if a consensus cannot be reached (see _Decision Making_),
 handling the Code of Conduct escalations,
 defining and approving with the project members the final governance model,
@@ -30,18 +23,11 @@ and organizing elections for the elected governance board body.
 
 [Governance Committee Members](./community-members.md#governance-board)
 
-> NOTE:
-> In April 2022 _Project Maintainers_ assigned seven individuals to be members of the _Bootstrap Governance Committee_.
-> This is a **temporary** arrangement that should be replaced by an elected governing body before March 2024.
-
-
 ## Decision making
 
 Decisions are made by a consensus of _Project Members_ and [Interested Parties](./interested-parties.md).
 If this consensus cannot be reached,
-the decision can be made by the plain majority vote of _Bootstrap Governance Committee Members_.
-
-<!-- TODO: List founding members or delegate the decision to CDF TAG App Delivery or another entity -->
+the decision can be made by the plain majority vote of _Governance Committee_ members.
 
 Key discussions and decisions should happen asynchronously in communication channels like GitHub Issues, discussions or pull requests.
 Technical decisions are expected to be documented in the
@@ -55,55 +41,18 @@ hosted by its maintainers and contributors.
 These meetings are used as additional discussion and consensus building
 but not for making decisions without prior discussion in async channels.
 
+#### Governance Committee Members
 
-#### Bootstrap Governance Committee Members
-
-> :warning: This is a **temporary role** while the bootstrap governance is active.
-> In the future this role will be replaced by an elected _Governance Committee Member_ role.
-
-Bootstrap Governance Committee members are responsible for representing the project in communications with organizations,
+_Governance Committee_ members are responsible for representing the project in communications with organizations,
 including but not limited to contributor companies, adopters, vendors and foundations.
 Apart from the representative role,
 they can make a final decision when a consensus cannot be reached.
-
-In April 2022 this role will be assigned by project maintainers to **seven** individuals listed in [Interested Parties](./interested-parties.md).
-Each company/organization should have less than 50% of the seats,
-
-
-### Establishment of a Governance Committee
-
-To bootstrap the process of OpenFeature governance, 6 individuals were
-identified to be the *Bootstrap Committee*, to provide the initial process that
-can bootstrap the remainder of the process.
-
-The Bootstrap Committee will be replaced by the elected Governance
-Committee. Ultimately, the **OpenFeature Governance Committee will consist
-of 7 individual members** of the community **elected for 2 year terms**. The
-terms will be **staggered with 1 year elections** (alternating 3 seats and 4
-seats).
-
-To provide a level of continuity as this process is established, the initial
-committee will include continuity members, at least 4 members from the current
-Governance Committee.
-
-In December 2023 we will hold the first election with 4 positions to be elected from the
-current Governance committee and 3 members from the community. 
-The 4 members that are elected from the current governance board will have a one year term and 
-and the 3 elected from the community will have a two year term. 
-
-One year later (in 2024) there will be an election to fill the four seats
-opening up, each with a two year term.
-
-One year after that (2025), there will be an election to fill the 3 open
-seats on the governance committee.
-
-The committee will continue to iterate with alternating elections of three and
-four members each year. 
-
+Each company/organization should have less than 50% of the seats.
 
 ## Elections
 
 ### Members
+
 People which are part of the GitHub Organization are considered as members and are eligible to vote.
 
 ### Eligibility for candidacy
@@ -119,8 +68,7 @@ faith. If this turns out to be a problem, this will be reconsidered.
 
 ### Eligibility for voting
 
-All Members are eligible to vote for the governance committee
-members. 
+All organization members are eligible to vote for the _Governance Committee_ members. 
 
 ### Election process
 
@@ -131,7 +79,7 @@ to the respective positions.
 ### Maximal representation
 
 To encourage diversity there will be a maximum of one-third representation on
-the Governance Committee from any one company at any time. If the outcomes of
+the _Governance Committee_ from any one company at any time. If the outcomes of
 an election result in greater than 1/3 representation (or maximum of two,
 whichever is greater), the lowest vote getters from any particular company will
 be removed until representation on the committee is equal or less than one-third.
@@ -142,7 +90,7 @@ representation is achieved. If it is impossible to find sufficient members to
 resign, the entire company’s representation will be removed and new special
 elections held. In the event of a question of company membership (for example
 evaluating independence of corporate subsidiaries) a majority of all
-non-involved Governance Committee members will decide. 
+non-involved _Governance Committee_ members will decide. 
 
 ### Initial Election
 
@@ -151,7 +99,7 @@ nominations, and the vote.
 
 ### Special Elections
 
-In the event of a resignation or other loss of a governance committee member, a
+In the event of a resignation or other loss of a _Governance Committee_ member, a
 special election for that position will be held as soon as possible. The same
 group of people as described in "eligibility for voting" will vote in the
 special election. A committee member elected in a special election will serve
@@ -168,7 +116,7 @@ treated as "brand free" activities.
 
 ## Refactoring or reforming the governance committee
 
-At any time the governance committee may vote, via supermajority (greater than
+At any time the _Governance Committee_ may vote, via supermajority (greater than
 two-thirds of votes), to rewrite or remove any part of this charter. Beyond
 small tweaks, this should be used sparingly, if ever, and in the presence of
 clear failures of the process. We explicitly do not allocate a role for the
@@ -178,7 +126,7 @@ project.
 
 ## Inactivity
 
-It is important for Governance members to be and stay active to set an example and show commitment to the project. Inactivity is harmful to the project as it may lead to unexpected delays, contributor attrition, and a lost of trust in the project.
+It is important for _Governance Committee_ to be and stay active to set an example and show commitment to the project. Inactivity is harmful to the project as it may lead to unexpected delays, contributor attrition, and a lost of trust in the project.
 
 - Inactivity is measured by:
   - Periods of no contributions for longer than 3 months
@@ -189,22 +137,22 @@ It is important for Governance members to be and stay active to set an example a
 
 ## Involuntary Removal or Demotion
 
-Involuntary removal/demotion of a Governance member happens when responsibilities and requirements aren't being met. This may include repeated patterns of inactivity, extended period of inactivity, a period of failing to meet the requirements of your role, and/or a violation of the Code of Conduct. This process is important because it protects the community and its deliverables while also opens up opportunities for new people to step in.
+Involuntary removal/demotion of a _Governance Committee_ happens when responsibilities and requirements aren't being met. This may include repeated patterns of inactivity, extended period of inactivity, a period of failing to meet the requirements of your role, and/or a violation of the Code of Conduct. This process is important because it protects the community and its deliverables while also opens up opportunities for new people to step in.
 
-Involuntary removal or demotion is handled through a vote by a majority of the current Governance committee.
+Involuntary removal or demotion is handled through a vote by a majority of the current _Governance Committee_.
 
 ## Stepping Down/Emeritus Process
 
-If and when Governance members commitment levels change, they can consider stepping down (moving down the contributor ladder) vs moving to emeritus status (completely stepping away from the project).
+If and when _Governance Committee_ members commitment levels change, they can consider stepping down (moving down the contributor ladder) vs moving to emeritus status (completely stepping away from the project).
 
-Contact the Governance committee about changing to Emeritus status, or stepping down.
+Contact the _Governance Committee_ about changing to Emeritus status, or stepping down.
 
-Members of the governance committee will graduate to becoming *Emeritus* members
-of the governance committee once their term ends.
+Members of the _Governance Committee_ will graduate to becoming *Emeritus* members
+of the _Governance Committee_ once their term ends.
 
 ## Contact
 
 - For inquiries, please reach out to:
-  - members of the [Governance Board](https://github.com/open-feature/community/blob/main/community-members.md#governance-board)
+  - members of the [Governance Committee](https://github.com/open-feature/community/blob/main/community-members.md#governance-board)
 
 

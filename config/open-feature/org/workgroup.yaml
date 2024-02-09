@@ -8,12 +8,10 @@ repos:
 
 # keep alphabetical
 approvers:
-  - AlexsJones
-  - AloisReitbauer
-  - InTheCloudDan
-  - Kavindu-Dodan
   - aepfli
   - agentgonzo
+  - AlexsJones
+  - AloisReitbauer
   - bacherfl
   - beeme1mr
   - benjiro
@@ -21,9 +19,13 @@ approvers:
   - davejohnston
   - fabriziodemaria
   - federicobond
+  - InTheCloudDan
   - james-milligan
+  - jonathannorris
   - josecolella
+  - jrydberg
   - justinabrahms
+  - Kavindu-Dodan
   - kinyoklion
   - lukas-reining
   - maxveldink
