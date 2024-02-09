@@ -5,22 +5,25 @@
 Table of Contents
 </summary>
 
-- [Getting Involved](#getting-involved)
-- [Contributing](#contributing)
-  - [Contributing Prerequisites (DCO)](#contributing-prerequisites-dco)
-- [Governing Bodies](#governing-bodies)
-- [Areas of Interest](#areas-of-interest)
-- [Communication](#communication)
-  - [Discussions](#discussions)
-  - [Community Meetings](#community-meetings)
-  - [Social Media](#social-media)
-- [Roadmap](#roadmap)
-- [License](#license)
-- [Logos and Brand Guide](#logos-and-brand-guide)
-- [Special Interest Groups](#special-interest-groups)
-- [Associated Components and Implementations](#associated-components-and-implementations)
-- [Adopters](#adopters)
-- [Code of Conduct](#code-of-conduct)
+- [OpenFeature Community](#openfeature-community)
+  - [Getting involved](#getting-involved)
+  - [Contributing](#contributing)
+    - [Contributing Prerequisites (DCO)](#contributing-prerequisites-dco)
+  - [Governing Bodies](#governing-bodies)
+  - [Areas of Interest](#areas-of-interest)
+    - [Interested Parties](#interested-parties)
+  - [Communication](#communication)
+    - [Discussions](#discussions)
+    - [Community Meetings](#community-meetings)
+    - [Social Media](#social-media)
+    - [Mailing List](#mailing-list)
+  - [Roadmap](#roadmap)
+  - [License](#license)
+  - [Logos and Brand Guide](#logos-and-brand-guide)
+  - [Special Interest Groups](#special-interest-groups)
+  - [Associated Components and Implementations](#associated-components-and-implementations)
+  - [Adopters](#adopters)
+  - [Code of Conduct](#code-of-conduct)
 
 </details>
 
@@ -43,10 +46,6 @@ By submitting pull requests, submitters acknowledge they grant the [Apache Licen
 
 - Governance Committee (GC): [Charter](./governance-charter.md), [Members](./community-members.md#governance-board)
 - Technical Committee (TC): [Charter](./tech-committee-charter.md), [Members](./community-members.md#technical-committee)
-
-## Areas of Interest
-
-Technical committee members, maintainers, and approvers are encouraged to list their areas of interest in this [document](./areas-of-interest.md) to help community members find interested parties and form new special interest groups.
 
 ### Interested Parties
 

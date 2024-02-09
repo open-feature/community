@@ -57,6 +57,7 @@ In alphabetical order:
 - Company: Google
 - GitHub: [oxddr](https://github.com/oxddr)
 - Description: Working on Google-internal platform for feature flagging and A/B testing. Interested in OpenFeature from the perspective of the end-used that happen to be a large enterprise. I have an experience working with large-scale backend services and building a feature flag solution for them. I believe feature flags are simple and effective mean to improve software reliability and thus I strongly believe in OpenFeature initiative.
+
 <!--
 ### Candidate Name
 - Company: Company Name
