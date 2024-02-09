@@ -27,7 +27,7 @@ and organizing elections for the elected governance board body.
 
 Decisions are made by a consensus of _Project Members_ and [Interested Parties](./interested-parties.md).
 If this consensus cannot be reached,
-the decision can be made by the plain majority vote of _Governance Committee Members_.
+the decision can be made by the plain majority vote of _Governance Committee_ members.
 
 Key discussions and decisions should happen asynchronously in communication channels like GitHub Issues, discussions or pull requests.
 Technical decisions are expected to be documented in the
