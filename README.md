@@ -25,7 +25,7 @@ Table of Contents
 
 </details>
 
-## Getting involved
+## Getting Involved
 
 If you are interested in being informed about the project or contributing, feel free to add yourself and/or your organization to [Interested Parties](./interested-parties.md).
 
