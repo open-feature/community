@@ -5,7 +5,7 @@
 Table of Contents
 </summary>
 
-- [Getting involved](#getting-involved)
+- [Getting Involved](#getting-involved)
 - [Contributing](#contributing)
   - [Contributing Prerequisites (DCO)](#contributing-prerequisites-dco)
 - [Governing Bodies](#governing-bodies)
