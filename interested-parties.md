@@ -87,7 +87,6 @@ List of companies, organizations, foundations and other groups that declared int
 | Organization    | Website link                                                           | Contact Email/Information                                                                     | Testimonial/case study link |
 | --------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------- |
 | Alternative Payments | [alternativepayments.io](https://www.alternativepayments.io/)     | `fernando at alternativepayments.io`                                                          | N/A                         |
-| AWS AppConfig | [AWS AppConfig](https://docs.aws.amazon.com/appconfig/latest/userguide/what-is-appconfig.html) | `aws-appconfig-contact at amazon.com` | N/A |
 | Cisco           | [opensource.cisco.com](https://opensource.cisco.com/)                  | `augustus at cisco.com`                                                                       | N/A                         |
 | CloudBees       | [cloudbees.com](https://www.cloudbees.com/products/feature-management) | [Contact CloudBees support](https://www.cloudbees.com/products/feature-management/contact-us) | N/A                         |
 | ConfigCat       | [configcat.com](https://configcat.com/)                                | `opensource at configcat.com`                                                                 | N/A                         |
