@@ -74,7 +74,7 @@ Please use the `#openfeature` hashtag or mention our accounts when you share the
 
 - Twitter: [@openfeature](https://twitter.com/openfeature)
 - LinkedIn: [OpenFeature](https://www.linkedin.com/company/openfeature/)
-- YouTube: [OpenFeature](https://youtube.com/@openfeature834/)
+- YouTube: [OpenFeature](https://youtube.com/@openfeature/)
 
 ### Mailing List
 
