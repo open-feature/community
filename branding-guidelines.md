@@ -31,7 +31,9 @@ Various layouts and versions are available including:
 | Raisin Black | ![#231F20](https://via.placeholder.com/15/231F20/231F20.png) | `#231F20` |
 | Sonic Silver | ![#787173](https://via.placeholder.com/15/787173/787173.png) | `#787173` |
 | White        | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/FFFFFF.png) | `#FFFFFF` |
+| Purple       | ![#5D5DFF](https://via.placeholder.com/15/5D5DFF/5D5DFF.png) | `#5D5DFF` |
+| Green        | ![#00c800](https://via.placeholder.com/15/00c800/00c800.png) | `#00c800` |
 
 ## Font
 
-The font used in the logo is [Poppins](https://fonts.google.com/specimen/Poppins) which is licensed under the [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
+The font used in the logo is [Poppins](https://fonts.google.com/specimen/Poppins) and the stylized font on the website is [Architects Daughter](https://fonts.google.com/specimen/Architects+Daughter). Both fonts are licensed under the [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
