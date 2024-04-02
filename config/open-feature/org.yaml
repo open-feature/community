@@ -277,9 +277,7 @@ repos:
   react-test-app:
     description: Small test app for @openfeature/react-sdk development and e2e testing
   ruby-sdk-contrib:
-    description: Community contributions for hooks and reference providers in
-      Ruby
-    private: true
+    description: Community contributions for hooks and reference providers in Ruby
   rust-sdk:
   rust-sdk-contrib:
     description: Community maintained OpenFeature Providers and Hooks for Rust
