@@ -21,6 +21,7 @@ Everyone is also welcome to [participate](https://openfeature.dev/community/cont
 | Alex Jones          | Canonical       | TAG App Delivery, CDF                                                   | [alexsjones](https://github.com/AlexsJones)                   | N/A                                               |
 | Alexandre Burgoni   | Conduktor       |                                                                         | [AlexandreBrg](https://github.com/AlexandreBrg)               | [Protocole](https://gitlab.com/Protocole)         |
 | Alois Reitbauer     | Dynatrace       | CNCF TAG AppDelivery, Keptn                                             | [Alois Reitbauer](https://github.com/AloisReitbauer)          | N/A                                               |
+| Ankit Jain          | VWO             |                                                                         | [Ankit Jain](https://github.com/ankneo)                       | N/A                                               |
 | Austin Drenski      |                 |                                                                         | [austindrenski](https://github.com/austindrenski)             | [austindrenski](https://gitlab.com/austindrenski) |
 | Ben Rometsch        | Flagsmith       |                                                                         | [dabeeeenster](https://github.com/dabeeeenster)               | [dabeeeenster](https://gitlab.com/dabeeeenster)   |
 | Chris Joy           | Flagbase        |                                                                         | [cjoy](https://github.com/cjoy)                                  | [cjoy](https://gitlab.com/cjoy)                  |
@@ -111,5 +112,7 @@ List of companies, organizations, foundations and other groups that declared int
 | Statsig         | [Statsig](https://www.statsig.com)                                     | `suppport at statsig.com`                                                                     | N/A                         |
 | Storytel        | [Storytel](https://www.storytel.com)                                   | `support.se at storytel.com`                                                                  | N/A                         |
 | Unleash         | [Unleash](https://www.getunleash.io/)                                  | `contact at getunleash.io`                                                                    | N/A                         |
+| VWO             | [VWO](https://vwo.com/)                                                | `support at vwo.com`                                                                          | N/A                         |
+
 
 _Sorted alphabetically by organization_
