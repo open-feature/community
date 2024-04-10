@@ -7,6 +7,7 @@ A non-exhaustive, alphabetized list of organizations that have adopted OpenFeatu
 | [codecentric](https://www.codecentric.de/)        |            |       |
 | [Dynatrace](https://www.dynatrace.com)            |            |       |
 | [Ebay](https://www.ebay.com)                      |            |       |
+| [FNZ](https://fnz.com)                            |            |       |
 | [Proofpoint](https://www.proofpoint.com)          |            |       |
 | [Schweitzer Engineering Labs](https://selinc.com) |            |       |
 | [Tapico](https://tapico.io)                       |            |       |
