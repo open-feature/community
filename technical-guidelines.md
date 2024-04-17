@@ -88,6 +88,8 @@ Please consult with a member of the [TC](https://github.com/open-feature/communi
 ## Platform Support
 
 OpenFeature maintains SDKs and integrations targeting various platforms, runtimes, and frameworks.
+For the purposes of this document, a "platform" constitutes an assumed underlying runtime dependency.
+This includes, but is not limited to: languages, operating systems, dependency managers, virtual machines and software libraries.
 This section describes our approach to supporting, and deprecating support for these.
 
 ### Platform Support Recommendations
