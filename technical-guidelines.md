@@ -62,6 +62,13 @@ We require release artifacts to adhere to [semantic versioning](https://semver.o
 If the artifact is an SDK implementing the OpenFeature specification, it must also conform to a version of the OpenFeature specification not less than 2 minor versions behind the latest (ex: if the latest OpenFeature specification is `0.8.1`, then an implementation conforming to `0.6.0` is a candidate for `1.0` release, while an implementation conforming only to `0.5.0` is not).
 This policy may be subject to change with the release of the OpenFeature specification version `1.0.0`.
 
+> [!IMPORTANT]  
+> While the OpenFeature specification version is <`1.0`, it's possible breaking changes will be introduced.
+> This may necessitate that SDKs which have released `1.0` versions, release `2.0` versions in order to adhere to breaking specification changes.
+
+> [!IMPORTANT]  
+> Note that features in the specification marked as `experimental` may change at any time, and implementations may choose to make breaking changes to such features disregarding semantic versioning conventions.
+
 ### Breaking Changes to Major Versions
 
 Efforts should be made to avoid breaking changes in `1.0+` artifacts.
@@ -84,7 +91,7 @@ This section describes our approach to supporting, and deprecating support for t
 
 ### Platform Support Recommendations
 
-* Efforts should be made to support the usage of OpenFeature libraries on all officially supported (non-EOL) platforms, at a minimum.
+* Efforts should be made to support the usage of OpenFeature libraries on all officially supported (non-EOL) platforms for the library in question (i.e.: a library for Node.js should support all officially supported versions of Node.js).
 * Support should be documented explicitly in the relevant README, and in any implementation-specific tooling (ie: `engine` value in `package.json` or `maven.compiler.target` in `pom.xml`).
 
 ### Removing Support for Platforms
