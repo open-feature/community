@@ -68,6 +68,7 @@ This policy may be subject to change with the release of the OpenFeature specifi
 
 > [!IMPORTANT]  
 > Note that features in the specification marked as `experimental` may change at any time, and implementations may choose to make breaking changes to such features disregarding semantic versioning conventions.
+> See [specification document statuses](https://openfeature.dev/specification/#document-statuses).
 
 ### Breaking Changes to Major Versions
 
