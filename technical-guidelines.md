@@ -55,6 +55,20 @@ Adherence to these guidelines is required for 1.0 artifact releases, to the sati
 | SBOM generation                                | [CycloneDX][cyclonedx], [SPDX][spdx], [syft][syft]                                                                                        | recommended                                                 |
 | static analysis                                | [SonarCloud][sonarcloud], language-specific tools (SpotBugs, eslint)                                                                      | recommended                                                 |
 
+### "Contrib" repositories
+
+Along with SDK repositories, we also maintain "contrib" repositories for most of our supported languages.
+These repositories are "monorepos" that house community contributions which are extensions to, or integrations with, the base SDKs.
+Examples include providers, hooks and framework-specific SDKs.
+In addition to the normal [repository requirements](#repository-requirements) (many of which are already implemented for all packages in each monorepo), components must each have _at least_ one user specified the `component_owners.yml` (see https://github.com/dyladan/component-owners for more). It's the responsibility of the `component_owner(s)` to:
+
+- review and resolve issues pertaining to their component
+- review and resolve pull requests pertaining to their component, including automated pull requests from dependabot, etc
+- review releases PRs for new versions of their component
+- alert the [Governance Board or Technical Committee](https://github.com/open-feature/community/blob/main/community-members.md#technical-committee) if they're no longer interested or able to fulfill the preceding requirements
+
+Consistent and prolonged failure to satisfy the above requirements may result in archival and deprecation of the component in question.
+
 ## Semantic Versioning and 1.0 Releases
 
 We require release artifacts to adhere to [semantic versioning](https://semver.org/) except in specific cases approved by the [Technical Steering Committee](https://github.com/open-feature/community/blob/main/community-members.md#technical-committee).
