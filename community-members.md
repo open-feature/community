@@ -27,7 +27,8 @@ This is the current Technical Committee, per the Technical Committee Charter, in
 
 These are community maintainers responsible for cross-functional project communications, events, and other functions as needed.
 
-[David Hirsch](https://github.com/DavidPHirsch) Dynatrace
+- [Andrew MacLean](https://github.com/andrewdmaclean) DevCycle
+- [David Hirsch](https://github.com/DavidPHirsch) Dynatrace
 
 ### Project roles
 
