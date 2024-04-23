@@ -24,6 +24,8 @@ Everyone is also welcome to [participate](https://openfeature.dev/community/cont
 | Ankit Jain          | VWO             |                                                                         | [Ankit Jain](https://github.com/ankneo)                       | N/A                                               |
 | Austin Drenski      |                 |                                                                         | [austindrenski](https://github.com/austindrenski)             | [austindrenski](https://gitlab.com/austindrenski) |
 | Ben Rometsch        | Flagsmith       |                                                                         | [dabeeeenster](https://github.com/dabeeeenster)               | [dabeeeenster](https://gitlab.com/dabeeeenster)   |
+| Brandon Yates       | Fleetio         | Aeschere Consulting                                                     | [byates-fleetian](https://github.com/byates-fleetian)         | N/A 
+          |
 | Chris Joy           | Flagbase        |                                                                         | [cjoy](https://github.com/cjoy)                                  | [cjoy](https://gitlab.com/cjoy)                  |
 | Craig Pastro        | Pangea          |                                                                         | [craigpastro](https://github.com/craigpastro)              | N/A                                              |
 | Dan O'Brien         | LaunchDarkly    |                                                                         | [intheclouddan](https://github.com/intheclouddan)             | N/A                                               |
