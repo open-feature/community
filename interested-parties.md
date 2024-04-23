@@ -24,8 +24,7 @@ Everyone is also welcome to [participate](https://openfeature.dev/community/cont
 | Ankit Jain          | VWO             |                                                                         | [Ankit Jain](https://github.com/ankneo)                       | N/A                                               |
 | Austin Drenski      |                 |                                                                         | [austindrenski](https://github.com/austindrenski)             | [austindrenski](https://gitlab.com/austindrenski) |
 | Ben Rometsch        | Flagsmith       |                                                                         | [dabeeeenster](https://github.com/dabeeeenster)               | [dabeeeenster](https://gitlab.com/dabeeeenster)   |
-| Brandon Yates       | Fleetio         | Aeschere Consulting                                                     | [byates-fleetian](https://github.com/byates-fleetian)         | N/A 
-          |
+| Brandon Yates       | Fleetio         | Aeschere Consulting                                                     | [byates-fleetian](https://github.com/byates-fleetian)         | N/A |
 | Chris Joy           | Flagbase        |                                                                         | [cjoy](https://github.com/cjoy)                                  | [cjoy](https://gitlab.com/cjoy)                  |
 | Craig Pastro        | Pangea          |                                                                         | [craigpastro](https://github.com/craigpastro)              | N/A                                              |
 | Dan O'Brien         | LaunchDarkly    |                                                                         | [intheclouddan](https://github.com/intheclouddan)             | N/A                                               |
@@ -67,8 +66,8 @@ Everyone is also welcome to [participate](https://openfeature.dev/community/cont
 | Patricio Echague    | Split.io        |                                                                         | [patricioe](https://github.com/patricioe)                     | N/A                                               |
 | Pete Hodgson        | Independent     |                                                                         | [moredip](https://github.com/moredip)                         | N/A                                               |
 | Renjith Pillai      | SAP             |                                                                         | [vrenjith](https://github.com/vrenjith)                       | N/A                                               |
-| Roberth Strand      | Crayon Group    | CNCF (TAG App Delivery, OpenGitOps, Cooperative Delivery WG)            | [roberthstrand](https://github.com/roberthstrand)             | N/A    
-| Sajib Adhikary      | N/A             |                                                                         | [sajibadhi](https://github.com/sajibadhi)                     | [sajibadhi](https://gitlab.com/sajibadhi)    
+| Roberth Strand      | Crayon Group    | CNCF (TAG App Delivery, OpenGitOps, Cooperative Delivery WG)            | [roberthstrand](https://github.com/roberthstrand)             | N/A
+| Sajib Adhikary      | N/A             |                                                                         | [sajibadhi](https://github.com/sajibadhi)                     | [sajibadhi](https://gitlab.com/sajibadhi)
 | Skye Gill           | NET Reply       |                                                                         | [skyerus](https://github.com/skyerus)                         | N/A                                               |
 | Stephen Augustus    | Cisco           | CNCF, OpenSSF, Inclusive Naming Initiative, TODO Group, Kubernetes, Dex | [justaugustus](https://github.com/justaugustus)               | [justaugustus](https://gitlab.com/justaugustus)   |
 | Steve Arch          | CloudBees       |                                                                         | [agentgonzo](https://github.com/agentgonzo)                   | N/A                                               |
@@ -116,6 +115,5 @@ List of companies, organizations, foundations and other groups that declared int
 | Storytel        | [Storytel](https://www.storytel.com)                                   | `support.se at storytel.com`                                                                  | N/A                         |
 | Unleash         | [Unleash](https://www.getunleash.io/)                                  | `contact at getunleash.io`                                                                    | N/A                         |
 | VWO             | [VWO](https://vwo.com/)                                                | `support at vwo.com`                                                                          | N/A                         |
-
 
 _Sorted alphabetically by organization_
