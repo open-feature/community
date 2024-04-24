@@ -50,7 +50,7 @@ Adherence to these guidelines is required for 1.0 artifact releases, to the sati
 | unit, integration testing                      | github actions (with permissions applying principle of least privilege), language-specific tools (JUnit, Jest, etc), [Cucumber][cucumber] | required, with coverage metrics up to maintainer discretion |
 | signing (binaries, packages, container images) | language-specific tools, [cosign][cosign]                                                                                                 | recommended, where supported                                |
 | fuzzing                                        | [ClusterFuzzLite][clusterfuzzlite], [OSS-Fuzz][oss-fuzz]                                                                                  | recommended                                                 |
-| helpful readme file                            | See [example README.md](./templates/READMEs/README.md)                                                                                    | recommended                                                 |
+| helpful readme file                            | See [example README.md](https://github.com/open-feature/.github/blob/main/templates/READMEs/README.md)                                                                                    | recommended                                                 |
 | provenance                                     | [SLSA](https://slsa.dev/spec/v1.0/provenance#provenance)                                                                                  | recommended                                                 |
 | SBOM generation                                | [CycloneDX][cyclonedx], [SPDX][spdx], [syft][syft]                                                                                        | recommended                                                 |
 | static analysis                                | [SonarCloud][sonarcloud], language-specific tools (SpotBugs, eslint)                                                                      | recommended                                                 |
@@ -71,13 +71,13 @@ Consistent and prolonged failure to satisfy the above requirements may result in
 
 ## Semantic Versioning and 1.0 Releases
 
-We require release artifacts to adhere to [semantic versioning](https://semver.org/) except in specific cases approved by the [Technical Steering Committee](https://github.com/open-feature/community/blob/main/community-members.md#technical-committee).
+We require release artifacts to adhere to [semantic versioning](https://semver.org/) except in specific cases approved by the [Technical Steering Committee](./community-members.md#technical-committee).
 1.0 releases must satisfy the [repository requirements](#repository-requirements) above.
 If the artifact is an SDK implementing the OpenFeature specification, it must also conform to a version of the OpenFeature specification not less than 2 minor versions behind the latest (ex: if the latest OpenFeature specification is `0.8.1`, then an implementation conforming to `0.6.0` is a candidate for `1.0` release, while an implementation conforming only to `0.5.0` is not).
 This policy may be subject to change with the release of the OpenFeature specification version `1.0.0`.
 
 > [!IMPORTANT]  
-> While the OpenFeature specification version is <`1.0`, it's possible breaking changes will be introduced.
+> While the OpenFeature specification version is < `1.0`, it's possible breaking changes will be introduced.
 > This may necessitate that SDKs which have released `1.0` versions, release `2.0` versions in order to adhere to breaking specification changes.
 
 > [!IMPORTANT]  
@@ -97,7 +97,7 @@ If such changes are necessary, please consider the following:
     * For example, if you are releasing a `2.0.0`, maintain a `v1` branch.
     * [Release Please][release-please] can make maintenance and release of artifacts from such a branch easy; simply have the release-please action run on the branch, and target that branch for its PRs.
 
-Please consult with a member of the [TC](https://github.com/open-feature/community/blob/main/community-members.md#technical-committee) before making breaking changes to a `1.0+` component.
+Please consult with a member of the [TC](./community-members.md#technical-committee) before making breaking changes to a `1.0+` component.
 
 ## Platform Support
 
@@ -139,6 +139,6 @@ Please consult with a member of the [TC](https://github.com/open-feature/communi
 [syft]: https://github.com/anchore/syft
 [spdx]: https://spdx.dev/resources/tools/
 [dependabot]: https://github.com/dependabot
-[conventional-commits]: [https://www.conventionalcommits.org/]
-[semantic-versioning]: [https://semver.org/]
-[release-please]: [https://github.com/googleapis/release-please]
+[conventional-commits]: https://www.conventionalcommits.org/
+[semantic-versioning]: https://semver.org/
+[release-please]: https://github.com/googleapis/release-please
