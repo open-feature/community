@@ -25,19 +25,11 @@ to add the sign-off with the following command, which can then be force pushed.
 ```console
 git commit --amend -s
 ```
-
-\* Branch protection rules should protect the primary branch (usually `main`) by requiring code review from the appropriate parties (other than the author), usually expressed in a CODEOWNERS file.
-
-\*\* We recommend Renovate over Dependabot because of it's group and auto-merge features.
-Additionally, we have an org-wide base config for Renovate.
-
-\*\*\* Release Please isn't strictly necessary, but combined with [Conventional Commits][conventional-commits], it provides a simple yet robust means of generating useful, accurate changelogs and releasing semantically versioned artifacts.
-
 ## Repository requirements
 
 We require repositories in the project adhere to some security and maintenance guidelines.
 They are primarily inspired by recommendations from the [Cloud Native Security Controls Catalog](https://www.cncf.io/blog/2022/06/07/introduction-to-the-cloud-native-security-controls-catalog/).
-Adherence to these guidelines is required for 1.0 artifact releases, to the satisfaction of the [Technical Steering Committee](https://github.com/open-feature/community/blob/main/governance-charter.md#technical-steering-committee-tsc).
+Adherence to these guidelines is required for 1.0 artifact releases, to the satisfaction of the [Technical Steering Committee](./governance-charter.md#technical-steering-committee-tsc).
 
 | Requirement                                    | Recommended solution(s)                                                                                                                   | Notes                                                       |
 | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
@@ -55,6 +47,13 @@ Adherence to these guidelines is required for 1.0 artifact releases, to the sati
 | SBOM generation                                | [CycloneDX][cyclonedx], [SPDX][spdx], [syft][syft]                                                                                        | recommended                                                 |
 | static analysis                                | [SonarCloud][sonarcloud], language-specific tools (SpotBugs, eslint)                                                                      | recommended                                                 |
 
+\* Branch protection rules should protect the primary branch (usually `main`) by requiring code review from the appropriate parties (other than the author), usually expressed in a CODEOWNERS file.
+
+\*\* We recommend Renovate over Dependabot because of its group and auto-merge features.
+Additionally, we have an org-wide base config for Renovate.
+
+\*\*\* Release Please isn't strictly necessary, but combined with [Conventional Commits][conventional-commits], it provides a simple yet robust means of generating useful, accurate changelogs and releasing semantically versioned artifacts.
+
 ### "Contrib" repositories
 
 Along with SDK repositories, we also maintain "contrib" repositories for most of our supported languages.
@@ -65,7 +64,7 @@ In addition to the normal [repository requirements](#repository-requirements) (m
 - review and resolve issues pertaining to their component
 - review and resolve pull requests pertaining to their component, including automated pull requests from dependabot, etc
 - review releases PRs for new versions of their component
-- alert the [Governance Board or Technical Committee](https://github.com/open-feature/community/blob/main/community-members.md#technical-committee) if they're no longer interested or able to fulfill the preceding requirements
+- alert the [Governance Board or Technical Committee](./community-members.md#technical-committee) if they're no longer interested or able to fulfill the preceding requirements
 
 Consistent and prolonged failure to satisfy the above requirements may result in archival and deprecation of the component in question.
 
@@ -121,11 +120,11 @@ Removing support for a platform should not be done arbitrarily, but when mainten
 * How popular is the implicated OpenFeature library at the moment?
   * More usage means that the likelihood of usage by the platform to be deprecated is higher.
 * Should this be considered a breaking change?
-  * **This is highly dependant on the platform in question, as well as how change averse its user base is** (ie: Go is a very fast moving platform relative to Java).
+  * **This is highly dependent on the platform in question, as well as how change averse its user base is** (ie: Go is a very fast moving platform relative to Java).
   * How difficult will the required platform change be for users to consume? Does the new platform version contain many breaking changes?
   * See [breaking changes to major versions](#breaking-changes-to-major-versions)
 
-Please consult with a member of the [TC](https://github.com/open-feature/community/blob/main/community-members.md#technical-committee) before dropping support for a platform, runtime or framework version.
+Please consult with a member of the [TC](./community-members.md#technical-committee) before dropping support for a platform, runtime or framework version.
 
 [sonarcloud]: https://www.sonarsource.com/products/sonarcloud/
 [snyk]: https://snyk.io/
