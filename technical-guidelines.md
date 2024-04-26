@@ -29,7 +29,7 @@ git commit --amend -s
 
 We require repositories in the project adhere to some security and maintenance guidelines.
 They are primarily inspired by recommendations from the [Cloud Native Security Controls Catalog](https://www.cncf.io/blog/2022/06/07/introduction-to-the-cloud-native-security-controls-catalog/).
-Adherence to these guidelines is required for 1.0 artifact releases, to the satisfaction of the [Technical Steering Committee](./governance-charter.md#technical-steering-committee-tsc).
+Adherence to these guidelines is required for 1.0 artifact releases, to the satisfaction of the [Technical Steering Committee](./tech-committee-charter.md).
 
 | Requirement                                    | Recommended solution(s)                                                                                                                   | Notes                                                       |
 | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
