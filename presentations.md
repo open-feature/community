@@ -21,4 +21,4 @@ All items are listed in reverse chronological order from when they were first pr
 
 ## Additional resources
 
-Please refer to the [OpenFeature branding guidelines](./presentations.md) for information on naming conventions, logos, colors and more.
+Please refer to the [OpenFeature branding guidelines](./branding-guidelines.md) for information on naming conventions, logos, colors and more.
