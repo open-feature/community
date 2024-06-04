@@ -79,6 +79,7 @@ Everyone is also welcome to [participate](https://openfeature.dev/community/cont
 | Weyert de Boer      | FNZ             | Opentelemetry, OpenSLO                                                  | [weyert](https://github.com/weyert)                           |
 | Yousef Soliman      | N/A             |                                                                         | [yousef-soliman](https://github.com/yousef-soliman)           | N/A                                               |
 | Zoltan David        | ConfigCat       |                                                                         | [zoltan-david](https://github.com/zoltan-david)               | N/A                                               |
+| Ganga Maddur        | eBay       |                                                                              | [gangams20](https://github.com/gangams20)                     | N/A                                         
 
 _Sorted alphabetically by first name_
 
