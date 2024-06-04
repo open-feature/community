@@ -34,6 +34,7 @@ Everyone is also welcome to [participate](https://openfeature.dev/community/cont
 | Dipto Chakrabarty   | CISCO           | Kubernetes                                                              | [diptochakrabarty](https://github.com/DiptoChakrabarty)       | N/A                                               |
 | Dominik Fleischmann | Canonical       | Kubeflow                                                                | [DomFleischmann](https://github.com/DomFleischmann)           | N/A                                               |
 | Fernando Bandeira   | Alternative Payments |                                                                    | [fernandobandeira](https://github.com/fernandobandeira)       | N/A                                               |
+| Ganga Maddur        | eBay       |                                                                              | [gangams20](https://github.com/gangams20)                     | N/A                                               |
 | Gergely Sinka       | ConfigCat       |                                                                         | [sigewuzhere](https://github.com/sigewuzhere)                 | N/A                                               |
 | Ihor Sychevskyi     | N/A             |                                                                         | [Arhell](https://github.com/Arhell)                           | [Arhell](https://gitlab.com/Arhell)               |
 | Ivar Østhus         | Unleash         |                                                                         | [ivarconr](https://github.com/ivarconr)                       |                                                   |
@@ -79,7 +80,6 @@ Everyone is also welcome to [participate](https://openfeature.dev/community/cont
 | Weyert de Boer      | FNZ             | Opentelemetry, OpenSLO                                                  | [weyert](https://github.com/weyert)                           |
 | Yousef Soliman      | N/A             |                                                                         | [yousef-soliman](https://github.com/yousef-soliman)           | N/A                                               |
 | Zoltan David        | ConfigCat       |                                                                         | [zoltan-david](https://github.com/zoltan-david)               | N/A                                               |
-| Ganga Maddur        | eBay       |                                                                              | [gangams20](https://github.com/gangams20)                     | N/A                                         
 
 _Sorted alphabetically by first name_
 
