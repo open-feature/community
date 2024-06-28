@@ -5,6 +5,7 @@ repos:
   - open-feature-operator
 
 approvers:
+  - aepfli
   - agardnerIT
   - beeme1mr
   - craigpastro

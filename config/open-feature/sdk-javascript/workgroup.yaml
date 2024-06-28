@@ -4,6 +4,7 @@ repos:
   - react-test-app
 
 approvers:
+  - aepfli
   - weyert
   - james-milligan
   - tcarrio
