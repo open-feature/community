@@ -9,6 +9,7 @@ A non-exhaustive, alphabetized list of organizations that have adopted OpenFeatu
 | [Ebay](https://www.ebay.com)                      |            |       |
 | [FNZ](https://fnz.com)                            |            |       |
 | [Proofpoint](https://www.proofpoint.com)          |            |       |
+| [Redpanda](https://www.redpanda.com)              |            |       |
 | [Schweitzer Engineering Labs](https://selinc.com) |            |       |
 | [Tapico](https://tapico.io)                       |            |       |
 | [Utility Warehouse](https://uw.co.uk)             |            |       |
