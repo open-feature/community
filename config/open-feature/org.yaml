@@ -310,3 +310,5 @@ repos:
     description: A short introduction to the core concepts of OpenFeature
   cloud-native-demo:
     description: A cloud-native feature flag demo, featuring multiple providers, telemetry, and a guided tour
+  codegen:
+    description: Generate strongly typed flag accessors for OpenFeature
