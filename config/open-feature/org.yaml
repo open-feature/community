@@ -35,11 +35,13 @@ members:
   - agentgonzo
   - ajhelsby
   - ajwootto
+  - alexandraoberaigner
   - AlexsJones
   - alina-v1
   - alxckn
   - andrewdmaclean
   - AnaisUrlichs
+  - anghelflorinm
   - Arhell
   - ARobertsCollibra
   - askpt
@@ -52,6 +54,7 @@ members:
   - cdonnellytx
   - colebaileygit
   - craigpastro
+  - cpitstick-latai
   - davejohnston
   - DavidPHirsch
   - DBlanchard88
@@ -61,6 +64,7 @@ members:
   - dominikhaska
   - dyladan
   - emmawillis
+  - ejscunha
   - ericpattison
   - fabriziodemaria
   - faulkt
@@ -308,3 +312,5 @@ repos:
     description: A short introduction to the core concepts of OpenFeature
   cloud-native-demo:
     description: A cloud-native feature flag demo, featuring multiple providers, telemetry, and a guided tour
+  codegen:
+    description: Generate strongly typed flag accessors for OpenFeature
