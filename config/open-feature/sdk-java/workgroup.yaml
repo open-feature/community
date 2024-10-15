@@ -3,7 +3,6 @@ repos:
   - java-sdk-contrib
 
 approvers:
-  - aepfli
   - thiyagu06
   - thomaspoignant
   - ajhelsby
@@ -11,6 +10,7 @@ approvers:
   - liran2000
 
 maintainers:
+  - aepfli
   - justinabrahms
   - toddbaert
   - agentgonzo
