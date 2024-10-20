@@ -1,5 +1,6 @@
 repos:
   - docs.openfeature.dev
+  - openfeature.dev
   - killercoda
   - playground
   - five-minutes-to-feature-flags
@@ -7,6 +8,7 @@ repos:
 
 approvers:
   - justinabrahms
+  - andrewdmaclean
   - beeme1mr
   - toddbaert
   - agardnerIT
