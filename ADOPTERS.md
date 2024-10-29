@@ -8,6 +8,7 @@ A non-exhaustive, alphabetized list of organizations that have adopted OpenFeatu
 | [Dynatrace](https://www.dynatrace.com)            |            |       |
 | [Ebay](https://www.ebay.com)                      |            |       |
 | [FNZ](https://fnz.com)                            |            |       |
+| [Minder](https://mindersec.github.io/)            |            | An OpenSSF project |
 | [Proofpoint](https://www.proofpoint.com)          |            |       |
 | [Redpanda](https://www.redpanda.com)              |            |       |
 | [Schweitzer Engineering Labs](https://selinc.com) |            |       |
