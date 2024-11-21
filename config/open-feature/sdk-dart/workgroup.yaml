@@ -1,5 +1,5 @@
 repos:
-  - dart-sdk-server
+  - dart-server-sdk
 
 approvers: []
 
