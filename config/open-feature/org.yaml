@@ -226,10 +226,17 @@ repos:
   #   has_wiki: <true|false> - defaults to false
   .github:
     description: This repository stores various defaults for the GitHub organization
+  angular-test-app:
+  cli:
+    description: OpenFeature’s official command-line tool
+  cloud-native-demo:
+    description: A cloud-native feature flag demo, featuring multiple providers, telemetry, and a guided tour
   community:
     description: OpenFeature project community and governance
   community-tooling:
     description: Tools for Community Management
+  contribfest-eu-24:
+  dart-server-sdk:
   demo-repository:
     description: A code repository designed to show the best GitHub has to offer.
     private: true
@@ -241,8 +248,17 @@ repos:
     description: .NET implementation of the OpenFeature SDK
   dotnet-sdk-contrib:
     description: OpenFeature Providers and Hooks for .NET
+  elixir-sdk:
+    description: Elixir SDK for OpenFeature
+  five-minutes-to-feature-flags:
+    description: A short introduction to the core concepts of OpenFeature
   flagd:
     description: A feature flag daemon with a Unix philosophy
+  flagd-testbed:
+    description: Shared test harness for flagd SDK testing, with Gherkin tests
+  flagd-schemas:
+    description: Schemas and spec files pertaining to flagd
+    homepage: https://buf.build/open-feature/flagd
   go-sdk:
     description: Go SDK for OpenFeature
   go-sdk-contrib:
@@ -265,6 +281,7 @@ repos:
     has_projects: false
   kotlin-sdk:
     description: Kotlin implementation of the OpenFeature SDK for Android clients
+  kubecon-eu-2024-demo:
   ofep:
     description: A focal point for OpenFeature research, proposals and requests
       for comments
@@ -295,8 +312,11 @@ repos:
       python
   ruby-sdk:
     description: Ruby implementation of the OpenFeature SDK
+  react-native-test-app:
   react-test-app:
     description: Small test app for @openfeature/react-sdk development and e2e testing
+  ruby-sdk:
+    description: Ruby implementation of the OpenFeature SDK
   ruby-sdk-contrib:
     description: Community contributions for hooks and reference providers in Ruby
   rust-sdk:
@@ -308,19 +328,10 @@ repos:
     description: Swift implementation of the OpenFeature SDK for iOS clients
   toc-proposal:
     description: TOC proposal fork
-  flagd-testbed:
-    description: Shared test harness for flagd SDK testing, with Gherkin tests
-  flagd-schemas:
-    description: Schemas and spec files pertaining to flagd
-    homepage: https://buf.build/open-feature/flagd
+  toggle-shop:
+    description: ToggleShop is a demo e-commerce app for showcasing OpenFeature
   vendor-survey:
     archived: true
     private: true
   watchman:
     description: A Kubernetes admission controller driven by open-feature
-  five-minutes-to-feature-flags:
-    description: A short introduction to the core concepts of OpenFeature
-  cloud-native-demo:
-    description: A cloud-native feature flag demo, featuring multiple providers, telemetry, and a guided tour
-  cli:
-    description: OpenFeature’s official command-line tool
