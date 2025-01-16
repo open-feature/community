@@ -57,8 +57,8 @@ For those who are brand new to OpenFeature and want to chat or get redirected to
 
 ### Community Meetings
 
-| Name | Meeting Time | Meeting Notes | Discussions |
-| ---- | ------------ | ------------- | ----------- |
+| Name                          | Meeting Time                        | Meeting Notes                                                                                                  | Discussions                                                                                                             |
+| ----------------------------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | OpenFeature Community Meeting | Every other Thursday at 10:00 am ET | [Google Doc](https://docs.google.com/document/d/1pp6t2giTcdEdVAri_2B1Z6Mv8mHhvtZT1AmkPV9K7xQ/edit?usp=sharing) | [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/96167755909?password=212f416d-85a3-4f2f-ad15-2d7d4ca43578) |
 
 All upcoming OpenFeature meetings and events are on our [public calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/openfeature?view=week).
@@ -68,6 +68,7 @@ All upcoming OpenFeature meetings and events are on our [public calendar](https:
 Follow us on social media and help us to spread the word!
 Please use the `#openfeature` hashtag or mention our accounts when you share the content.
 
+- BlueSky: [OpenFeature](https://bsky.app/profile/openfeature.dev)
 - Twitter: [@openfeature](https://twitter.com/openfeature)
 - LinkedIn: [OpenFeature](https://www.linkedin.com/company/openfeature/)
 - YouTube: [OpenFeature](https://youtube.com/@openfeature/)
@@ -97,7 +98,7 @@ Notes and recordings from previous meetings can be found below:
 
 - [Meeting notes](https://docs.google.com/document/d/1pp6t2giTcdEdVAri_2B1Z6Mv8mHhvtZT1AmkPV9K7xQ/edit?usp=sharing)
 - [Recordings](https://www.youtube.com/channel/UCXSFt-dT2HORGXz1-ksxtxw)
-- [CNCF Hosted Project Community Chapter](https://community.cncf.io/openfeature/)  
+- [CNCF Hosted Project Community Chapter](https://community.cncf.io/openfeature/)
 
 ## Associated Components and Implementations
 
