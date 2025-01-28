@@ -22,7 +22,7 @@ We highly encourage participation in this election cycle to ensure that the comm
 
 # Vacancies
 
-This election should fill seven seats:
+This election should fill four seats:
 
 - fours seats from the existing governance committee
 - three seats from new candidates
