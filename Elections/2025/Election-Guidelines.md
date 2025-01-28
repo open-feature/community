@@ -5,7 +5,6 @@ Please see **[the list of candidates running in the election here](https://githu
 This election should fill four seats:
 
 - four seats from the existing governance committee
-- three seats from new candidates.
 
 Election schedule:
 
