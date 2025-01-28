@@ -1,6 +1,6 @@
 # 2025 OpenFeature Governance Committee Candidates
 
-In February 2025 we will hold the election with 4 positions to be elected from the current Governance committee and 3 members from the community.
+In February 2025 we will hold the election, with 4 positions being voted for. These positions can either be members re-elected from the current Governance committee, or new members can join the committee, replacing current members.
 The 4 members that are elected from the current governance board will have a one year term and the 3 elected from the community will have a two year term.
 
 ## Current Governance committee members (4 seats open, expiring this year)

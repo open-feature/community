@@ -22,12 +22,10 @@ We highly encourage participation in this election cycle to ensure that the comm
 
 # Vacancies
 
-This election should fill four seats:
+This election will fill four seats from the existing governance committee. These positions can either be members re-elected from the current Governance committee, or new members can join the committee, replacing current members.
 
-- fours seats from the existing governance committee
-- three seats from new candidates
-  To encourage diversity there will be a maximum of one-third representation on the Governance Committee from any one company at any time.
-  If the outcomes of an election result in greater than 1/3 representation (or maximum of two, whichever is greater), the lowest vote getters from any particular company will be removed until representation on the committee is equal or less than one-third.
+To encourage diversity there will be a maximum of one-third representation on the Governance Committee from any one company at any time.
+If the outcomes of an election result in greater than 1/3 representation (or maximum of two, whichever is greater), the lowest vote getters from any particular company will be removed until representation on the committee is equal or less than one-third.
 
 # Voting process
 
