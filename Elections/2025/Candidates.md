@@ -3,17 +3,20 @@
 In February 2025 we will hold the election with 4 positions to be elected from the current Governance committee and 3 members from the community.
 The 4 members that are elected from the current governance board will have a one year term and the 3 elected from the community will have a two year term.
 
-## Current Governance committee members (4 seats open, with 1 year term)
+## Current Governance committee members (4 seats open, expiring this year)
 
 - [Ben Rometsch](https://github.com/dabeeeenster), Flagsmith (Looking to continue board membership in 2025)
 - [Michael Beemer](https://github.com/beeme1mr), Dynatrace (Looking to continue board membership in 2025)
 - [Pete Hodgson](https://github.com/moredip), Independent (Looking to continue board membership in 2025)
 - [Alois Reitbauer](https://github.com/AloisReitbauer). Dynatrace (Looking to continue board membership in 2025)
+
+## Current Governance committee members (1 year term remaining)
+
 - [Johan Rydberg](https://github.com/jrydberg), Spotify (Looking to continue board membership in 2025)
 - [Jonathan Norris](https://github.com/jonathannorris), DevCycle (Looking to continue board membership in 2025)
 - [Weyert de Boer](https://github.com/weyert), FNZ (Looking to continue board membership in 2025)
 
-## List of new candidates (3 seats open, with 2 year term)
+## List of new candidates (4 seats open, with 2 year term)
 
 In alphabetical order:
 
