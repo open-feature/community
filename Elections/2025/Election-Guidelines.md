@@ -2,7 +2,7 @@
 
 Please see **[the list of candidates running in the election here](https://github.com/open-feature/community/blob/main/Elections/2025/Candidates.md)**.
 
-This election should fill seven seats:
+This election should fill four seats:
 
 - four seats from the existing governance committee
 - three seats from new candidates.
