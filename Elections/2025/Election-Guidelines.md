@@ -2,31 +2,33 @@
 
 Please see **[the list of candidates running in the election here](https://github.com/open-feature/community/blob/main/Elections/2025/Candidates.md)**.
 
-This election should fill seven seats: 
+This election should fill seven seats:
+
 - four seats from the existing governance committee
 - three seats from new candidates.
 
 Election schedule:
 
-* Feb 3rd - Feb 17th 2025 - period to submit nominations
-* Feb 18th 2025 - official nominees list published
-* Feb 24th - Mar 10th 2025  - voting period
-* Mar 12th 2025 - results announced
+- Feb 3rd - Feb 17th 2025 - period to submit nominations
+- Feb 18th 2025 - official nominees list published
+- Feb 24th - Mar 10th 2025 - voting period
+- Mar 12th 2025 - results announced
 
 We highly encourage participation in this election cycle to ensure that the community is well-represented by the Governance Committee.
 
 # TL;DR
 
-* If you've been nominated or are willing to nominate yourself: express your interest in [this issue](https://github.com/open-feature/community/issues/417)
-* Vote between Feb 24th 2025 00:00 UTC and Mar 10th 2025 23:59 UTC via the [voting link](https://vote.heliosvoting.org/helios/elections/0d3dca66-dd88-11ef-b00f-56fa8818c2bb/view)
+- If you've been nominated or are willing to nominate yourself: express your interest in [this issue](https://github.com/open-feature/community/issues/417)
+- Vote between Feb 24th 2025 00:00 UTC and Mar 10th 2025 23:59 UTC via the [voting link](https://vote.heliosvoting.org/helios/elections/0d3dca66-dd88-11ef-b00f-56fa8818c2bb/view)
 
 # Vacancies
+
 This election should fill seven seats:
+
 - fours seats from the existing governance committee
 - three seats from new candidates
-To encourage diversity there will be a maximum of one-third representation on the Governance Committee from any one company at any time. 
-If the outcomes of an election result in greater than 1/3 representation (or maximum of two, whichever is greater), the lowest vote getters from any particular company will be removed until representation on the committee is equal or less than one-third.
-
+  To encourage diversity there will be a maximum of one-third representation on the Governance Committee from any one company at any time.
+  If the outcomes of an election result in greater than 1/3 representation (or maximum of two, whichever is greater), the lowest vote getters from any particular company will be removed until representation on the committee is equal or less than one-third.
 
 # Voting process
 
@@ -45,11 +47,11 @@ Anybody is eligible to run for the Governance Committee. During the "call for no
 
 The template in that file includes the following columns:
 
-* Full name
-* GitHub alias
-* Company affiliation (if applicable)
-* Short bio or reasoning to join the Governance Committee (no more than a short paragraph)
-* _Optional_: photo/picture of a nominee
+- Full name
+- GitHub alias
+- Company affiliation (if applicable)
+- Short bio or reasoning to join the Governance Committee (no more than a short paragraph)
+- _Optional_: photo/picture of a nominee
 
 The Pull Request will not be merged until the candidate has confirmed their desire to be nominated (if not self-nominating) and ratified via PR comments.
 
@@ -62,7 +64,7 @@ All members of the OpenFeature Organization Members, Approvers, Maintainers will
 Everyone with voting rights may log into [Helios Voting](https://vote.heliosvoting.org/helios/elections/0d3dca66-dd88-11ef-b00f-56fa8818c2bb/view) using their GitHub account.
 Voting will be approval voting, where each voter may select up to seven candidates, **four** from the current Governance Committee and three from the new nominees.
 The seven candidates (four from current GC and three from new nominees) with the most votes win the election.
-The winners should be from different organizations(at most 1/3 from the same organization), therefore only the 2 highest ranked nominees from each organization will be elected. 
+The winners should be from different organizations(at most 1/3 from the same organization), therefore only the 2 highest ranked nominees from each organization will be elected.
 If the outcomes of an election result in greater than 1/3 representation (or maximum of two, whichever is greater), the lowest vote getters from any particular company will be removed until representation on the committee is equal or less than one-third.
 
 If there is a draw between the lower ranked candidates, there will be a runoff election between the tied candidates.
