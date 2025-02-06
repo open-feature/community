@@ -2,8 +2,7 @@ repos:
   - python-sdk
   - python-sdk-contrib
 
-approvers:
-  - gruebel
+approvers: []
 
 maintainers:
   - federicobond
@@ -13,5 +12,6 @@ maintainers:
   - tcarrio
   - matthewelwell
   - ajhelsby
+  - gruebel
 
 admins: []
