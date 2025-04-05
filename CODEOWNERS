@@ -2,4 +2,4 @@
 # the repo. Unless a later match takes precedence
 
 # The config folder is used by Peribolos to configure org permissions
-/config/      @toddbaert @beeme1mr
+/config/      @open-feature/technical-steering-committee @open-feature/governance-board
