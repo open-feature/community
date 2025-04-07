@@ -64,7 +64,7 @@ Everyone is also welcome to [participate](https://openfeature.dev/community/cont
 | Mitch Connors       | Google          | Istio, cobra                                                            | [therealmitchconnors](https://github.com/therealmitchconnors) | N/A                                               |
 | Moshe Beladev       | Torq            | Gebug, gTrace                                                           | [moshebe](https://github.com/moshebe)                         | N/A                                               |
 | Oleg Nenashev       | Dynatrace       | CDF, Jenkins, Keptn, FOSSi, API Neuchatel                               | [oleg-nenashev](https://github.com/oleg-nenashev)             | [oleg-nenashev](https://gitlab.com/oleg-nenashev) |
-| Paulo Piriquito     | N/A             |                                                                         | [paulopiriquito](https://github.com/paulopiriquito)           | N/A                                               |
+| Paulo Piriquito     | Adeo            |                                                                         | [paulopiriquito](https://github.com/paulopiriquito)           | N/A                                               |
 | Parth Suthar        | DevCycle        |                                                                         | [suthar26](https://github.com/suthar26)                       | N/A                                               |
 | Patricio Echague    | Split.io        |                                                                         | [patricioe](https://github.com/patricioe)                     | N/A                                               |
 | Pete Hodgson        | Independent     |                                                                         | [moredip](https://github.com/moredip)                         | N/A                                               |
@@ -92,6 +92,7 @@ List of companies, organizations, foundations and other groups that declared int
 
 | Organization    | Website link                                                           | Contact Email/Information                                                                     | Testimonial/case study link |
 | --------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------- |
+| Adeo            | [adeo.com](https://www.adeo.com/en/)                                   | `paulopiriquito at github.com/adeo (paulo.piriquito@ext.leroymerlin.pt)`                      | N/A                         |
 | Alternative Payments | [alternativepayments.io](https://www.alternativepayments.io/)     | `fernando at alternativepayments.io`                                                          | N/A                         |
 | AWS AppConfig | [AWS AppConfig](https://docs.aws.amazon.com/appconfig/latest/userguide/what-is-appconfig.html) | `aws-appconfig-contact at amazon.com` | N/A |
 | Cisco           | [opensource.cisco.com](https://opensource.cisco.com/)                  | `augustus at cisco.com`                                                                       | N/A                         |
