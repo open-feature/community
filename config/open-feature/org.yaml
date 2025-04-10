@@ -325,8 +325,6 @@ repos:
   react-native-test-app:
   react-test-app:
     description: Small test app for @openfeature/react-sdk development and e2e testing
-  ruby-sdk:
-    description: Ruby implementation of the OpenFeature SDK
   ruby-sdk-contrib:
     description: Community contributions for hooks and reference providers in Ruby
   rust-sdk:
