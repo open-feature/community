@@ -343,3 +343,4 @@ repos:
     private: true
   watchman:
     description: A Kubernetes admission controller driven by open-feature
+    archived: true
