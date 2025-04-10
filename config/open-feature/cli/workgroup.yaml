@@ -1,0 +1,11 @@
+repos:
+  - cli
+
+approvers: []
+
+maintainers:
+  - anghelflorinm
+  - kriscoleman
+  - beeme1mr
+
+admins: []
