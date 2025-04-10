@@ -3,7 +3,8 @@ repos:
   - rust-sdk
   - rust-sdk-contrib
 
-approvers: []
+approvers:
+  - erenatas
 
 maintainers:
   - AlexsJones
