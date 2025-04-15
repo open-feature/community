@@ -1,0 +1,11 @@
+repos:
+  - elixir-sdk
+  - elixir-sdk-contrib
+
+approvers:
+  - olunusib
+
+maintainers:
+  - ejscunha
+
+admins: []

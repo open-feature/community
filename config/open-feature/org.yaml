@@ -262,6 +262,8 @@ repos:
     description: OpenFeature Providers and Hooks for .NET
   elixir-sdk:
     description: Elixir SDK for OpenFeature
+  elixir-sdk-contrib:
+    description: OpenFeature Providers and Hooks for Elixir
   five-minutes-to-feature-flags:
     description: A short introduction to the core concepts of OpenFeature
   flagd:
