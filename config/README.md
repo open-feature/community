@@ -1,7 +1,7 @@
 # Community Configuration
 
 As handling permissions, assignments, etc. gets more and more complicated, the bigger a community gets,
-we decided to opt-in for a GitOps approach for community management.
+we decided to opt-in for a GitOps approach for community management!
 
 We are using [Peribolos](https://docs.prow.k8s.io/docs/components/cli-tools/peribolos/) which is developed and maintained by Kubernetes.
 They actively use it to manage their own communities, see [kubernetes/org](https://github.com/kubernetes/org).
