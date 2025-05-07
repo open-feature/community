@@ -81,6 +81,7 @@ Everyone is also welcome to [participate](https://openfeature.dev/community/cont
 | Todd Baert          | Dynatrace       | ISC2                                                                    | [toddbaert](https://github.com/toddbaert)                     | N/A                                               |
 | Tom Carrio          | Skillshare      |                                                                         | [tcarrio](https://github.com/tcarrio)                         | [tcarrio](https://gitlab.com/tcarrio)             |
 | Vic Vuci            | DevCycle        | Taplytics                                                               | [vicv](https://github.com/vicv)                               | [vicv](https://gitlab.com/vicv)                   |
+| Vitor Vasconcellos | MercadoLire | OpenTelemetry | [vitorvasc](https://github.com/vitorvasc) | |
 | Weyert de Boer      | FNZ             | Opentelemetry, OpenSLO                                                  | [weyert](https://github.com/weyert)                           |
 | Yousef Soliman      | N/A             |                                                                         | [yousef-soliman](https://github.com/yousef-soliman)           | N/A                                               |
 | Zoltan David        | ConfigCat       |                                                                         | [zoltan-david](https://github.com/zoltan-david)               | N/A                                               |
