@@ -3,6 +3,7 @@ repos:
   - dotnet-sdk-contrib
 
 approvers:
+  - arttonoyan
   - bacherfl
   - cdonnellytx
   - austindrenski
