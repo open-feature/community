@@ -300,6 +300,8 @@ repos:
     has_projects: false
   kotlin-sdk:
     description: Kotlin implementation of the OpenFeature SDK for Android clients
+  kotlin-sdk-contrib:
+    description: Community contributions for hooks and reference providers
   ofep:
     description: A focal point for OpenFeature research, proposals and requests
       for comments
