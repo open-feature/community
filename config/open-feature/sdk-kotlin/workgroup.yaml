@@ -1,5 +1,6 @@
 repos:
   - kotlin-sdk
+  - kotlin-sdk-contrib
 
 approvers: []
 
