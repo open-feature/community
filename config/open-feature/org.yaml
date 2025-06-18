@@ -192,10 +192,11 @@ teams:
     members:
       - beeme1mr
       - AloisReitbauer
-      - AlexsJones
       - moredip
-      - justinabrahms
       - dabeeeenster
+      - jrydberg
+      - jonathannorris
+      - weyert
 
   Interested Parties:
     description: Group for members of https://github.com/openfeatureflags/governance/blob/main/interested-parties.md
