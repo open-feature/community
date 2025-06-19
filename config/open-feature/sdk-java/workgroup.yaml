@@ -8,7 +8,6 @@ approvers:
   - ajhelsby
   - thisthat
   - liran2000
-  - chrfwow
 
 maintainers:
   - aepfli
@@ -16,5 +15,6 @@ maintainers:
   - toddbaert
   - agentgonzo
   - kavindu-dodan
+  - chrfwow
 
 admins: []
