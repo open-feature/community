@@ -192,7 +192,7 @@ directly or through delegation of these responsibilities.
 ### Becoming a Maintainer
 
 Unless stated otherwise by the Technical Committee,
-a new maintainer is elected by vote of the existing maintainers of the Sub-project.
+a new maintainer is elected by vote of the existing maintainers of the sub-project.
 The vote is officially started when a pull request to add a new maintainer
 is opened, and ends when the pull request is merged. The pull request may be
 merged when the following conditions are met:
