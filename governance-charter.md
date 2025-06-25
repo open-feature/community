@@ -41,7 +41,7 @@ hosted by its maintainers and contributors.
 These meetings are used as additional discussion and consensus building
 but not for making decisions without prior discussion in async channels.
 
-#### Governance Committee Members
+### Governance Committee Responsibilities
 
 _Governance Committee_ members are responsible for representing the project in communications with organizations,
 including but not limited to contributor companies, adopters, vendors and foundations.
@@ -90,7 +90,7 @@ representation is achieved. If it is impossible to find sufficient members to
 resign, the entire company’s representation will be removed and new special
 elections held. In the event of a question of company membership (for example
 evaluating independence of corporate subsidiaries) a majority of all
-non-involved _Governance Committee_ members will decide. 
+non-involved _Governance Committee_ members will decide.
 
 ### Initial Election
 
@@ -154,5 +154,3 @@ of the _Governance Committee_ once their term ends.
 
 - For inquiries, please reach out to:
   - members of the [Governance Committee](https://github.com/open-feature/community/blob/main/community-members.md#governance-board)
-
-

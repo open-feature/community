@@ -4,10 +4,10 @@
 
 This is the current Governance Committee, per the Governance Committee Charter, in alphabetical order:
 
-- [Alois Reitbauer](https://github.com/aloisreitbauer), Dynatrace, term: February 1st, 2024 - January 31st 2025
-- [Ben Rometsch](https://github.com/dabeeeenster), Flagsmith, term: February 1st, 2024 - January 31st 2025
-- [Michael Beemer](https://github.com/beeme1mr), Dynatrace, term: February 1st, 2024 - January 31st 2025
-- [Pete Hodgson](https://github.com/moredip), Independent, term: February 1st, 2024 - January 31st 2025
+- [Alois Reitbauer](https://github.com/aloisreitbauer), Dynatrace, term: February 1st, 2025 - January 31st 2027
+- [Ben Rometsch](https://github.com/dabeeeenster), Flagsmith, term: February 1st, 2025 - January 31st 2027
+- [Michael Beemer](https://github.com/beeme1mr), Dynatrace, term: February 1st, 2025 - January 31st 2027
+- [Pete Hodgson](https://github.com/moredip), Independent, term: February 1st, 2025 - January 31st 2027
 - [Johan Rydberg](https://github.com/jrydberg), Spotify, term: February 1st, 2024 - January 31st 2026
 - [Jonathan Norris](https://github.com/jonathannorris), DevCycle, term: February 1st, 2024 - January 31st 2026
 - [Weyert de Boer](https://github.com/weyert), FNZ, term: February 1st, 2024 - January 31st 2026
@@ -44,13 +44,3 @@ _Bootstrap Governance Committee Member_,
 _Emeritus_.
 
 See [Contributor Ladder](./CONTRIBUTOR_LADDER.md) for additional information.
-
-
-
-
-
-
-
-
-
-
