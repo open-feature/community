@@ -30,7 +30,6 @@ Changes to TC membership should be posted in the agenda document, and may be sug
 
 No more than one-third (33%) of the TC members may be affiliated with the same employer (same employer defined as "representing the same legal entity/project"). If removal or resignation of a TC member, or a change of employment by a TC member, creates a situation where more than one-third of the TC membership shares an employer, then the situation must be immediately remedied by the election of one or more TC members.
 
-
 ## Responsibilities of the Technical Committee
 
 The TC ensures that the project maintains a high level of technical excellence while continuing to meet the needs of its adopters, and facilitates ongoing community contribution.
@@ -68,8 +67,6 @@ TC members will avoid taking actions or making decisions that constitute a confl
 In such cases, TC members will inform the the wider TC of the perceived conflict and the issue will be resolved by another member.
 
 ## Elections
-
-
 
 ### Election of TC Members
 
