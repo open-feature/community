@@ -22,7 +22,7 @@ A Community Participant engages with the project and its community, contributing
 
 A Contributor contributes directly to the project and adds value to it. Contributions need not be code. People at the Contributor level may be new contributors, or they may only contribute occasionally.
 
-- Responsibilities include:
+- Responsibilities:
   - Follow the [CNCF CoC](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
   - Follow the project contributing guide
 - Requirements (one or several of the below):
@@ -57,13 +57,13 @@ An Organization Member must meet the responsibilities and has the requirements o
     may include, but is not limited to:
     - Authoring or reviewing PRs on GitHub
     - Filing or commenting on issues on GitHub
-    - Contributing to subprojects, or community discussions (e.g. meetings,
+    - Contributing to sub-projects, or community discussions (e.g. meetings,
       chat, email, and discussion forums)
     - [Joined the Slack channel](https://cloud-native.slack.com/archives/C0344AANLA1)
       - [Get an invite to join CNCF](http://slack.cncf.io/)
     - Have read the [contributor
       guide](https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md)
-    - Actively contributing to 1 or more subprojects.
+    - Actively contributing to 1 or more sub-projects.
 - Privileges:
   - May be assigned Issues and Reviews
   - May give commands to CI/CD automation
@@ -109,9 +109,9 @@ meetings, chat rooms, and other discussion forums.
 
 - Responsibilities and privileges
 
-  - Have an understanding of the goals and workflows defined by the maintainers.
-  - Respond to new PRs and Issues by asking clarifying questions.
-  - Organize the backlog by applying labels, milestones, assignees, and projects.
+  - Have a limited understanding of the project goals as outlined by maintainers and the TSC
+  - Respond to issues by asking clarifying questions and suggesting labels.
+  - Respond to pull requests by reviewing code, testing manually, and providing (non-binding) approval or requesting changes
 
 The process of becoming a Triager is:
 
@@ -134,15 +134,12 @@ correctness issues, interactions with other parts of the system, etc.
   - [Community Configuration](https://github.com/open-feature/community/tree/main/config/open-feature)
 
 Approver status can be scoped to a part of the codebase. For example, critical
-core components may have higher bar for becoming an approver.
+core components may have higher bar for becoming an approver. Approver status may be a precondition to accepting large code contributions.
 
 - Requirements
 
-    The following apply to the part of the codebase for which one would be an
-    approver in the `CODEOWNERS` files.
-
   - Reviewer of the codebase for at least 1 month
-  - Reviewer for or author of PRs to the codebase,
+  - Reviewer or author of PRs to the codebase,
     with the definition of substantial subject to the maintainer's discretion
     (e.g. refactors/adds new functionality rather than one-line pulls).
   - Nominated by a maintainer
@@ -151,23 +148,18 @@ core components may have higher bar for becoming an approver.
 
 - Responsibilities and privileges
 
-    The following apply to the part of the codebase for which one would be an approver in the `CODEOWNERS` files.
-
-  - Approver status may be a precondition to accepting large code contributions
-  - Demonstrate sound technical judgement (may be asked to step down by a maintainer if they lose confidence of the maintainers)
-  - Responsible for project quality control via code reviews
-    - Focus on holistic acceptance of contribution such as dependencies with other
-      features, backwards / forwards compatibility, API and flag definitions, etc
+  - Have a robust understanding of the project goals as outlined by maintainers and the TSC
+  - Respond to issues by asking clarifying questions and suggesting labels
+  - Respond to pull requests by reviewing code, testing manually, and providing approval or requesting changes
   - Expected to be responsive to review requests (inactivity for more than 1 month may result in suspension until active again)
   - Mentor contributors and reviewers
-  - May approve code contributions for acceptance
 
 ## Maintainer
 
-Maintainers are the technical authority for a subproject in the OpenFeature
+Maintainers are the technical authority for a sub-project in the OpenFeature
 project. They _MUST_ have demonstrated both good judgement and responsibility
-towards the health of that subproject. Maintainers _MUST_ set technical
-direction and make or approve design decisions for their subproject - either
+towards the health of that sub-project. Maintainers _MUST_ set technical
+direction and make or approve design decisions for their sub-project - either
 directly or through delegation of these responsibilities.
 
 - Defined by:
@@ -177,47 +169,30 @@ directly or through delegation of these responsibilities.
 
 - Requirements
 
-    Unlike the roles outlined above, the maintainers of a subproject are typically
-    limited to a relatively small group of decision makers and updated as fits
-    the needs of the subproject.
-
-    The following apply to the subproject for which one would be a maintainer.
-
-  - Deep understanding of the technical goals and direction of the subproject
-    - Deep understanding of the technical domain (specifically the language) of the
-        subproject
-    - Sustained contributions to design and direction by doing all of:
-      - Authoring and reviewing proposals
-      - Initiating, contributing and resolving discussions (emails, GitHub issues,
-          meetings)
-      - Identifying subtle or complex issues in designs and implementation PRs
-    - Directly contributed to the subproject through implementation and / or review
-    - Aligning with the overall project goals, specifications and design principles
-        defined by Technical Committee (TC). Bringing general questions and requests
-        to the discussions as part of specifications project.
+  - Reviewer of the codebase for at least 3 months
+  - Author and reviewer of PRs to the codebase,
+    with the definition of substantial subject to the maintainer's discretion
+    (e.g. refactors/adds new functionality rather than one-line pulls).
+  - Nominated by a maintainer
+  - With no objections from other maintainers
+  - Done through PR to update the [Community Configuration](https://github.com/open-feature/community/tree/main/config/open-feature).
 
 - Responsibilities and privileges
 
-    The following apply to the subproject for which one would be a maintainer.
-
-  - Make and approve technical design decisions for the subproject.
-  - Set technical direction and priorities for the subproject.
-  - Define milestones and releases.
-    - Decides on when PRs are merged to control the release scope.
-  - Mentor and guide approvers, reviewers, and contributors to the subproject.
-  - Escalate _reviewer_ and _maintainer_ workflow concerns (i.e. responsiveness,
-      availability, and general contributor community health) to the TC.
-  - Ensure continued health of subproject:
-    - Adequate test coverage to confidently release
-    - Tests are passing reliably (i.e. not flaky) and are fixed when they fail
-  - Ensure a healthy process for discussion and decision making is in place.
-  - Work with other maintainers to maintain the project's overall health and
-      success holistically.
+  - Have a deep understanding of the project goals as outlined by maintainers and the TSC
+  - Respond to issues by asking clarifying questions, adding labels, and assigning contributors
+  - Respond to pull requests by reviewing code, testing manually, and providing approval or requesting changes
+  - Expected to be responsive to review requests (inactivity for more than 1 month may result in suspension until active again)
+  - Mentor contributors and reviewers
+  - Build and maintain automation to ensure code quality, security, compatibility, and availability 
+  - Resolve vulnerabilities, dependency updates and broken automation
+  - Set technical direction and priorities for the sub-project in coordination with the TSC and other maintainers
+  - Auditing the maintenance of sub-components (ie: deprecating an unmaintained provider in a contrib repository)
 
 ### Becoming a Maintainer
 
 Unless stated otherwise by the Technical Committee,
-a new maintainer is elected by vote of the existing maintainers of the Subproject.
+a new maintainer is elected by vote of the existing maintainers of the Sub-project.
 The vote is officially started when a pull request to add a new maintainer
 is opened, and ends when the pull request is merged. The pull request may be
 merged when the following conditions are met:
@@ -238,7 +213,7 @@ recommended that you approach an existing maintainer about sponsoring your bid
 to become a maintainer. After you and your sponsor have discussed the role
 and its additional requirements and responsibilities, they may approach the other
 maintainers about a vote to confirm you as a new maintainer. If the maintainer
-does not believe you are ready for the role, or the subproject is not in need
+does not believe you are ready for the role, or the sub-project is not in need
 of additional maintainers, they may suggest an alternate role or growth areas
 in order to improve your chances to become a maintainer in the future.
 
