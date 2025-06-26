@@ -20,25 +20,17 @@ A Community Participant engages with the project and its community, contributing
 
 ## Contributor
 
-A Contributor contributes directly to the project and adds value to it. Contributions need not be code. People at the Contributor level may be new contributors, or they may only contribute occasionally.
+A Contributor is anyone who simply adds to the project, without any formal membership. Contributions need not be code. People at the _contributor_ level may be new contributors, or they may only contribute occasionally.
 
-- Responsibilities:
+- Requirements:
+
   - Follow the [CNCF CoC](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
   - Follow the project contributing guide
-- Requirements (one or several of the below):
-  - Report and sometimes resolve issues
-  - Occasionally submit PRs
-  - Contribute to the documentation
-  - Show up at meetings, takes notes
-  - Answer questions from other community members
-  - Submit feedback on issues and PRs
-  - Test releases and patches and submit reviews
-  - Run or helps run events
-  - Promote the project in public
-  - Help run the project infrastructure
-- Privileges:
-  - Invitations to contributor events
-  - Eligible to become an Organization Member
+
+- Responsibilities and privileges
+
+  - Understand the nature of the change they are proposing or issue they are opening
+  - Respond to questions and feedback from organization members
 
 ## Organization Member
 
@@ -46,28 +38,19 @@ An Organization Member is an established contributor who regularly participates 
 
 An Organization Member must meet the responsibilities and has the requirements of a Contributor, plus:
 
-- Responsibilities include:
-  - Continues to contribute regularly
-  - Help uphold our community values and welcome newcomers
-- Requirements:
-  - Enabled [two-factor
-    authentication](https://help.github.com/articles/about-two-factor-authentication)
-    on their GitHub account
-  - Have made multiple contributions to the project or community. Contributions
-    may include, but is not limited to:
-    - Authoring or reviewing PRs on GitHub
-    - Filing or commenting on issues on GitHub
-    - Contributing to sub-projects, or community discussions (e.g. meetings,
-      chat, email, and discussion forums)
-    - [Joined the Slack channel](https://cloud-native.slack.com/archives/C0344AANLA1)
-      - [Get an invite to join CNCF](http://slack.cncf.io/)
-    - Have read the [contributor
-      guide](https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md)
-    - Actively contributing to 1 or more sub-projects.
-- Privileges:
-  - May be assigned Issues and Reviews
-  - May give commands to CI/CD automation
-  - Can recommend other contributors to become Org Members
+- Requirements
+  
+  - Contributes regularly
+  - Upholds community and CNCF values, [CoC]((https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
+  - Enabled [two-factor authentication](https://help.github.com/articles/about-two-factor-authentication) on their GitHub account
+
+- Responsibilities and privileges
+
+  - Understand the nature of the change they are proposing or issue they are opening
+  - Respond to questions and feedback from organization members
+  - Read the [contributor guide](https://github.com/open-feature/.github/blob/main/CONTRIBUTING.md)
+  - Participate in communication with the community, for instance using the [Slack channel](https://cloud-native.slack.com/archives/C0344AANLA1)
+  - Represent the OpenFeature project at events and meetings
 
 The process for a Contributor to become an Organization Member is as follows:
 
@@ -75,7 +58,7 @@ The process for a Contributor to become an Organization Member is as follows:
     - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.
     - Sponsors must be in an approvers or maintainers team for at least one resource in the[Community Configuration](https://github.com/open-feature/community/config/).
       - Sponsors must be from multiple member companies to demonstrate integration across community.
-1. [Open an issue](https://github.com/open-feature/community/issues/new)
+2. [Open an issue](https://github.com/open-feature/community/issues/new)
 
      - Ensure your sponsors are `@mentioned` on the issue
      - Complete every item on the checklist ([preview the current version of the
@@ -83,8 +66,8 @@ The process for a Contributor to become an Organization Member is as follows:
      - Make sure that the list of contributions included is representative of your
        work on the project.
 
-1. Have your sponsoring reviewers reply confirmation of sponsorship: `I support`
-1. Once your sponsors have responded, your request will be reviewed by the
+3. Have your sponsoring reviewers reply confirmation of sponsorship: `I support`
+4. Once your sponsors have responded, your request will be reviewed by the
     Technical Committee (TC). Any TC member can review the requirements and add
     Members to the GitHub org.
 
