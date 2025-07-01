@@ -41,7 +41,7 @@ An Organization Member must meet the responsibilities and has the requirements o
 - Requirements
   
   - Contributes regularly
-  - Upholds community and CNCF values, [CoC]((https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
+  - Upholds community and CNCF values, [CoC](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
   - Enabled [two-factor authentication](https://help.github.com/articles/about-two-factor-authentication) on their GitHub account
 
 - Responsibilities and privileges
