@@ -3,6 +3,7 @@ repos:
   - go-sdk-contrib
 
 approvers:
+  - bbland1
   - beeme1mr
   - agentgonzo
   - thisthat
