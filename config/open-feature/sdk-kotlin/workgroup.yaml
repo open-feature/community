@@ -2,8 +2,9 @@ repos:
   - kotlin-sdk
   - kotlin-sdk-contrib
 
-approvers: []
-
+approvers: 
+  - bencehornak
+  
 maintainers:
   - fabriziodemaria
   - nicklasl
