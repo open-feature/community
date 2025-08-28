@@ -2,16 +2,18 @@ repos:
   - python-sdk
   - python-sdk-contrib
 
+emeritus:
+  - ajhelsby
+  - hlipsig
+
 approvers: []
 
 maintainers:
   - federicobond
-  - hlipsig
   - dabeeeenster
   - mschoenlaub
   - tcarrio
   - matthewelwell
-  - ajhelsby
   - gruebel
 
 admins: []

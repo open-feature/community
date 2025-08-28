@@ -4,6 +4,11 @@ repos:
   - flagd-testbed
   - open-feature-operator
 
+emeritus:
+  - AlexsJones
+  - odubajDT
+  - skyerus
+
 approvers:
   - aepfli
   - agardnerIT
@@ -12,19 +17,16 @@ approvers:
   - cupofcat
   - craigpastro
   - justinabrahms
-  - odubajDT
   - tangenti
   - tcarrio
   - thisthat
   - thomaspoignant
 
 maintainers:
-  - AlexsJones
   - bacherfl
   - james-milligan
   - toddbaert
   - kavindu-dodan
-  - skyerus
   - lukas-reining
 
 admins: []

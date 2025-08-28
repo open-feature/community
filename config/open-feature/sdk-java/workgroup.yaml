@@ -2,10 +2,13 @@ repos:
   - java-sdk
   - java-sdk-contrib
 
-approvers:
-  - thiyagu06
-  - thomaspoignant
+emeritus:
   - ajhelsby
+  - agentgonzo
+  - thiyagu06
+
+approvers:
+  - thomaspoignant
   - thisthat
   - liran2000
 
@@ -13,7 +16,6 @@ maintainers:
   - aepfli
   - justinabrahms
   - toddbaert
-  - agentgonzo
   - kavindu-dodan
   - chrfwow
 

@@ -3,6 +3,8 @@ repos:
   - js-sdk-contrib
   - react-test-app
 
+emeritus: []
+
 approvers:
   - aepfli
   - weyert

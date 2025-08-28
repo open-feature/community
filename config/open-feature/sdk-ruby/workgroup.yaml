@@ -3,11 +3,13 @@ repos:
   - ruby-sdk
   - ruby-sdk-contrib
 
+emeritus:
+  - technicalpickles
+
 approvers:
   - maxveldink
 
 maintainers:
   - josecolella
-  - technicalpickles
 
 admins: []

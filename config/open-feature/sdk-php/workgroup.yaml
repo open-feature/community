@@ -3,6 +3,8 @@ repos:
   - php-sdk
   - php-sdk-contrib
 
+emeritus: []
+
 approvers: []
 
 maintainers:
