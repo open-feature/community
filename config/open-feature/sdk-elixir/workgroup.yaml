@@ -2,6 +2,8 @@ repos:
   - elixir-sdk
   - elixir-sdk-contrib
 
+emeritus: []
+
 approvers:
   - olunusib
 

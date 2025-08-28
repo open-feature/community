@@ -2,19 +2,21 @@ repos:
   - go-sdk
   - go-sdk-contrib
 
-approvers:
-  - bbland1
-  - beeme1mr
+emeritus:
   - agentgonzo
-  - thisthat
-
-maintainers:
   - AlexsJones
   - bacherfl
   - davejohnston
+  - skyerus
+
+approvers:
+  - bbland1
+  - beeme1mr
+  - thisthat
+
+maintainers:
   - james-milligan
   - Kavindu-Dodan
-  - skyerus
   - sahidvelji
   - thomaspoignant
   - toddbaert

@@ -6,6 +6,8 @@ repos:
   - five-minutes-to-feature-flags
   - cloud-native-demo
 
+emeritus: []
+
 approvers:
   - justinabrahms
   - andrewdmaclean

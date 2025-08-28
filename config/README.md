@@ -55,6 +55,7 @@ A workgroup consists of following roles:
 - approvers (triage permission)
 - maintainers (maintain permission)
 - admins (admin permission)
+- emeritus (no permissions, for historical reference only)
 
 Based on the definition above a `workgroup.yaml` has the following structure:
 

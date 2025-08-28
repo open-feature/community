@@ -1,6 +1,8 @@
 repos:
   - dart-server-sdk
 
+emeritus: []
+
 approvers: []
 
 maintainers:

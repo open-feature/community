@@ -2,11 +2,13 @@ repos:
   - swift-sdk
   - ofrep-swift-client-provider
 
+emeritus:
+  - alina-v1
+  - Calibretto
+
 approvers: []
 
 maintainers:
-  - alina-v1
-  - Calibretto
   - fabriziodemaria
   - mfranberg
   - toddbaert
