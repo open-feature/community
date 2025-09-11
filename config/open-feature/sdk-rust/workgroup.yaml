@@ -3,11 +3,13 @@ repos:
   - rust-sdk
   - rust-sdk-contrib
 
+emeritus:
+  - AlexsJones
+
 approvers:
   - erenatas
 
 maintainers:
-  - AlexsJones
   - sheepduke
 
 admins: []

@@ -2,12 +2,14 @@ repos:
   - dotnet-sdk
   - dotnet-sdk-contrib
 
+emeritus:
+  - austindrenski
+  - cdonnellytx
+  - jenshenneberg
+  - bacherfl
+
 approvers:
   - arttonoyan
-  - bacherfl
-  - cdonnellytx
-  - austindrenski
-  - jenshenneberg
   - kylejuliandev
 
 maintainers:
