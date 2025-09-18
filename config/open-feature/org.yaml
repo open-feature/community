@@ -123,6 +123,7 @@ members:
   - mkorbi
   - mowies
   - mschoenlaub
+  - NeaguGeorgiana23
   - nicklasl
   - nickybondarenko
   - nikolasleblanc
@@ -302,6 +303,10 @@ repos:
     description: JavaScript SDK for OpenFeature
   js-sdk-contrib:
     description: OpenFeature Providers and Hooks for JavaScript
+  cpp-sdk:
+    description: C++ SDK for OpenFeature
+    # Keep the repo private until the foundation is set up
+    private: true
   killercoda:
     description: Killercoda Interactive Examples for OpenFeature
     has_projects: false
