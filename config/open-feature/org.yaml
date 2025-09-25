@@ -315,6 +315,8 @@ repos:
     description: Kotlin implementation of the OpenFeature SDK for Android clients
   kotlin-sdk-contrib:
     description: Community contributions for hooks and reference providers
+  mcp:
+    description: Model Context Protocol (MCP) Server for OpenFeature
   ofep:
     description: A focal point for OpenFeature research, proposals and requests
       for comments
