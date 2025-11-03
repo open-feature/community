@@ -1,5 +1,6 @@
 repos:
   - cpp-sdk
+  - cpp-sdk-contrib
 
 maintainers:
   - NeaguGeorgiana23
