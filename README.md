@@ -59,7 +59,7 @@ For those who are brand new to OpenFeature and want to chat or get redirected to
 
 | Name                          | Meeting Time                        | Meeting Notes                                                                                                  | Discussions                                                                                                             |
 | ----------------------------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| OpenFeature Community Meeting | Every other Thursday at 10:00 am ET | [Google Doc](https://docs.google.com/document/d/1pp6t2giTcdEdVAri_2B1Z6Mv8mHhvtZT1AmkPV9K7xQ/edit?usp=sharing) | [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/96167755909?password=212f416d-85a3-4f2f-ad15-2d7d4ca43578) |
+| OpenFeature Community Meeting | Every other Thursday at 3:00 pm (GMT/BST) | [Google Doc](https://docs.google.com/document/d/1OfSPczIWvWNNTWWGefeMhm2Iq2lRnNRTssibYwqOFeY/edit?usp=sharing) | [Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/93244348666?password=79e84acc-18a5-49f5-8759-7841d7bcfdf3) |
 
 All upcoming OpenFeature meetings and events are on our [public calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/openfeature?view=week).
 
