@@ -82,6 +82,7 @@ Everyone is also welcome to [participate](https://openfeature.dev/community/cont
 | Tom Carrio          | Skillshare      |                                                                         | [tcarrio](https://github.com/tcarrio)                         | [tcarrio](https://gitlab.com/tcarrio)             |
 | Vic Vuci            | DevCycle        | Taplytics                                                               | [vicv](https://github.com/vicv)                               | [vicv](https://gitlab.com/vicv)                   |
 | Vitor Vasconcellos | MercadoLibre | OpenTelemetry | [vitorvasc](https://github.com/vitorvasc) | |
+| Wadii Zaim      | Flagsmith             |                                                   | [zaimwa9](https://github.com/zaimwa9)                           | N/A
 | Weyert de Boer      | FNZ             | Opentelemetry, OpenSLO                                                  | [weyert](https://github.com/weyert)                           |
 | Yousef Soliman      | N/A             |                                                                         | [yousef-soliman](https://github.com/yousef-soliman)           | N/A                                               |
 | Zoltan David        | ConfigCat       |                                                                         | [zoltan-david](https://github.com/zoltan-david)               | N/A                                               |
