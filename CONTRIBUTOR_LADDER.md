@@ -218,7 +218,7 @@ This role is reserved for contributors who have demonstrated exceptional dedicat
   - Must have been a maintainer in at least one sub-project for 6 months
   - Significant contributions across multiple repositories and programming languages
   - Demonstrated ability to collaborate with and mentor contributors across the community
-  - Nominated by an existing Global Maintainer or a majority of sub-project maintainers
+  - Nominated by an existing Global Maintainer, a majority of sub-project maintainers, or the TSC.
   - With no objections from other Global Maintainers or TSC members
 
 - **Responsibilities and privileges**:
