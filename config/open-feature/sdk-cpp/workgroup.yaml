@@ -1,7 +1,11 @@
 repos:
   - cpp-sdk
+  - cpp-sdk-contrib
 
 maintainers:
   - NeaguGeorgiana23
+  - tangenti
+  - oxddr
+  - m-olko
 
 admins: []

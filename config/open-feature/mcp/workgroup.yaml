@@ -1,6 +1,10 @@
 repos:
   - mcp
 
+approvers:
+  - askpt
+  - beeme1mr
+
 maintainers:
   - jonathannorris
 

@@ -30,6 +30,7 @@ admins:
 # org member settings - keep alphabetical
 # add yourself here if you're interested in being an org member!
 members:
+  - 4gn3s
   - ABC2015
   - adams85
   - aepfli
@@ -39,6 +40,7 @@ members:
   - alemrtv
   - alexandraoberaigner
   - AlexsJones
+  - alichka06
   - alina-v1
   - alxckn
   - andrewdmaclean
@@ -55,8 +57,10 @@ members:
   - bencehornak
   - benjiro
   - Billlynch
+  - brian-chebon
   - c4milo
   - Calibretto
+  - carla-was-not-available
   - cdonnellytx
   - chrfwow
   - colebaileygit
@@ -81,7 +85,7 @@ members:
   - faulkt
   - federicobond
   - gagantrivedi
-  - gdegiorgio
+  - gioddiggi
   - gruebel
   - guidobrei
   - hairyhenderson
@@ -112,9 +116,12 @@ members:
   - lopitz
   - luizbon
   - luizgribeiro
+  - m-olko
   - madhead
+  - marcozabel
   - markphelps
   - matthewelwell
+  - MattIPv4
   - MaximFischuk
   - maxveldink
   - mfranberg
@@ -162,12 +169,14 @@ members:
   - tjosepo
   - Tmakinde
   - tomkerkhove
+  - uladbohdan
   - UtkarshSharma2612
   - vahidlazio
   - vpetrusevici
   - warber
   - WeihanLi
   - wichopy
+  - Zaimwa9
   - znonthedev
   - z4kn4fein
 
@@ -263,6 +272,10 @@ repos:
     description: Tools for Community Management
   cpp-sdk:
     description: C++ SDK for OpenFeature
+    # Keep the repo private until the foundation is set up
+    private: true
+  cpp-sdk-contrib:
+    description: OpenFeature Providers and Hooks for C++
     # Keep the repo private until the foundation is set up
     private: true
   contribfest-eu-24:
