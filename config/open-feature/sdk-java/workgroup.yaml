@@ -7,6 +7,9 @@ emeritus:
   - agentgonzo
   - thiyagu06
 
+triagers:
+  - cupofcat
+
 approvers:
   - thomaspoignant
   - thisthat
