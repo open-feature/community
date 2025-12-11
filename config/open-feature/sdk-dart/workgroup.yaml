@@ -3,6 +3,9 @@ repos:
 
 emeritus: []
 
+triagers:
+  - cupofcat
+
 approvers: []
 
 maintainers:
