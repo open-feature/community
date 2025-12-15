@@ -73,5 +73,5 @@ Per Helios, voting is entirely private: nobody will know any individual's vote.
 # Results
 
 Voting will close on the February 16th 2026 23:59 UTC. Nominees will be stack ranked.
-If a nominee becomes ineligible, the election committee will skip those nominees and pick the nominee with the next-highest score.
+If a nominee becomes ineligible, the Governance Committee will skip those nominees and pick the nominee with the next-highest score.
 The exact scores for each candidate will be public.
