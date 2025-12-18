@@ -9,6 +9,9 @@ emeritus:
   - davejohnston
   - skyerus
 
+triagers:
+  - cupofcat
+
 approvers:
   - bbland1
   - beeme1mr

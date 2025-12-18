@@ -8,6 +8,9 @@ emeritus:
   - jenshenneberg
   - bacherfl
 
+triagers:
+  - cupofcat
+
 approvers:
   - arttonoyan
   - chrfwow

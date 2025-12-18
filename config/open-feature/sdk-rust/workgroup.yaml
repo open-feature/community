@@ -6,6 +6,9 @@ repos:
 emeritus:
   - AlexsJones
 
+triagers:
+  - cupofcat
+
 approvers:
   - erenatas
 
