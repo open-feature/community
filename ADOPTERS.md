@@ -13,6 +13,7 @@ A non-exhaustive, alphabetized list of organizations that have adopted OpenFeatu
 | [Proofpoint](https://www.proofpoint.com)          |            |       |
 | [Redpanda](https://www.redpanda.com)              |            |       |
 | [Schweitzer Engineering Labs](https://selinc.com) |            |       |
+| [SCT Software](https://sctsoftware.com)           |            |       |
 | [Tapico](https://tapico.io)                       |            |       |
 | [Utility Warehouse](https://uw.co.uk)             |            |       |
 | [Virtru](https://www.virtru.com)                  |            |       |
