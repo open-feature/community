@@ -261,6 +261,8 @@ repos:
   #   has_wiki: <true|false> - defaults to false
   .github:
     description: This repository stores various defaults for the GitHub organization
+  action:
+    description: GitHub Action for OpenFeature
   angular-test-app:
   cli:
     description: OpenFeature’s official command-line tool
