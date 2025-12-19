@@ -18,7 +18,7 @@ We highly encourage participation in this election cycle to ensure that the comm
 # TL;DR
 
 -   If you've been nominated or are willing to nominate yourself: express your interest in [this issue](https://github.com/open-feature/community/issues/512)
--   Vote between Feb 2nd 2026 00:00 UTC and Feb 16th 2026 23:59 UTC via the [voting link](TBD - Helios voting link will be added)
+-   Vote between Feb 2nd 2026 00:00 UTC and Feb 16th 2026 23:59 UTC
 
 # Vacancies
 
