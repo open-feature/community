@@ -1,7 +1,14 @@
 repos:
   - cpp-sdk
+  - cpp-sdk-contrib
+
+triagers:
+  - cupofcat
 
 maintainers:
   - NeaguGeorgiana23
+  - tangenti
+  - oxddr
+  - m-olko
 
 admins: []

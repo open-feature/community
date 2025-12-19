@@ -6,6 +6,9 @@ repos:
 emeritus:
   - technicalpickles
 
+triagers:
+  - cupofcat
+
 approvers:
   - maxveldink
 

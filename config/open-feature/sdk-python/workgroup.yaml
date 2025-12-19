@@ -6,6 +6,9 @@ emeritus:
   - ajhelsby
   - hlipsig
 
+triagers:
+  - cupofcat
+
 approvers: []
 
 maintainers:

@@ -6,6 +6,9 @@ emeritus:
   - alina-v1
   - Calibretto
 
+triagers:
+  - cupofcat
+
 approvers: []
 
 maintainers:

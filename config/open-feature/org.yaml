@@ -60,6 +60,7 @@ members:
   - brian-chebon
   - c4milo
   - Calibretto
+  - carla-was-not-available
   - cdonnellytx
   - chrfwow
   - colebaileygit
@@ -117,8 +118,10 @@ members:
   - luizgribeiro
   - m-olko
   - madhead
+  - marcozabel
   - markphelps
   - matthewelwell
+  - MattIPv4
   - MaximFischuk
   - maxveldink
   - mfranberg
@@ -173,6 +176,7 @@ members:
   - warber
   - WeihanLi
   - wichopy
+  - Zaimwa9
   - znonthedev
   - z4kn4fein
 
@@ -270,6 +274,10 @@ repos:
     description: Tools for Community Management
   cpp-sdk:
     description: C++ SDK for OpenFeature
+    # Keep the repo private until the foundation is set up
+    private: true
+  cpp-sdk-contrib:
+    description: OpenFeature Providers and Hooks for C++
     # Keep the repo private until the foundation is set up
     private: true
   contribfest-eu-24:

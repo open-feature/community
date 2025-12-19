@@ -4,6 +4,9 @@ repos:
 
 emeritus: []
 
+triagers:
+  - cupofcat
+
 approvers: 
   - bencehornak
   
