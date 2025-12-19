@@ -57,7 +57,7 @@ All members of the OpenFeature Organization Members, Approvers, Maintainers will
 
 # Vote
 
-Everyone with voting rights may log into [Helios Voting](TBD - Helios voting link will be added) using their GitHub account.
+Everyone with voting rights may log into Helios Voting using their GitHub account.
 Voting will be approval voting, where each voter may select up to four candidates.
 The four candidates with the most votes win the election.
 The winners should be from different organizations(at most 1/3 from the same organization), therefore only the 2 highest ranked nominees from each organization will be elected.
