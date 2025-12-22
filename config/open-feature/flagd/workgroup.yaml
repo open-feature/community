@@ -6,6 +6,7 @@ repos:
 
 emeritus:
   - AlexsJones
+  - kavindu-dodan
   - odubajDT
   - skyerus
 
@@ -26,7 +27,6 @@ maintainers:
   - bacherfl
   - james-milligan
   - toddbaert
-  - kavindu-dodan
   - lukas-reining
 
 admins: []
