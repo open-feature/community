@@ -9,10 +9,10 @@ emeritus:
 triagers:
   - cupofcat
 
-approvers:
-  - erenatas
+approvers: []
 
 maintainers:
+  - erenatas
   - sheepduke
 
 admins: []
