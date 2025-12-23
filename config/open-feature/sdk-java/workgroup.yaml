@@ -5,6 +5,7 @@ repos:
 emeritus:
   - ajhelsby
   - agentgonzo
+  - Kavindu-Dodan
   - thiyagu06
 
 triagers:
@@ -20,7 +21,6 @@ maintainers:
   - aepfli
   - justinabrahms
   - toddbaert
-  - kavindu-dodan
   - chrfwow
 
 admins: []

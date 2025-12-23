@@ -1,13 +1,13 @@
 repos:
 
-emeritus: []
+emeritus:
+  - Kavindu-Dodan
 
 approvers:
 
 maintainers:
   - thomaspoignant
   - toddbaert
-  - Kavindu-Dodan
   - moredip
   - beeme1mr
   - oxddr

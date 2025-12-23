@@ -6,7 +6,8 @@ repos:
   - spec
   - toc-proposal
 
-emeritus: []
+emeritus:
+  - Kavindu-Dodan
 
 # keep alphabetical
 approvers:
@@ -28,7 +29,6 @@ approvers:
   - josecolella
   - jrydberg
   - justinabrahms
-  - Kavindu-Dodan
   - kinyoklion
   - lukas-reining
   - maxveldink
