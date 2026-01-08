@@ -5,7 +5,7 @@ In February 2026 we will hold the election, with 4 positions being voted for. Th
 ## Current Governance committee members (4 seats open, expiring this year)
 
 - [Johan Rydberg](https://github.com/jrydberg), Spotify (Up for re-election)
-- [Jonathan Norris](https://github.com/jonathannorris), DevCycle (Up for re-election)
+- [Jonathan Norris](https://github.com/jonathannorris), DevCycle (Looking to continue board membership in 2026)
 - [Weyert de Boer](https://github.com/weyert), FNZ (Looking to continue board membership in 2026)
 - [Alois Reitbauer](https://github.com/AloisReitbauer), Dynatrace (Stepping down in 2026)
 
