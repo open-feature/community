@@ -19,7 +19,7 @@ In February 2026 we will hold the election, with 4 positions being voted for. Th
 
 In alphabetical order:
 
-- TBC
+- [Aaron Silverman](https://github.com/aarsilv), Datadog (Leading OpenFeature-first feature flags at Datadog, informed by flagging and experimentation lessons from [Eppo](https://www.geteppo.com/))
 
 <!--
 ### Candidate Name
