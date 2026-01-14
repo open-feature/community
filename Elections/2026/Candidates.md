@@ -19,7 +19,10 @@ In February 2026 we will hold the election, with 4 positions being voted for. Th
 
 In alphabetical order:
 
-- [Aaron Silverman](https://github.com/aarsilv), Datadog (Leading OpenFeature-first feature flags at Datadog, informed by flagging and experimentation lessons from [Eppo](https://www.geteppo.com/))
+### Aaron Silverman
+- Company: Datadog
+- GitHub: [aarsilv](https://github.com/aarsilv)
+- Description: Engineering Manager for Feature Flags at Datadog following Datadog’s acquisition of Eppo. Leading the development of Datadog’s OpenFeature-first feature flagging platform. Passionate about experimentation and the intersection of feature flags, A/B testing, and canary rollouts. Excited to bring an experimentation-focused perspective to OpenFeature and help apply real-world learnings from Eppo’s customer base.
 
 <!--
 ### Candidate Name
