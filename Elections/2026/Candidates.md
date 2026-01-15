@@ -28,6 +28,11 @@ In alphabetical order:
 - Description: Description of candidate
 -->
 
+### André Silva
+- Company: LexisNexis Risk Solutions
+- GitHub: [askpt](https://github.com/askpt)
+- Description: As a maintainer of the .NET SDK and participant in the OpenTelemetry Semantic Conventions SIG, I've been deeply involved in both technical development and cross-project collaboration. I've seen firsthand the challenges enterprises face when adopting feature flagging standards, which drives my passion for making OpenFeature more accessible and practical for real-world use cases. Beyond code contributions, I'm committed to growing our community through public speaking and sharing knowledge through blog posts.
+
 ### Thomas Poignant
 - Company: Gens de Confiance
 - GitHub: [thomaspoignant](https://github.com/thomaspoignant)
