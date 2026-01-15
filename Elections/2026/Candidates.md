@@ -30,6 +30,17 @@ In alphabetical order:
 - GitHub: [username](https://github.com/username)
 - Description: Description of candidate
 -->
+<!--
+### Candidate Name
+- Company: Company Name
+- GitHub: [username](https://github.com/username)
+- Description: Description of candidate
+-->
+
+### Aaron Silverman
+- Company: Datadog
+- GitHub: [aarsilv](https://github.com/aarsilv)
+- Description: Engineering Manager for Feature Flags at Datadog following Datadog’s acquisition of Eppo. Leading the development of Datadog’s OpenFeature-first feature flagging platform. Passionate about experimentation and the intersection of feature flags, A/B testing, and canary rollouts. Excited to bring an experimentation-focused perspective to OpenFeature and help apply real-world learnings from Eppo’s customer base.
 
 ### Thomas Poignant
 - Company: Gens de Confiance
