@@ -22,8 +22,8 @@ In alphabetical order:
 - TBC
 
 <!--
-### Candidate Name
-- Company: Company Name
-- GitHub: [username](https://github.com/username)
-- Description: Description of candidate
+### Thomas Poignant
+- Company: Gens de Confiance
+- GitHub: [thomaspoignant](https://github.com/thomaspoignant)
+- Description: Thomas is a seasoned open-source advocate and a long-time member of the OpenFeature Technical Committee (TC). Deeply involved in the project’s governance and evolution, he has spent some effort helping to shape OpenFeature. Beyond standardization, Thomas is the creator and maintainer of GO Feature Flag, an open-source flag management system. His unique position allows him to bridge the gap between high-level specifications and practical implementation, representing the voice of the open-source community in the feature management ecosystem.
 -->
