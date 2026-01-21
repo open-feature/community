@@ -31,6 +31,11 @@ In alphabetical order:
 - GitHub: [aarsilv](https://github.com/aarsilv)
 - Description: Engineering Manager for Feature Flags at Datadog following Datadog’s acquisition of Eppo. Leading the development of Datadog’s OpenFeature-first feature flagging platform. Passionate about experimentation and the intersection of feature flags, A/B testing, and canary rollouts. Excited to bring an experimentation-focused perspective to OpenFeature and help apply real-world learnings from Eppo’s customer base.
 
+### André Silva
+- Company: LexisNexis Risk Solutions
+- GitHub: [askpt](https://github.com/askpt)
+- Description: As a maintainer of the .NET SDK and participant in the OpenTelemetry Semantic Conventions SIG, I've been deeply involved in both technical development and cross-project collaboration. I've seen firsthand the challenges enterprises face when adopting feature flagging standards, which drives my passion for making OpenFeature more accessible and practical for real-world use cases. Beyond code contributions, I'm committed to growing our community through public speaking and sharing knowledge through blog posts.
+
 ### Thomas Poignant
 - Company: Gens de Confiance
 - GitHub: [thomaspoignant](https://github.com/thomaspoignant)
