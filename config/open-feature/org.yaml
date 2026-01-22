@@ -307,6 +307,9 @@ repos:
   flagd-schemas:
     description: Schemas and spec files pertaining to flagd
     homepage: https://buf.build/open-feature/flagd
+  flagd-ofrep-cf-worker:
+    description: Cloudflare Worker for OpenFeature Remote Evaluation Protocol using flagd
+    private: true
   go-sdk:
     description: Go SDK for OpenFeature
   go-sdk-contrib:
