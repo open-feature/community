@@ -3,6 +3,7 @@ repos:
   - flagd-schemas
   - flagd-testbed
   - open-feature-operator
+  - flagd-ofrep-cf-worker
 
 emeritus:
   - AlexsJones
