@@ -5,7 +5,7 @@ In February 2026 we will hold the election, with 4 positions being voted for. Th
 ## Current Governance committee members (4 seats open, expiring this year)
 
 - [Johan Rydberg](https://github.com/jrydberg), Spotify (Up for re-election)
-- [Jonathan Norris](https://github.com/jonathannorris), DevCycle (Looking to continue board membership in 2026)
+- [Jonathan Norris](https://github.com/jonathannorris), DevCycle now Dynatrace (Looking to continue board membership in 2026)
 - [Weyert de Boer](https://github.com/weyert), FNZ (Looking to continue board membership in 2026)
 - [Alois Reitbauer](https://github.com/AloisReitbauer), Dynatrace (Stepping down in 2026)
 
@@ -40,3 +40,8 @@ In alphabetical order:
 - Company: Gens de Confiance
 - GitHub: [thomaspoignant](https://github.com/thomaspoignant)
 - Description: Thomas is a seasoned open-source advocate and a long-time member of the OpenFeature Technical Committee (TC). Deeply involved in the project’s governance and evolution, he has spent some effort helping to shape OpenFeature. Beyond standardization, Thomas is the creator and maintainer of GO Feature Flag, an open-source flag management system. His unique position allows him to bridge the gap between high-level specifications and practical implementation, representing the voice of the open-source community in the feature management ecosystem.
+
+### Jonathan Norris
+- Company: Dynatrace
+- GitHub: [jonathannorris](https://github.com/jonathannorris)
+- Description: After the acquisition of DevCycle by Dynatrace to build an OpenFeature native feature management platform into their core product, I am now a Director of Software Engineering at Dynatrace helping to lead this effort. Previously Co-Founder & CTO of DevCycle and Taplytics, I've spent over twelve years building A/B Testing and Feature Flagging products. As a regular contributor and strong believer in the OpenFeature project, I look forward to continuing to support its accelerating growth as a project.
