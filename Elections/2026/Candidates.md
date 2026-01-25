@@ -45,3 +45,8 @@ In alphabetical order:
 - Company: Dynatrace
 - GitHub: [jonathannorris](https://github.com/jonathannorris)
 - Description: After the acquisition of DevCycle by Dynatrace to build an OpenFeature native feature management platform into their core product, I am now a Director of Software Engineering at Dynatrace helping to lead this effort. Previously Co-Founder & CTO of DevCycle and Taplytics, I've spent over twelve years building A/B Testing and Feature Flagging products. As a regular contributor and strong believer in the OpenFeature project, I look forward to continuing to support its accelerating growth as a project.
+
+### Maksymilian Osowski
+- Company: Google
+- GitHub: [cupofcat](https://github.com/cupofcat)
+- Description: I bring a unique dual perspective to the committee: strategic vision from a decade as a Product Manager (GKE, YouTube, Google Docs), combined with the technical depth of an OpenFeature contributor who recently returned to the Software Engineer role to build Google's OpenFeature-first 1P & 3P platform. Embracing a "chop wood, carry water" philosophy, I contribute to the project through both code and process design. I will apply this blend of enterprise product strategy and hands-on technical expertise to navigate flagd 1.0 readiness, ensure multi-language reliability, and drive sustained community growth.
