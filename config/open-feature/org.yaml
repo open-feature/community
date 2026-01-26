@@ -303,6 +303,9 @@ repos:
     description: A short introduction to the core concepts of OpenFeature
   flagd:
     description: A feature flag daemon with a Unix philosophy
+  flagd-poc-benchmark:
+    description: PoC Benchmarking for flagd and shared evaluation performance
+    private: true
   flagd-testbed:
     description: Shared test harness for flagd SDK testing, with Gherkin tests
   flagd-schemas:
