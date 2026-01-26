@@ -4,6 +4,7 @@ repos:
   - flagd-testbed
   - open-feature-operator
   - flagd-ofrep-cf-worker
+  - flagd-poc-benchmark
 
 emeritus:
   - AlexsJones
