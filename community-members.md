@@ -4,15 +4,15 @@
 
 This is the current Governance Committee, per the Governance Committee Charter, in alphabetical order:
 
-- [Alois Reitbauer](https://github.com/aloisreitbauer), Dynatrace, term: February 1st, 2025 - January 31st 2027
+- [André Silva](https://github.com/askpt), LexisNexis, term: February 1st, 2026 - January 31st 2028
 - [Ben Rometsch](https://github.com/dabeeeenster), Flagsmith, term: February 1st, 2025 - January 31st 2027
+- [Jonathan Norris](https://github.com/jonathannorris), Dynatrace, term: February 1st, 2026 - January 31st 2028
+- [Maks Osowski](https://github.com/cupofcat), Google, term: February 1st, 2026 - January 31st 2028
 - [Michael Beemer](https://github.com/beeme1mr), Dynatrace, term: February 1st, 2025 - January 31st 2027
 - [Pete Hodgson](https://github.com/moredip), Independent, term: February 1st, 2025 - January 31st 2027
-- [Johan Rydberg](https://github.com/jrydberg), Spotify, term: February 1st, 2024 - January 31st 2026
-- [Jonathan Norris](https://github.com/jonathannorris), DevCycle, term: February 1st, 2024 - January 31st 2026
-- [Weyert de Boer](https://github.com/weyert), FNZ, term: February 1st, 2024 - January 31st 2026
+- [Thomas Poignant](https://github.com/thomaspoignant), Gens de Confiance, term: February 1st, 2026 - January 31st 2028
 
-The next election will take place in January 2025.
+The next election will take place in January 2027.
 
 ## Technical Committee
 
@@ -20,7 +20,6 @@ This is the current Technical Committee, per the Technical Committee Charter, in
 
 - [Lukas Reining](https://github.com/lukas-reining), [codecentric](https://www.codecentric.de/)
 - [Ryan Lamb](https://github.com/kinyoklion), [LaunchDarkly](https://github.com/launchdarkly)
-- [Thomas Poignant](https://github.com/thomaspoignant), [Adevinta](https://github.com/adevinta)
 - [Todd Baert](https://github.com/toddbaert), [Dynatrace](https://github.com/Dynatrace)
 
 ## Community Management
