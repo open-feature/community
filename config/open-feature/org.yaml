@@ -13,19 +13,19 @@ admins:
   - openfeaturebot
 
   # governance board
+  - askpt
   - beeme1mr
-  - AloisReitbauer
-  - moredip
+  - cupofcat
   - dabeeeenster
-  - jrydberg
   - jonathannorris
-  - weyert
+  - moredip
+  - thomaspoignant
+
 
   # technical steering committee
   - lukas-reining
   - kinyoklion
   - toddbaert
-  - thomaspoignant
 
 # org member settings - keep alphabetical
 # add yourself here if you're interested in being an org member!
@@ -42,6 +42,7 @@ members:
   - AlexsJones
   - alichka06
   - alina-v1
+  - aloisreitbauer
   - alxckn
   - andrewdmaclean
   - andreyturkov
@@ -50,7 +51,6 @@ members:
   - Arhell
   - ARobertsCollibra
   - arttonoyan
-  - askpt
   - austindrenski
   - bacherfl
   - bbland1
@@ -66,7 +66,6 @@ members:
   - colebaileygit
   - craigpastro
   - cpitstick-latai
-  - cupofcat
   - davejohnston
   - DavidPHirsch
   - DBlanchard88
@@ -178,6 +177,7 @@ members:
   - vpetrusevici
   - warber
   - WeihanLi
+  - weyert
   - wichopy
   - Zaimwa9
   - znonthedev
@@ -204,17 +204,16 @@ teams:
       - lukas-reining
       - kinyoklion
       - toddbaert
-      - thomaspoignant
 
   Governance Board:
     members:
+      - askpt
       - beeme1mr
-      - AloisReitbauer
-      - moredip
+      - cupofcat
       - dabeeeenster
-      - jrydberg
       - jonathannorris
-      - weyert
+      - moredip
+      - thomaspoignant
 
   Interested Parties:
     description: Group for members of https://github.com/openfeatureflags/governance/blob/main/interested-parties.md
