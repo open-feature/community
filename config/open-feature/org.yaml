@@ -276,8 +276,6 @@ repos:
     description: Tools for Community Management
   cpp-sdk:
     description: C++ SDK for OpenFeature
-    # Keep the repo private until the foundation is set up
-    private: true
   cpp-sdk-contrib:
     description: OpenFeature Providers and Hooks for C++
     # Keep the repo private until the foundation is set up
