@@ -206,6 +206,39 @@ Process of becoming a maintainer:
 1. The nominee will add a comment to the PR testifying that they agree to all requirements of becoming a Maintainer.
 1. A majority of the current Maintainers must then approve the PR.
 
+## Global Maintainer
+
+Global Maintainers have  **broad access** across all repositories to facilitate project-wide maintainership and to bypass normal checks and workflows in break-glass situations.
+Unlike the technical committee, global maintainers do not set policy, but otherwise have the same permissions.
+They oversee the health of the entire project and help facilitate cross-language and cross-repository collaboration.
+Frequently, members are granted this permission after reaching `maintainer` in numerous repositories.
+This role is reserved for contributors who have demonstrated exceptional dedication and capability across multiple areas of the project.
+
+- **Requirements**:
+  - Must have been a maintainer in at least one sub-project for 6 months
+  - Significant contributions across multiple repositories and programming languages
+  - Demonstrated ability to collaborate with and mentor contributors across the community
+  - Nominated by an existing Global Maintainer, a majority of sub-project maintainers, or the TSC.
+  - With no objections from other Global Maintainers or TSC members
+
+- **Responsibilities and privileges**:
+  - Oversee all repositories and their maintainers
+  - Provide guidance on cross-repository technical decisions and priorities
+  - Elevated permissions for managing repositories, but **not the organization**
+  - Represent the OpenFeature project at the highest level (e.g., CNCF meetings, conferences)
+  - Mentor maintainers and contributors
+  - Drive the project's long-term vision and strategy
+
+### Becoming a Global Maintainer
+
+1. An existing Global Maintainer or a sub-project maintainers nominates a candidate by opening a PR to update the [Community Configuration](https://github.com/open-feature/community/config/).
+2. The nominee must accept the nomination by commenting on the PR and agreeing to the responsibilities.
+3. The following approvals are required:
+   - All current Global Maintainers and TSC members must approve the pull request, **OR**  
+   - A majority of Global Maintainers and TSC members must approve the pull request, with no objections from any other Global Maintainer or TSC member by requesting changes.
+4. The nominee is granted Global Maintainer status after the PR is merged and permissions are updated.
+
+
 ## Inactivity
 
 It is important for contributors to be and stay active to set an example and show commitment to the project. Inactivity is harmful to the project as it may lead to unexpected delays, contributor attrition, and a lost of trust in the project.
