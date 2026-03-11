@@ -1,5 +1,6 @@
 
 repos:
+  - flagd-evaluator
   - rust-sdk
   - rust-sdk-contrib
 

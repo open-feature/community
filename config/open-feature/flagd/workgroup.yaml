@@ -1,5 +1,6 @@
 repos:
   - flagd
+  - flagd-evaluator
   - flagd-schemas
   - flagd-testbed
   - open-feature-operator
