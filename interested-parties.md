@@ -81,6 +81,7 @@ Everyone is also welcome to [participate](https://openfeature.dev/community/cont
 | Tim Glaser          | PostHog         |                                                                         | [timgl](https://github.com/timgl)                             | N/A                                               |
 | Todd Baert          | Dynatrace       | ISC2                                                                    | [toddbaert](https://github.com/toddbaert)                     | N/A                                               |
 | Tom Carrio          | Skillshare      |                                                                         | [tcarrio](https://github.com/tcarrio)                         | [tcarrio](https://gitlab.com/tcarrio)             |
+| Tyler Potter        | Datadog, Fluxon |                                                                         | [typotter](https://github.com/typotter)                       | N/A                                               |
 | Vic Vuci            | DevCycle        | Taplytics                                                               | [vicv](https://github.com/vicv)                               | [vicv](https://gitlab.com/vicv)                   |
 | Vitor Vasconcellos | MercadoLibre | OpenTelemetry | [vitorvasc](https://github.com/vitorvasc) | |
 | Weyert de Boer      | FNZ             | Opentelemetry, OpenSLO                                                  | [weyert](https://github.com/weyert)                           |
@@ -101,6 +102,7 @@ List of companies, organizations, foundations and other groups that declared int
 | Cisco           | [opensource.cisco.com](https://opensource.cisco.com/)                  | `augustus at cisco.com`                                                                       | N/A                         |
 | CloudBees       | [cloudbees.com](https://www.cloudbees.com/products/feature-management) | [Contact CloudBees support](https://www.cloudbees.com/products/feature-management/contact-us) | N/A                         |
 | ConfigCat       | [configcat.com](https://configcat.com/)                                | `opensource at configcat.com`                                                                 | N/A                         |
+| Datadog         | [datadoghq.com](https://www.datadoghq.com/)                            | `opensource at datadoghq.com`                                                                 | N/A                         |
 | DevCycle        | [devcycle.com](https://devcycle.com/)                                  | `support at devcycle.com`                                                                     | N/A                         |
 | Dynatrace       | [dynatrace.com](https://www.dynatrace.com/)                            | `opensource at dynatrace.com`                                                                 | N/A                         |
 | eBay            | [ebay.com](https://ebay.com)                                           | `opensource at ebay.com`                                                                      | N/A                         |
