@@ -9,6 +9,7 @@ triagers:
 
 approvers: 
   - bencehornak
+  - typotter
   
 maintainers:
   - fabriziodemaria
