@@ -378,6 +378,8 @@ repos:
   rust-sdk:
   rust-sdk-contrib:
     description: Community maintained OpenFeature Providers and Hooks for Rust
+  slidev-open-feature:
+    description: Community Slidev template for OpenFeature presentations
   spec:
     description: OpenFeature specification
   swift-sdk:
