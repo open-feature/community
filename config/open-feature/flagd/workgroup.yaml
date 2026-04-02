@@ -13,6 +13,9 @@ emeritus:
   - odubajDT
   - skyerus
 
+triagers:
+  - leakonvalinka
+
 approvers:
   - aepfli
   - agardnerIT
