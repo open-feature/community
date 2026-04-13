@@ -37,3 +37,12 @@ Various layouts and versions are available including:
 ## Font
 
 The font used in the logo is [Poppins](https://fonts.google.com/specimen/Poppins) and the stylized font on the website is [Architects Daughter](https://fonts.google.com/specimen/Architects+Daughter). Both fonts are licensed under the [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).
+
+## Presentation templates
+
+Branded presentation templates are available for community members preparing talks about OpenFeature:
+
+- [OpenFeature Google Slides template](https://docs.google.com/presentation/d/1-EdaNQHYf70LcVjeBq-B5AaL2a55erCS5XdBugAN1Y8) - make a copy and customize for your talk
+- [OpenFeature Slidev theme](https://github.com/open-feature/slidev-open-feature) (`@openfeature/slidev-theme-open-feature`) - a community [Slidev](https://sli.dev/) theme with branded layouts, colors, and typography
+
+For past presentations and more resources, see the [Presentations](./presentations.md) page.
