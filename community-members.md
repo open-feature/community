@@ -21,6 +21,7 @@ This is the current Technical Committee, per the Technical Committee Charter, in
 - [Lukas Reining](https://github.com/lukas-reining), [codecentric](https://www.codecentric.de/)
 - [Ryan Lamb](https://github.com/kinyoklion), [LaunchDarkly](https://github.com/launchdarkly)
 - [Todd Baert](https://github.com/toddbaert), [Dynatrace](https://github.com/Dynatrace)
+- [Nicklas Lundin](https://github.com/nicklasl), [Spotify](https://github.com/spotify/)
 
 ## Community Management
 
