@@ -43,6 +43,6 @@ The font used in the logo is [Poppins](https://fonts.google.com/specimen/Poppins
 Branded presentation templates are available for community members preparing talks about OpenFeature:
 
 - [OpenFeature Google Slides template](https://docs.google.com/presentation/d/1-EdaNQHYf70LcVjeBq-B5AaL2a55erCS5XdBugAN1Y8) - make a copy and customize for your talk
-- [OpenFeature Slidev theme](https://github.com/open-feature/slidev-open-feature) (`@openfeature/slidev-theme-open-feature`) - a community [Slidev](https://sli.dev/) theme with branded layouts, colors, and typography
+- [OpenFeature Slidev theme](https://github.com/open-feature/slidev-open-feature) - a community [Slidev](https://sli.dev/) theme (@openfeature/slidev-theme-open-feature) with branded layouts, colors, and typography
 
 For past presentations and more resources, see the [Presentations](./presentations.md) page.
