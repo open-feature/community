@@ -28,10 +28,9 @@ Various layouts and versions are available including:
 
 Use this icon variant for places where you need support for both dark and light modes but cannot swap icon variants (for example, Slack emoji).
 
-| Type | Asset |
-| ---- | ----- |
-| SVG  | ![svg](./assets/logo/icon/dual/openfeature-icon-dual.svg) |
-| PNG  | ![png](./assets/logo/icon/dual/openfeature-icon-dual.png) |
+| SVG | PNG |
+| --- | --- |
+| ![svg](./assets/logo/icon/dual/openfeature-icon-dual.svg) | ![png](./assets/logo/icon/dual/openfeature-icon-dual.png) |
 
 ## Colors
 
