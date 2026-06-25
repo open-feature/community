@@ -30,7 +30,7 @@ Use this icon variant for places where you need support for both dark and light 
 
 | SVG | PNG |
 | --- | --- |
-| ![svg](./assets/logo/icon/dual/openfeature-icon-dual.svg) | ![png](./assets/logo/icon/dual/openfeature-icon-dual.png) |
+| <img src="./assets/logo/icon/dual/openfeature-icon-dual.svg" alt="OpenFeature dual-mode SVG icon" width="128" /> | <img src="./assets/logo/icon/dual/openfeature-icon-dual.png" alt="OpenFeature dual-mode PNG icon" width="128" /> |
 
 ## Colors
 
