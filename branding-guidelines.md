@@ -24,6 +24,14 @@ Various layouts and versions are available including:
 | Stacked    | ![png](./assets/logo/stacked/black/openfeature-stacked-black.png)       | ![png](./assets/logo/stacked/white/openfeature-stacked-white.png)       |
 | Icon       | ![png](./assets/logo/icon/black/openfeature-icon-black.png)             | ![png](./assets/logo/icon/white/openfeature-icon-white.png)             |
 
+### Dual-mode icon (fixed-background surfaces)
+
+Use this icon variant for places where you need support for both dark and light modes but cannot swap icon variants (for example, Slack emoji).
+
+| SVG | PNG |
+| --- | --- |
+| <img src="./assets/logo/icon/dual/openfeature-icon-dual.svg" alt="OpenFeature dual-mode SVG icon" width="128" /> | <img src="./assets/logo/icon/dual/openfeature-icon-dual.png" alt="OpenFeature dual-mode PNG icon" width="128" /> |
+
 ## Colors
 
 | Color Name   | Sample                                                       | Hex       |
