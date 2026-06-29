@@ -35,12 +35,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 60
-    # Gate the job by environment based on event:
-    # - PR runs use `peribolos-verify` (read-only token, any branch).
-    # - Push / cron runs use `peribolos-apply` (admin:org token, main only).
+    # Gate the job by environment based on ref:
+    # - Runs on main use `peribolos-apply` (admin:org token, main only).
+    # - All other refs (PRs) use `peribolos-verify` (read-only token, any branch).
     # The secret name (PERIBOLOS_GH_TOKEN) is the same in both environments;
     # GitHub resolves it to whichever value the gating environment holds.
-    environment: ${{ github.event_name == 'pull_request' && 'peribolos-verify' || 'peribolos-apply' }}
+    environment: ${{ github.ref == 'refs/heads/main' && 'peribolos-apply' || 'peribolos-verify' }}
     steps:
       - name: Checkout code
         uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
