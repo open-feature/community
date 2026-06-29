@@ -1,7 +1,5 @@
 # Community Configuration
 
-<!-- temp: trigger peribolos workflow on PR #555 to validate runtime-build + retry; remove before merge -->
-
 As handling permissions, assignments, etc. gets more and more complicated, the bigger a community gets,
 we decided to opt-in for a GitOps approach for community management.
 
