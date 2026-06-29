@@ -14,6 +14,10 @@ on:
 
 env:
   PERIBOLOS_ARGS: "--fix-org --fix-org-members --fix-repos --fix-team-members --fix-teams --fix-team-repos --maximum-removal-delta=1 --github-allowed-burst=300 --github-hourly-tokens=1000 --allow-repo-archival"
+  # Pinned commit on kubernetes-sigs/prow main (no tagged releases exist).
+  # Bump by editing this line; the cache key includes the SHA so a new build is
+  # triggered automatically. See https://github.com/kubernetes-sigs/prow.
+  PROW_PERIBOLOS_REF: "2b5fea27a177c767160452ba75dba978a88d8d63"
 
 jobs:
   build:
@@ -28,14 +32,48 @@ jobs:
       - name: Preparing credentials
         run: echo ${{ secrets.PERIBOLOS_GH_TOKEN }} >> github-token # a secret with the user token to be used for execution
 
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.25'
+
+      - name: Cache Go modules and build
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/go/pkg/mod
+            ~/.cache/go-build
+          key: peribolos-${{ env.PROW_PERIBOLOS_REF }}-${{ runner.os }}
+
+      - name: Install peribolos
+        run: go install sigs.k8s.io/prow/cmd/peribolos@${{ env.PROW_PERIBOLOS_REF }}
+
       - name: Run Peribolos Configuration Verification
         if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
-        uses: docker://ghcr.io/dynatrace-innovationlab/peribolos:v0
-        with:
-          args: ${{ env.PERIBOLOS_ARGS }} --github-token-path github-token --config-path config/peribolos.yaml
+        run: |
+          for i in 1 2 3; do
+            echo "::group::peribolos verify attempt $i/3"
+            if peribolos $PERIBOLOS_ARGS --github-token-path github-token --config-path config/peribolos.yaml; then
+              echo "::endgroup::"
+              exit 0
+            fi
+            echo "::endgroup::"
+            echo "attempt $i/3 failed"
+          done
+          echo "peribolos verify failed after 3 attempts"
+          exit 1
 
       - name: Apply Peribolos Configuration
         if: github.event_name != 'pull_request'
-        uses: docker://ghcr.io/dynatrace-innovationlab/peribolos:v0
-        with:
-          args: ${{ env.PERIBOLOS_ARGS }} --github-token-path github-token --config-path config/peribolos.yaml --confirm
+        run: |
+          for i in 1 2 3; do
+            echo "::group::peribolos apply attempt $i/3"
+            if peribolos $PERIBOLOS_ARGS --github-token-path github-token --config-path config/peribolos.yaml --confirm; then
+              echo "::endgroup::"
+              exit 0
+            fi
+            echo "::endgroup::"
+            echo "attempt $i/3 failed"
+          done
+          echo "peribolos apply failed after 3 attempts"
+          exit 1
