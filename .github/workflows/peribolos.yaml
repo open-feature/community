@@ -35,6 +35,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 60
+    # Gate the job by environment based on event:
+    # - PR runs use `peribolos-verify` (read-only token, any branch).
+    # - Push / cron runs use `peribolos-apply` (admin:org token, main only).
+    # The secret name (PERIBOLOS_GH_TOKEN) is the same in both environments;
+    # GitHub resolves it to whichever value the gating environment holds.
+    environment: ${{ github.event_name == 'pull_request' && 'peribolos-verify' || 'peribolos-apply' }}
     steps:
       - name: Checkout code
         uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
@@ -55,14 +61,6 @@ jobs:
         uses: actions/setup-go@40f1582b2485089dde7abd97c1529aa768e1baff # v5.6.0
         with:
           go-version: '1.25'
-
-      - name: Cache Go modules
-        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
-        with:
-          # Only cache modules, not built binaries. Reduces blast radius if the
-          # cache namespace is ever poisoned by a malicious PR run.
-          path: ~/go/pkg/mod
-          key: peribolos-mod-${{ env.PROW_PERIBOLOS_REF }}-${{ runner.os }}
 
       - name: Install peribolos
         run: go install "sigs.k8s.io/prow/cmd/peribolos@${PROW_PERIBOLOS_REF}"
