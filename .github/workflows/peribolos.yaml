@@ -9,8 +9,20 @@ on:
     paths:
       - 'tools/**'
       - 'config/**'
+      - '.github/workflows/peribolos.yaml'
   schedule:
     - cron: "0 0 * * *"
+
+# This workflow uses the admin:org-scoped PERIBOLOS_GH_TOKEN secret. Keep
+# permissions minimal: we never need the default GITHUB_TOKEN for anything.
+permissions:
+  contents: read
+
+# Avoid concurrent runs that could fight over org state. Don't cancel a
+# running apply just because a new push arrived; let it finish.
+concurrency:
+  group: peribolos
+  cancel-in-progress: false
 
 env:
   PERIBOLOS_ARGS: "--fix-org --fix-org-members --fix-repos --fix-team-members --fix-teams --fix-team-repos --maximum-removal-delta=1 --github-allowed-burst=300 --github-hourly-tokens=1000 --allow-repo-archival"
@@ -22,38 +34,45 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - name: Checkout code
-        uses: actions/checkout@v6
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
+        with:
+          persist-credentials: false
 
       - name: Generating Peribolos configuration
         uses: docker://ghcr.io/open-feature/community-tooling:v0
 
       - name: Preparing credentials
-        run: echo ${{ secrets.PERIBOLOS_GH_TOKEN }} >> github-token # a secret with the user token to be used for execution
+        env:
+          PERIBOLOS_GH_TOKEN: ${{ secrets.PERIBOLOS_GH_TOKEN }}
+        run: |
+          umask 077
+          printf '%s' "$PERIBOLOS_GH_TOKEN" > "$RUNNER_TEMP/github-token"
 
       - name: Set up Go
-        uses: actions/setup-go@v5
+        uses: actions/setup-go@40f1582b2485089dde7abd97c1529aa768e1baff # v5.6.0
         with:
           go-version: '1.25'
 
-      - name: Cache Go modules and build
-        uses: actions/cache@v4
+      - name: Cache Go modules
+        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
         with:
-          path: |
-            ~/go/pkg/mod
-            ~/.cache/go-build
-          key: peribolos-${{ env.PROW_PERIBOLOS_REF }}-${{ runner.os }}
+          # Only cache modules, not built binaries. Reduces blast radius if the
+          # cache namespace is ever poisoned by a malicious PR run.
+          path: ~/go/pkg/mod
+          key: peribolos-mod-${{ env.PROW_PERIBOLOS_REF }}-${{ runner.os }}
 
       - name: Install peribolos
-        run: go install sigs.k8s.io/prow/cmd/peribolos@${{ env.PROW_PERIBOLOS_REF }}
+        run: go install "sigs.k8s.io/prow/cmd/peribolos@${PROW_PERIBOLOS_REF}"
 
       - name: Run Peribolos Configuration Verification
         if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
         run: |
           for i in 1 2 3; do
             echo "::group::peribolos verify attempt $i/3"
-            if peribolos $PERIBOLOS_ARGS --github-token-path github-token --config-path config/peribolos.yaml; then
+            if peribolos $PERIBOLOS_ARGS --github-token-path "$RUNNER_TEMP/github-token" --config-path config/peribolos.yaml; then
               echo "::endgroup::"
               exit 0
             fi
@@ -68,7 +87,7 @@ jobs:
         run: |
           for i in 1 2 3; do
             echo "::group::peribolos apply attempt $i/3"
-            if peribolos $PERIBOLOS_ARGS --github-token-path github-token --config-path config/peribolos.yaml --confirm; then
+            if peribolos $PERIBOLOS_ARGS --github-token-path "$RUNNER_TEMP/github-token" --config-path config/peribolos.yaml --confirm; then
               echo "::endgroup::"
               exit 0
             fi
@@ -77,3 +96,7 @@ jobs:
           done
           echo "peribolos apply failed after 3 attempts"
           exit 1
+
+      - name: Clean up credentials
+        if: always()
+        run: rm -f "$RUNNER_TEMP/github-token"
