@@ -18,11 +18,11 @@ on:
 permissions:
   contents: read
 
-# Avoid concurrent runs that could fight over org state. Don't cancel a
-# running apply just because a new push arrived; let it finish.
+# Scope concurrency per ref so PR verify runs don't queue against the apply
+# on main. Newest apply wins; peribolos is idempotent against current config.
 concurrency:
-  group: peribolos
-  cancel-in-progress: false
+  group: peribolos-${{ github.ref }}
+  cancel-in-progress: true
 
 env:
   PERIBOLOS_ARGS: "--fix-org --fix-org-members --fix-repos --fix-team-members --fix-teams --fix-team-repos --maximum-removal-delta=1 --github-allowed-burst=300 --github-hourly-tokens=1000 --allow-repo-archival"
