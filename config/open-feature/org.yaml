@@ -346,6 +346,7 @@ repos:
     description: A focal point for OpenFeature research, proposals and requests
       for comments
     has_projects: false
+    archived: true
   open-feature-operator:
     description: A Kubernetes feature flag operator
   open-feature.github.io:
