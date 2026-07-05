@@ -1,5 +1,4 @@
 repos:
-  - ofep
   - community
   - community-tooling
   - .github
