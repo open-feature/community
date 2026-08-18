@@ -122,6 +122,7 @@ List of companies, organizations, foundations and other groups that declared int
 | Split.io        | [split.io](https://split.io/)                                          | `support at split.io`                                                                         | N/A                         |
 | Statsig         | [Statsig](https://www.statsig.com)                                     | `suppport at statsig.com`                                                                     | N/A                         |
 | Storytel        | [Storytel](https://www.storytel.com)                                   | `support.se at storytel.com`                                                                  | N/A                         |
+| Tombstone       | [github.com/sairam0424/Tombstone](https://github.com/sairam0424/Tombstone) | `support at tombstone.dev`                                                                   | N/A                         |
 | Unleash         | [Unleash](https://www.getunleash.io/)                                  | `contact at getunleash.io`                                                                    | N/A                         |
 | VWO             | [VWO](https://vwo.com/)                                                | `support at vwo.com`                                                                          | N/A                         |
 
