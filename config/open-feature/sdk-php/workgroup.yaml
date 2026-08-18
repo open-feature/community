@@ -8,7 +8,8 @@ emeritus: []
 triagers:
   - cupofcat
 
-approvers: []
+approvers:
+  - JamieSinn
 
 maintainers:
   - tcarrio
