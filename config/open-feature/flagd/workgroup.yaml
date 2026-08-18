@@ -13,8 +13,7 @@ emeritus:
   - odubajDT
   - skyerus
 
-triagers:
-  - leakonvalinka
+triagers: []
 
 approvers:
   - aepfli
@@ -24,6 +23,7 @@ approvers:
   - cupofcat
   - craigpastro
   - justinabrahms
+  - leakonvalinka
   - tangenti
   - tcarrio
   - thisthat
