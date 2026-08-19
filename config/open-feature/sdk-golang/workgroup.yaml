@@ -16,10 +16,10 @@ triagers:
 approvers:
   - bbland1
   - beeme1mr
-  - erka
   - thisthat
 
 maintainers:
+  - erka
   - james-milligan
   - sahidvelji
   - thomaspoignant
