@@ -23,6 +23,7 @@ admins:
 
 
   # technical steering committee
+  - aepfli
   - lukas-reining
   - kinyoklion
   - nicklasl
@@ -34,7 +35,6 @@ members:
   - 4gn3s
   - ABC2015
   - adams85
-  - aepfli
   - agardnerIT
   - agentgonzo
   - ajhelsby
@@ -206,6 +206,7 @@ teams:
 
   Technical Steering Committee:
     members:
+      - aepfli
       - lukas-reining
       - kinyoklion
       - nicklasl
