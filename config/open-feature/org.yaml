@@ -287,6 +287,7 @@ repos:
     description: OpenFeature Providers and Hooks for C++
   contribfest-eu-24:
   dart-sdk:
+    description: OpenFeature SDKs for Dart server and client applications, including Flutter.
   demo-repository:
     description: A code repository designed to show the best GitHub has to offer.
     private: true
