@@ -286,7 +286,7 @@ repos:
   cpp-sdk-contrib:
     description: OpenFeature Providers and Hooks for C++
   contribfest-eu-24:
-  dart-server-sdk:
+  dart-sdk:
   demo-repository:
     description: A code repository designed to show the best GitHub has to offer.
     private: true
