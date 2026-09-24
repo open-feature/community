@@ -2,7 +2,8 @@ repos:
   - kotlin-sdk
   - kotlin-sdk-contrib
 
-emeritus: []
+emeritus: 
+  - nickybondarenko
 
 triagers:
   - cupofcat
@@ -14,7 +15,6 @@ approvers:
 maintainers:
   - fabriziodemaria
   - nicklasl
-  - nickybondarenko
   - toddbaert
   - vahidlazio
 
