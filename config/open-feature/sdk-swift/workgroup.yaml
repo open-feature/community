@@ -5,6 +5,8 @@ repos:
 emeritus:
   - alina-v1
   - Calibretto
+  - nickybondarenko
+  - mfranberg
 
 triagers:
   - cupofcat
@@ -13,10 +15,8 @@ approvers: []
 
 maintainers:
   - fabriziodemaria
-  - mfranberg
   - toddbaert
   - nicklasl
-  - nickybondarenko
   - vahidlazio
 
 admins: []
