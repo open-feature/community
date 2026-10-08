@@ -2,8 +2,9 @@ repos:
 
 emeritus:
   - Kavindu-Dodan
+  - kamil-nowosad
 
-approvers:
+approvers: []
 
 maintainers:
   - thomaspoignant
@@ -11,6 +12,5 @@ maintainers:
   - moredip
   - beeme1mr
   - oxddr
-  - kamil-nowosad
  
 admins: []
