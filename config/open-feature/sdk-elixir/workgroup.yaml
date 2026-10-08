@@ -2,13 +2,13 @@ repos:
   - elixir-sdk
   - elixir-sdk-contrib
 
-emeritus: []
+emeritus:
+  - olunusib
 
 triagers:
   - cupofcat
 
-approvers:
-  - olunusib
+approvers: []
 
 maintainers:
   - ejscunha

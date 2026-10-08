@@ -2,12 +2,12 @@ repos:
   - cli
   - action
 
-emeritus: []
+emeritus:
+  - anghelflorinm
 
 approvers: []
 
 maintainers:
-  - anghelflorinm
   - kriscoleman
   - beeme1mr
 

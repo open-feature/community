@@ -7,11 +7,15 @@ repos:
 
 emeritus:
   - Kavindu-Dodan
+  - agentgonzo
+  - InTheCloudDan
+  - jrydberg
+  - staceypotter
+  - thiyagu06
 
 # keep alphabetical
 approvers:
   - aepfli
-  - agentgonzo
   - alexandraoberaigner
   - AlexsJones
   - AloisReitbauer
@@ -22,20 +26,16 @@ approvers:
   - davejohnston
   - fabriziodemaria
   - federicobond
-  - InTheCloudDan
   - james-milligan
   - jonathannorris
   - josecolella
-  - jrydberg
   - justinabrahms
   - kinyoklion
   - lukas-reining
   - maxveldink
   - moredip
   - nicklasl
-  - staceypotter
   - tcarrio
-  - thiyagu06
   - thomaspoignant
   - toddbaert
   - weyert

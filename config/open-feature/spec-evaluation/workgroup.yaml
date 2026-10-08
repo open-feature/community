@@ -4,15 +4,15 @@ repos:
 emeritus:
   - Kavindu-Dodan
   - oxddr
+  - kamil-nowosad
 
-approvers:
+approvers: []
 
 maintainers:
   - thomaspoignant
   - toddbaert
   - fabriziodemaria
   - nicklasl
-  - kamil-nowosad
   - jonathannorris
   - lukas-reining
 
