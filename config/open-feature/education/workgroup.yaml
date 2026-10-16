@@ -6,14 +6,14 @@ repos:
   - five-minutes-to-feature-flags
   - cloud-native-demo
 
-emeritus: []
+emeritus:
+  - andrewdmaclean
+  - agardnerIT
 
 approvers:
   - justinabrahms
-  - andrewdmaclean
   - beeme1mr
   - toddbaert
-  - agardnerIT
   - moredip
 
 maintainers: []
