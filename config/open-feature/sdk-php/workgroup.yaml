@@ -3,15 +3,15 @@ repos:
   - php-sdk
   - php-sdk-contrib
 
-emeritus: []
+emeritus:
+  - tcarrio
 
 triagers:
   - cupofcat
 
-approvers:
-  - JamieSinn
+approvers: []
 
 maintainers:
-  - tcarrio
+  - JamieSinn
 
 admins: []
