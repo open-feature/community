@@ -10,11 +10,11 @@ emeritus:
 triagers:
   - cupofcat
 
-approvers: []
+approvers:
+  - jbovet
 
 maintainers:
   - erenatas
   - sheepduke
-  - jbovet
 
 admins: []
