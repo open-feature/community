@@ -14,7 +14,8 @@ emeritus:
   - skyerus
   - agardnerIT
 
-triagers: []
+triagers:
+  - jabenedicic
 
 approvers:
   - aepfli
